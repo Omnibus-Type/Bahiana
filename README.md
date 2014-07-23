@@ -42,9 +42,9 @@ This information should be distributed along with the Bahiana fonts and any deri
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
 **26 Dec 2013 (Nicolas Silva) Bahiana v.1.2**
-1. Encoding support:
+- Encoding support:
   - Adobe Latin 3
-2. Improved TTF hint (TTFAutohint 0.97)
+- Improved TTF hint (TTFAutohint 0.97)
 
 **8 jun 2013 (Omnibus-Type) Bahiana v.1.1**
 - Initial release under SIL Open Font License, this release supports the following:  
