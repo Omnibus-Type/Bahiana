@@ -88,12 +88,13 @@ If you make modifications be sure to add your name (N), email (E), web-address
 **W:** http://www.omnibus-type.com  
 **D:** Designer
 
+**N:** **Pablo Cosgaya**  
+**E:** omnibus.type@gmail.com  
+**W:** http://www.omnibus-type.com  
+**D:** Designer
+
 **N:** **Nicolas Silva**  
 **E:** omnibus.type@gmail.com  
 **W:** http://www.omnibus-type.com  
 **D:** Typeface development  
 
-**N:** **Pablo Cosgaya**  
-**E:** omnibus.type@gmail.com  
-**W:** http://www.omnibus-type.com  
-**D:** Designer
