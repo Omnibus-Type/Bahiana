@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Udieresis" format="1">
+  <advance width="310"/>
+  <unicode hex="00DC"/>
+  <outline>
+    <contour>
+      <point x="261" y="710" type="line"/>
+      <point x="176" y="710" type="line"/>
+      <point x="197" y="63" type="line"/>
+      <point x="110" y="69" type="line"/>
+      <point x="110" y="687" type="line"/>
+      <point x="50" y="687" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="217" y="0" type="line" smooth="yes"/>
+      <point x="236" y="0"/>
+      <point x="260" y="21"/>
+      <point x="260" y="40" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="40" y="817" type="line"/>
+      <point x="119" y="817" type="line"/>
+      <point x="123" y="900" type="line"/>
+      <point x="40" y="897" type="line"/>
+    </contour>
+    <contour>
+      <point x="193" y="817" type="line"/>
+      <point x="269" y="820" type="line"/>
+      <point x="269" y="900" type="line"/>
+      <point x="190" y="900" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

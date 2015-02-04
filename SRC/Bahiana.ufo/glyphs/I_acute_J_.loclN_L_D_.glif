@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iacute_J.loclNLD" format="1">
+  <advance width="454"/>
+  <outline>
+    <contour>
+      <point x="133" y="710" type="line"/>
+      <point x="32" y="710" type="line"/>
+      <point x="32" y="664" type="line"/>
+      <point x="50" y="616" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="124" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="400" y="0" type="line"/>
+      <point x="219" y="0" type="line"/>
+      <point x="183" y="172" type="line"/>
+      <point x="262" y="192" type="line"/>
+      <point x="267" y="54" type="line"/>
+      <point x="331" y="49" type="line"/>
+      <point x="331" y="616" type="line"/>
+      <point x="313" y="664" type="line"/>
+      <point x="313" y="710" type="line"/>
+      <point x="409" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="20" y="792" type="line"/>
+      <point x="54" y="768" type="line"/>
+      <point x="150" y="852" type="line"/>
+      <point x="104" y="900" type="line"/>
+    </contour>
+    <contour>
+      <point x="301" y="792" type="line"/>
+      <point x="335" y="768" type="line"/>
+      <point x="431" y="852" type="line"/>
+      <point x="385" y="900" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ucircumflex" format="1">
+  <advance width="310"/>
+  <unicode hex="00DB"/>
+  <outline>
+    <contour>
+      <point x="261" y="710" type="line"/>
+      <point x="176" y="710" type="line"/>
+      <point x="197" y="63" type="line"/>
+      <point x="110" y="69" type="line"/>
+      <point x="110" y="687" type="line"/>
+      <point x="50" y="687" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="217" y="0" type="line" smooth="yes"/>
+      <point x="236" y="0"/>
+      <point x="260" y="21"/>
+      <point x="260" y="40" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="64" y="787" type="line"/>
+      <point x="93" y="768" type="line"/>
+      <point x="158" y="830" type="line"/>
+      <point x="223" y="768" type="line"/>
+      <point x="252" y="787" type="line"/>
+      <point x="178" y="897" type="line"/>
+      <point x="138" y="900" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

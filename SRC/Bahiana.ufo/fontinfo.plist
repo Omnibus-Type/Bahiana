@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>762</integer>
+	<key>capHeight</key>
+	<integer>710</integer>
+	<key>copyright</key>
+	<string>Copyright (c) 2013-2015, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com)</string>
+	<key>descender</key>
+	<integer>-238</integer>
+	<key>familyName</key>
+	<string>Bahiana</string>
+	<key>openTypeHeadCreated</key>
+	<string>2015/02/03 16:01:52</string>
+	<key>openTypeNameDesigner</key>
+	<string>Pablo Cosgaya &amp; Dani Raskovsky</string>
+	<key>openTypeNameLicense</key>
+	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+	<key>openTypeNameLicenseURL</key>
+	<string>http://scripts.sil.org/OFL</string>
+	<key>openTypeNameManufacturer</key>
+	<string>Pablo Cosgaya &amp; Dani Raskovsky</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>http://www.omnibus-type.com/</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Bahiana</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Regular</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>panose</key>
+	<array>
+		<integer>4</integer>
+		<integer>5</integer>
+		<integer>7</integer>
+		<integer>2</integer>
+		<integer>13</integer>
+		<integer>11</integer>
+		<integer>2</integer>
+		<integer>2</integer>
+		<integer>10</integer>
+		<integer>2</integer>
+	</array>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-15</integer>
+		<integer>0</integer>
+		<integer>710</integer>
+		<integer>726</integer>
+		<integer>762</integer>
+		<integer>778</integer>
+	</array>
+	<key>postscriptOtherBlues</key>
+	<array>
+		<integer>-254</integer>
+		<integer>-238</integer>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<integer>94</integer>
+		<integer>53</integer>
+		<integer>65</integer>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<integer>62</integer>
+		<integer>67</integer>
+		<integer>72</integer>
+	</array>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>vendorID</key>
+	<string>OMNI</string>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>4</integer>
+	<key>xHeight</key>
+	<integer>492</integer>
+</dict>
+</plist>

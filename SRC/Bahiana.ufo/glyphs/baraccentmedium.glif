@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="baraccentmedium" format="1">
+  <advance width="363"/>
+  <outline>
+    <contour>
+      <point x="12" y="396" type="line"/>
+      <point x="15" y="338" type="line"/>
+      <point x="351" y="338" type="line"/>
+      <point x="351" y="387" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

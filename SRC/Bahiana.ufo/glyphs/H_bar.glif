@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hbar" format="1">
+  <advance width="325"/>
+  <unicode hex="0126"/>
+  <outline>
+    <contour>
+      <point x="225" y="-20" type="line"/>
+      <point x="290" y="-20" type="line"/>
+      <point x="272" y="522" type="line"/>
+      <point x="325" y="524" type="line"/>
+      <point x="325" y="570" type="line"/>
+      <point x="271" y="570" type="line"/>
+      <point x="269" y="624" type="line"/>
+      <point x="284" y="648" type="line"/>
+      <point x="284" y="690" type="line"/>
+      <point x="197" y="690" type="line"/>
+      <point x="197" y="570" type="line"/>
+      <point x="123" y="570" type="line"/>
+      <point x="123" y="710" type="line"/>
+      <point x="42" y="710" type="line"/>
+      <point x="46" y="570" type="line"/>
+      <point x="0" y="570" type="line"/>
+      <point x="3" y="513" type="line"/>
+      <point x="48" y="514" type="line"/>
+      <point x="65" y="0" type="line"/>
+      <point x="135" y="0" type="line"/>
+      <point x="124" y="317" type="line"/>
+      <point x="204" y="326" type="line"/>
+    </contour>
+    <contour>
+      <point x="123" y="385" type="line"/>
+      <point x="123" y="517" type="line"/>
+      <point x="197" y="519" type="line"/>
+      <point x="197" y="400" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

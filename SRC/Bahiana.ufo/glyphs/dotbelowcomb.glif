@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotbelowcomb" format="1">
+  <advance width="153"/>
+  <unicode hex="0323"/>
+  <outline>
+    <contour>
+      <point x="34" y="802" type="line"/>
+      <point x="123" y="805" type="line"/>
+      <point x="123" y="900" type="line"/>
+      <point x="30" y="900" type="line"/>
+    </contour>
+    <contour>
+      <point x="77" y="0" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

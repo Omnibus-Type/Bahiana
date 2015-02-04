@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eogonek" format="1">
+  <advance width="330"/>
+  <unicode hex="0119"/>
+  <outline>
+    <contour>
+      <point x="269" y="83" type="line"/>
+      <point x="127" y="75" type="line"/>
+      <point x="127" y="362" type="line"/>
+      <point x="269" y="356" type="line"/>
+      <point x="269" y="404" type="line"/>
+      <point x="144" y="427" type="line"/>
+      <point x="144" y="654" type="line"/>
+      <point x="269" y="648" type="line"/>
+      <point x="269" y="710" type="line"/>
+      <point x="55" y="710" type="line"/>
+      <point x="55" y="0" type="line"/>
+      <point x="126" y="0" type="line"/>
+      <point x="78" y="-95" type="line"/>
+      <point x="166" y="-209" type="line"/>
+      <point x="279" y="-146" type="line"/>
+      <point x="263" y="-100" type="line"/>
+      <point x="174" y="-145" type="line"/>
+      <point x="140" y="-83" type="line"/>
+      <point x="166" y="0" type="line"/>
+      <point x="269" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

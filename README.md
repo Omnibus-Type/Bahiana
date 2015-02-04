@@ -5,7 +5,7 @@
 
 Bahiana has rustic, fresh and casual look, as if carved in wood. Its structure is ideal for composing condensed titles and short texts. All signs are uppercase, but has OpenType offers alternative glyphs and programming to avoid repeating equal uppercase or equal numbers. Bahiana offers 490 glyphs and diacritics with support for over 103 Latin languages (including Guarani). Bahiana is a new free font from [Omnibus Type](http://omnibus-type.com/), designed by Daniela Raskovsky and Pablo Cosgaya. 
 
-![Sample of Bahiana.](Bahiana.gif "Bahiana")
+![Sample of Bahiana.](SRC/Bahiana.gif "Bahiana")
 
 To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 
@@ -16,7 +16,7 @@ To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 
 ### License
 
-Copyright (c) 2013-2014, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com) with Reserved Font Name 'Bahiana'.
+Copyright (c) 2013-2015, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com).
 
 Licensed under the [*SIL Open Font License, 1.1*](http://scripts.sil.org/OFL); you may not use this file except in compliance with the License.
 
@@ -40,6 +40,13 @@ This information should be distributed along with the Bahiana fonts and any deri
 * Mac Roman
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
+
+**03 Feb 2015 (Omnibus-Type) Bahiana v.1.4) **  
+- Removed Reserve Font Name from the license
+- fsType Installable Mode
+- Set Panose values
+- Updates CFF and TTF hinting
+- New Verical Metrics
 
 **26 Dec 2013 (Nicolas Silva) Bahiana v.1.2**
 - Encoding support:
