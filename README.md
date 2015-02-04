@@ -41,7 +41,7 @@ This information should be distributed along with the Bahiana fonts and any deri
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
-**03 Feb 2015 (Omnibus-Type) Bahiana v.1.4) **  
+**03 Feb 2015 (Omnibus-Type) Bahiana v.1.4**  
 - Removed Reserve Font Name from the license
 - fsType Installable Mode
 - Set Panose values
