@@ -5,7 +5,7 @@
 
 Bahiana has rustic, fresh and casual look, as if carved in wood. Its structure is ideal for composing condensed titles and short texts. All signs are uppercase, but has OpenType offers alternative glyphs and programming to avoid repeating equal uppercase or equal numbers. Bahiana offers 490 glyphs and diacritics with support for over 103 Latin languages (including Guarani). Bahiana is a new free font from [Omnibus Type](http://omnibus-type.com/), designed by Daniela Raskovsky and Pablo Cosgaya. 
 
-![Sample of Bahiana.](SRC/Bahiana.gif "Bahiana")
+![Sample of Bahiana.](Bahiana.gif "Bahiana")
 
 To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 
