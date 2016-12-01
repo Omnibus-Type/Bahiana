@@ -10,6 +10,9 @@ Bahiana has rustic, fresh and casual look, as if carved in wood. Its structure i
 
 ChangeLog
 
+01 Dec 2016 Bahiana v1.005
+- Updated to latest Google Font spec
+
 03 Feb 2015 Bahiana v.1.4  
 - Removed Reserve Font Name from the license
 - fsType Installable Mode
