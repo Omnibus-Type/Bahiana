@@ -1,4 +1,5 @@
 {
+.appVersion = "944";
 classes = (
 {
 automatic = 1;
@@ -22,97 +23,232 @@ code = "b c cacute ccaron ccedilla ccircumflex cdotaccent d dz dzcaron eth dcaro
 name = Con1;
 },
 {
-code = "fi fl f_f Iacute_J.loclNLD iacute_j.loclNLD Delta Omega mu pi fraction onehalf onethird twothirds onequarter threequarters oneeighth ordfeminine ordmasculine onesuperior twosuperior threesuperior asterisk backslash bullet colon comma ellipsis exclam exclamdown numbersign period periodcentered question questiondown quotedbl quotesingle semicolon slash underscore quotesingle.loclGUA braceleft braceright bracketleft bracketright parenleft parenright emdash endash hyphen softhyphen guillemotleft guillemotright guilsinglleft guilsinglright quotedblbase quotedblleft quotedblright quoteleft quoteright quotesinglbase emspace enspace four-per-emspace space three-per-emspace .notdef florin cent currency dollar euro guarani sterling yen approxequal asciitilde divide divisionslash equal greater greaterequal increment infinity integral less lessequal logicalnot minus multiply notequal partialdiff percent perthousand plus plusminus product radical summation ampersand at bar brokenbar copyright dagger daggerdbl degree paragraph registered section trademark asciicircum lozenge acutecomb brevecomb caroncomb cedillacomb circumflexcomb commaaccent dieresiscomb dotaccentcomb dotbelowcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb apostrophemod acute breve caron cedilla circumflex dieresis dotaccent grave hungarumlaut macron ogonek ring tilde caron.alt acute.loclPLK baraccent baraccentlong baraccentmedium commaaccentinvert dotbelow";
+code = "fi fl f_f Iacute_J.loclNLD iacute_j.loclNLD Delta Omega mu pi fraction onehalf onethird twothirds onequarter threequarters oneeighth ordfeminine ordmasculine onesuperior twosuperior threesuperior asterisk backslash bullet colon comma ellipsis exclam exclamdown numbersign period periodcentered question questiondown quotedbl quotesingle semicolon slash underscore quotesingle.loclGUA braceleft braceright bracketleft bracketright parenleft parenright emdash endash hyphen softhyphen guillemotleft guillemotright guilsinglleft guilsinglright quotedblbase quotedblleft quotedblright quoteleft quoteright quotesinglbase emspace enspace four-per-emspace space three-per-emspace florin cent currency dollar euro guarani sterling yen approxequal asciitilde divide divisionslash equal greater greaterequal increment infinity integral less lessequal logicalnot minus multiply notequal partialdiff percent perthousand plus plusminus product radical summation ampersand at bar brokenbar copyright dagger daggerdbl degree paragraph registered section trademark asciicircum lozenge acutecomb brevecomb caroncomb cedillacomb circumflexcomb commaaccent dieresiscomb dotaccentcomb dotbelowcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb apostrophemod acute breve caron cedilla circumflex dieresis dotaccent grave hungarumlaut macron ogonek ring tilde caron.alt acute.loclPLK baraccent baraccentlong baraccentmedium commaaccentinvert dotbelow";
 name = Etc;
 }
 );
-copyright = "Copyright (c) 2013-2015, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com)";
+copyright = "Copyright 2016 The Bahiana Project Authors (omnibus.type@gmail.com)";
 customParameters = (
-{
-name = openTypeNameLicenseURL;
-value = "http://scripts.sil.org/OFL";
-},
-{
-name = openTypeNameLicense;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
-},
 {
 name = vendorID;
 value = OMNI;
 },
 {
-name = panose;
-value = (
-    4,
-    5,
-    7,
-    2,
-    13,
-    11,
-    2,
-    2,
-    10,
-    2
-);
-},
-{
 name = fsType;
 value = (
 );
+},
+{
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+},
+{
+name = licenseURL;
+value = "http://scripts.sil.org/OFL";
+},
+{
+name = "Disable Last Change";
+value = 1;
+},
+{
+name = "Use Line Breaks";
+value = 1;
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2015-02-04 00:01:52 +0000";
 designer = "Pablo Cosgaya & Dani Raskovsky";
-familyName = "Bahiana";
+designerURL = "http://www.omnibus-type.com/";
+familyName = Bahiana;
 featurePrefixes = (
 {
 automatic = 1;
-code = "languagesystem DFLT dflt;\012languagesystem latn dflt;\012languagesystem grek dflt;\012languagesystem latn TRK;\012languagesystem latn ESP;\012languagesystem latn CAT;\012languagesystem latn MOL;\012languagesystem latn ROM;\012languagesystem latn PLK;\012";
+code = "languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem grek dflt;
+languagesystem latn TRK;
+languagesystem latn ESP;
+languagesystem latn CAT;
+languagesystem latn MOL;
+languagesystem latn ROM;
+languagesystem latn PLK;
+";
 name = Languagesystems;
 }
 );
 features = (
 {
 automatic = 1;
-code = "feature locl;\012feature sups;\012feature frac;\012feature ordn;\012feature calt;\012feature salt;\012feature ss01;";
+code = "feature locl;
+feature sups;
+feature frac;
+feature ordn;
+feature calt;
+feature salt;
+feature ss01;";
 name = aalt;
 },
 {
-code = "script latn;\012language TRK;\012sub i by idotaccent;\012language AZE;\012sub i by idotaccent;\012language ESP;\012sub numbersign quotesingle by quotesingle.loclGUA;\012sub numbersign Y by Y.loclGUA;\012sub numbersign Yacute by Yacute.loclGUA;\012sub numbersign Ycircumflex by Ycircumflex.loclGUA;\012sub numbersign Ydieresis by Ydieresis.loclGUA;\012sub numbersign Ygrave by Ygrave.loclGUA;\012sub numbersign Y tilde by Ytilde.loclGUA;\012sub numbersign tilde Y by Ytilde.loclGUA;\012sub numbersign Y asciitilde by Ytilde.loclGUA;\012sub numbersign asciitilde Y by Ytilde.loclGUA;\012sub numbersign y by y.loclGUA;\012sub numbersign yacute by yacute.loclGUA;\012sub numbersign ycircumflex by ycircumflex.loclGUA;\012sub numbersign ydieresis by ydieresis.loclGUA;\012sub numbersign ygrave by ygrave.loclGUA;\012sub numbersign y tilde by ytilde.loclGUA;\012sub numbersign tilde y by ytilde.loclGUA;\012sub numbersign y asciitilde by ytilde.loclGUA;\012sub numbersign asciitilde y by ytilde.loclGUA;\012sub numbersign dollar [G g] by guarani;\012language CRT;\012sub i by idotaccent;\012language TAT;\012sub i by idotaccent;\012language CAT;\012sub  l' periodcentered' l by ldot;\012sub  L' periodcentered' L by Ldot;\012language KAZ;\012sub i by idotaccent;\012language MOL;\012sub Scedilla by Scommaaccent;\012sub scedilla by scommaaccent;\012sub Tcedilla by Tcommaaccent;\012sub tcedilla by tcommaaccent;\012language ROM;\012sub Scedilla by Scommaaccent;\012sub scedilla by scommaaccent;\012sub Tcedilla by Tcommaaccent;\012sub tcedilla by tcommaaccent;\012language PLK;\012sub Cacute by Cacute.loclPLK;\012sub Nacute by Nacute.loclPLK;\012sub Oacute by Oacute.loclPLK;\012sub Sacute by Sacute.loclPLK;\012sub Zacute by Zacute.loclPLK;\012sub cacute by cacute.loclPLK;\012sub nacute by nacute.loclPLK;\012sub oacute by oacute.loclPLK;\012sub sacute by sacute.loclPLK;\012sub zacute by zacute.loclPLK;\012sub acute by acute.loclPLK;";
+code = "script latn;
+language TRK;
+sub i by idotaccent;
+language AZE;
+sub i by idotaccent;
+language ESP;
+sub numbersign quotesingle by quotesingle.loclGUA;
+sub numbersign Y by Y.loclGUA;
+sub numbersign Yacute by Yacute.loclGUA;
+sub numbersign Ycircumflex by Ycircumflex.loclGUA;
+sub numbersign Ydieresis by Ydieresis.loclGUA;
+sub numbersign Ygrave by Ygrave.loclGUA;
+sub numbersign Y tilde by Ytilde.loclGUA;
+sub numbersign tilde Y by Ytilde.loclGUA;
+sub numbersign Y asciitilde by Ytilde.loclGUA;
+sub numbersign asciitilde Y by Ytilde.loclGUA;
+sub numbersign y by y.loclGUA;
+sub numbersign yacute by yacute.loclGUA;
+sub numbersign ycircumflex by ycircumflex.loclGUA;
+sub numbersign ydieresis by ydieresis.loclGUA;
+sub numbersign ygrave by ygrave.loclGUA;
+sub numbersign y tilde by ytilde.loclGUA;
+sub numbersign tilde y by ytilde.loclGUA;
+sub numbersign y asciitilde by ytilde.loclGUA;
+sub numbersign asciitilde y by ytilde.loclGUA;
+sub numbersign dollar [G g] by guarani;
+language CRT;
+sub i by idotaccent;
+language TAT;
+sub i by idotaccent;
+language CAT;
+sub  l' periodcentered' l by ldot;
+sub  L' periodcentered' L by Ldot;
+language KAZ;
+sub i by idotaccent;
+language MOL;
+sub Scedilla by Scommaaccent;
+sub scedilla by scommaaccent;
+sub Tcedilla by Tcommaaccent;
+sub tcedilla by tcommaaccent;
+language ROM;
+sub Scedilla by Scommaaccent;
+sub scedilla by scommaaccent;
+sub Tcedilla by Tcommaaccent;
+sub tcedilla by tcommaaccent;
+language PLK;
+sub Cacute by Cacute.loclPLK;
+sub Nacute by Nacute.loclPLK;
+sub Oacute by Oacute.loclPLK;
+sub Sacute by Sacute.loclPLK;
+sub Zacute by Zacute.loclPLK;
+sub cacute by cacute.loclPLK;
+sub nacute by nacute.loclPLK;
+sub oacute by oacute.loclPLK;
+sub sacute by sacute.loclPLK;
+sub zacute by zacute.loclPLK;
+sub acute by acute.loclPLK;";
 name = locl;
 },
 {
 automatic = 1;
-code = "sub one by onesuperior;\012sub two by twosuperior;\012sub three by threesuperior;";
+code = "sub one by onesuperior;
+sub two by twosuperior;
+sub three by threesuperior;";
 name = sups;
 },
 {
 automatic = 1;
-code = "sub one slash eight by oneeighth;\012sub one slash four by onequarter;\012sub one slash two by onehalf;\012sub three slash four by threequarters;\012sub one slash three by onethird;\012sub two slash three by twothirds;";
+code = "sub one slash eight by oneeighth;
+sub one slash four by onequarter;
+sub one slash two by onehalf;
+sub three slash four by threequarters;
+sub one slash three by onethird;
+sub two slash three by twothirds;";
 name = frac;
 },
 {
 automatic = 1;
-code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;\012sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;";
+code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;";
 name = ordn;
 },
 {
-code = "# consonant-consonant\012sub @Con0 @Con0' by @Con1;\012sub @Con1 @Con1' by @Con0;\012 \012# consonant-other-consonant\012sub @Con0 [@Voc0 @Voc1 @Etc] @Con0' by @Con1;\012sub @Con1 [@Voc0 @Voc1 @Etc] @Con1' by @Con0;\012 \012# consonant-other-other-consonant\012sub @Con0 [@Voc0 @Voc1 @Etc] [@Voc0 @Voc1 @Etc] @Con0' by @Con1;\012sub @Con1 [@Voc0 @Voc1 @Etc] [@Voc0 @Voc1 @Etc] @Con1' by @Con0;\012 \012# vowel-vowel\012sub @Voc0 @Voc0' by @Voc1;\012sub @Voc1 @Voc1' by @Voc0;\012 \012# vowel-other-vowel\012sub @Voc0 [@Con0 @Con1 @Etc] @Voc0' by @Voc1;\012sub @Voc1 [@Con0 @Con1 @Etc] @Voc1' by @Voc0;\012 \012# vowel-other-other-vowel\012sub @Voc0 [@Con0 @Con1 @Etc] [@Con0 @Con1 @Etc] @Voc0' by @Voc1;\012sub @Voc1 [@Con0 @Con1 @Etc] [@Con0 @Con1 @Etc] @Voc1' by @Voc0;\012 \012# vowel-other-other-other-vowel\012sub @Voc0 [@Con0 @Con1 @Etc] [@Con0 @Con1 @Etc] [@Con0 @Con1 @Etc] @Voc0' by @Voc1;\012sub @Voc1 [@Con0 @Con1 @Etc] [@Con0 @Con1 @Etc] [@Con0 @Con1 @Etc] @Voc1' by @Voc0;\012\012# numbers\012sub zero zero' by zero.ss01;\012sub one one' by one.ss01;\012sub two two' by two.ss01;\012sub three three' by three.ss01;\012sub four four' by four.ss01;\012sub five five' by five.ss01;\012sub six six' by six.ss01;\012sub seven seven' by seven.ss01;\012sub eight eight' by eight.ss01;\012sub nine nine' by nine.ss01;";
+code = "# consonant-consonant
+sub @Con0 @Con0' by @Con1;
+sub @Con1 @Con1' by @Con0;
+ 
+# consonant-other-consonant
+sub @Con0 [@Voc0 @Voc1 @Etc] @Con0' by @Con1;
+sub @Con1 [@Voc0 @Voc1 @Etc] @Con1' by @Con0;
+ 
+# consonant-other-other-consonant
+sub @Con0 [@Voc0 @Voc1 @Etc] [@Voc0 @Voc1 @Etc] @Con0' by @Con1;
+sub @Con1 [@Voc0 @Voc1 @Etc] [@Voc0 @Voc1 @Etc] @Con1' by @Con0;
+ 
+# vowel-vowel
+sub @Voc0 @Voc0' by @Voc1;
+sub @Voc1 @Voc1' by @Voc0;
+ 
+# vowel-other-vowel
+sub @Voc0 [@Con0 @Con1 @Etc] @Voc0' by @Voc1;
+sub @Voc1 [@Con0 @Con1 @Etc] @Voc1' by @Voc0;
+ 
+# vowel-other-other-vowel
+sub @Voc0 [@Con0 @Con1 @Etc] [@Con0 @Con1 @Etc] @Voc0' by @Voc1;
+sub @Voc1 [@Con0 @Con1 @Etc] [@Con0 @Con1 @Etc] @Voc1' by @Voc0;
+ 
+# vowel-other-other-other-vowel
+sub @Voc0 [@Con0 @Con1 @Etc] [@Con0 @Con1 @Etc] [@Con0 @Con1 @Etc] @Voc0' by @Voc1;
+sub @Voc1 [@Con0 @Con1 @Etc] [@Con0 @Con1 @Etc] [@Con0 @Con1 @Etc] @Voc1' by @Voc0;
+
+# numbers
+sub zero zero' by zero.ss01;
+sub one one' by one.ss01;
+sub two two' by two.ss01;
+sub three three' by three.ss01;
+sub four four' by four.ss01;
+sub five five' by five.ss01;
+sub six six' by six.ss01;
+sub seven seven' by seven.ss01;
+sub eight eight' by eight.ss01;
+sub nine nine' by nine.ss01;";
 name = calt;
 },
 {
 automatic = 1;
-code = "sub f f by f_f;\012sub f i by fi;\012sub f l by fl;";
+code = "sub f f by f_f;
+sub f i by fi;
+sub f l by fl;";
 name = liga;
 },
 {
 automatic = 1;
-code = "sub zero by zero.ss01;\012sub one by one.ss01;\012sub two by two.ss01;\012sub three by three.ss01;\012sub four by four.ss01;\012sub five by five.ss01;\012sub six by six.ss01;\012sub seven by seven.ss01;\012sub eight by eight.ss01;\012sub nine by nine.ss01;";
+code = "sub zero by zero.ss01;
+sub one by one.ss01;
+sub two by two.ss01;
+sub three by three.ss01;
+sub four by four.ss01;
+sub five by five.ss01;
+sub six by six.ss01;
+sub seven by seven.ss01;
+sub eight by eight.ss01;
+sub nine by nine.ss01;";
 name = salt;
 },
 {
 automatic = 1;
-code = "sub zero by zero.ss01;\012sub one by one.ss01;\012sub two by two.ss01;\012sub three by three.ss01;\012sub four by four.ss01;\012sub five by five.ss01;\012sub six by six.ss01;\012sub seven by seven.ss01;\012sub eight by eight.ss01;\012sub nine by nine.ss01;";
+code = "sub zero by zero.ss01;
+sub one by one.ss01;
+sub two by two.ss01;
+sub three by three.ss01;
+sub four by four.ss01;
+sub five by five.ss01;
+sub six by six.ss01;
+sub seven by seven.ss01;
+sub eight by eight.ss01;
+sub nine by nine.ss01;";
 name = ss01;
 },
 {
@@ -134,38 +270,38 @@ capHeight = 710;
 customParameters = (
 {
 name = typoAscender;
-value = "900";
+value = 900;
 },
 {
 name = typoDescender;
-value = "-250";
+value = -250;
 },
 {
 name = typoLineGap;
-value = "0";
+value = 0;
 },
 {
 name = winAscent;
-value = "900";
+value = 900;
 },
 {
 name = winDescent;
-value = "250";
+value = 250;
 },
 {
 name = hheaAscender;
-value = "900";
+value = 900;
 },
 {
 name = hheaDescender;
-value = "-250";
+value = -250;
 },
 {
 name = hheaLineGap;
-value = "0";
+value = 0;
 }
 );
-descender = "-238";
+descender = -238;
 horizontalStems = (
 94,
 53,
@@ -184,7 +320,6 @@ glyphs = (
 {
 color = 0;
 glyphname = A;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -198,7 +333,6 @@ position = "{152, 710}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -243,11 +377,9 @@ unicode = 0041;
 {
 color = 0;
 glyphname = Aacute;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -301,11 +433,9 @@ unicode = 00C1;
 {
 color = 0;
 glyphname = Abreve;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -366,11 +496,9 @@ unicode = 0102;
 {
 color = 0;
 glyphname = Acircumflex;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -427,11 +555,9 @@ unicode = 00C2;
 {
 color = 0;
 glyphname = Adieresis;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -494,11 +620,9 @@ unicode = 00C4;
 {
 color = 0;
 glyphname = Agrave;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -552,11 +676,9 @@ unicode = 00C0;
 {
 color = 0;
 glyphname = Amacron;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -610,11 +732,9 @@ unicode = 0100;
 {
 color = 0;
 glyphname = Aogonek;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -666,11 +786,9 @@ unicode = 0104;
 {
 color = 0;
 glyphname = Aring;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -746,11 +864,9 @@ unicode = 00C5;
 {
 color = 0;
 glyphname = Aringacute;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -827,11 +943,9 @@ unicode = 01FA;
 {
 color = 0;
 glyphname = Atilde;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -901,7 +1015,6 @@ unicode = 00C3;
 {
 color = 0;
 glyphname = AE;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -911,7 +1024,6 @@ position = "{236, 710}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -964,11 +1076,9 @@ unicode = 00C6;
 {
 color = 0;
 glyphname = AEacute;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1030,11 +1140,9 @@ unicode = 01FC;
 {
 color = 0;
 glyphname = B;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1118,7 +1226,6 @@ unicode = 0042;
 {
 color = 0;
 glyphname = C;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -1132,7 +1239,6 @@ position = "{167, 710}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1185,11 +1291,9 @@ unicode = 0043;
 {
 color = 0;
 glyphname = Cacute;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1251,11 +1355,9 @@ unicode = 0106;
 {
 color = 0;
 glyphname = Ccaron;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1320,11 +1422,9 @@ unicode = 010C;
 {
 color = 0;
 glyphname = Ccedilla;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1389,11 +1489,9 @@ unicode = 00C7;
 {
 color = 0;
 glyphname = Ccircumflex;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1458,11 +1556,9 @@ unicode = 0108;
 {
 color = 0;
 glyphname = Cdotaccent;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1524,7 +1620,6 @@ unicode = 010A;
 {
 color = 0;
 glyphname = D;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -1538,7 +1633,6 @@ position = "{156, 710}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1581,11 +1675,9 @@ unicode = 0044;
 {
 color = 0;
 glyphname = DZ;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1644,11 +1736,9 @@ unicode = 01F1;
 {
 color = 0;
 glyphname = DZcaron;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1719,11 +1809,9 @@ unicode = 01C4;
 {
 color = 0;
 glyphname = Eth;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1779,11 +1867,9 @@ unicode = 00D0;
 {
 color = 0;
 glyphname = Dcaron;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1838,11 +1924,9 @@ unicode = 010E;
 {
 color = 0;
 glyphname = Dcroat;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1898,11 +1982,9 @@ unicode = 0110;
 {
 color = 0;
 glyphname = Ddotbelow;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1954,7 +2036,6 @@ unicode = 1E0C;
 {
 color = 0;
 glyphname = E;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -1972,7 +2053,6 @@ position = "{158, 710}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2000,11 +2080,9 @@ unicode = 0045;
 {
 color = 0;
 glyphname = Eacute;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2041,11 +2119,9 @@ unicode = 00C9;
 {
 color = 0;
 glyphname = Ebreve;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2089,11 +2165,9 @@ unicode = 0114;
 {
 color = 0;
 glyphname = Ecaron;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2133,11 +2207,9 @@ unicode = 011A;
 {
 color = 0;
 glyphname = Ecircumflex;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2177,11 +2249,9 @@ unicode = 00CA;
 {
 color = 0;
 glyphname = Edieresis;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2227,11 +2297,9 @@ unicode = 00CB;
 {
 color = 0;
 glyphname = Edotaccent;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2268,11 +2336,9 @@ unicode = 0116;
 {
 color = 0;
 glyphname = Edotbelow;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2309,11 +2375,9 @@ unicode = 1EB8;
 {
 color = 0;
 glyphname = Egrave;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2350,11 +2414,9 @@ unicode = 00C8;
 {
 color = 0;
 glyphname = Emacron;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2391,11 +2453,9 @@ unicode = 0112;
 {
 color = 0;
 glyphname = Eogonek;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2432,11 +2492,9 @@ unicode = 0118;
 {
 color = 0;
 glyphname = Etilde;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2489,11 +2547,9 @@ unicode = 1EBC;
 {
 color = 0;
 glyphname = F;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2519,7 +2575,6 @@ unicode = 0046;
 {
 color = 0;
 glyphname = G;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -2533,7 +2588,6 @@ position = "{189, 710}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2576,11 +2630,9 @@ unicode = 0047;
 {
 color = 0;
 glyphname = Gbreve;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2639,11 +2691,9 @@ unicode = 011E;
 {
 color = 0;
 glyphname = Gcircumflex;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2698,11 +2748,9 @@ unicode = 011C;
 {
 color = 0;
 glyphname = Gcommaaccent;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2757,11 +2805,9 @@ unicode = 0122;
 {
 color = 0;
 glyphname = Gdotaccent;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2813,7 +2859,6 @@ unicode = 0120;
 {
 color = 0;
 glyphname = H;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -2827,7 +2872,6 @@ position = "{163, 710}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2857,11 +2901,9 @@ unicode = 0048;
 {
 color = 0;
 glyphname = Hbar;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2908,11 +2950,9 @@ unicode = 0126;
 {
 color = 0;
 glyphname = Hcircumflex;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2954,11 +2994,9 @@ unicode = 0124;
 {
 color = 0;
 glyphname = Hdotbelow;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2997,7 +3035,6 @@ unicode = 1E24;
 {
 color = 0;
 glyphname = I;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -3011,7 +3048,6 @@ position = "{89, 710}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3033,11 +3069,9 @@ unicode = 0049;
 {
 color = 0;
 glyphname = IJ;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3074,11 +3108,9 @@ unicode = 0132;
 {
 color = 0;
 glyphname = Iacute;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3109,11 +3141,9 @@ unicode = 00CD;
 {
 color = 0;
 glyphname = Ibreve;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3151,11 +3181,9 @@ unicode = 012C;
 {
 color = 0;
 glyphname = Icircumflex;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3189,11 +3217,9 @@ unicode = 00CE;
 {
 color = 0;
 glyphname = Idieresis;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3233,11 +3259,9 @@ unicode = 00CF;
 {
 color = 0;
 glyphname = Idotaccent;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3268,11 +3292,9 @@ unicode = 0130;
 {
 color = 0;
 glyphname = Idotbelow;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3303,11 +3325,9 @@ unicode = 1ECA;
 {
 color = 0;
 glyphname = Igrave;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3338,11 +3358,9 @@ unicode = 00CC;
 {
 color = 0;
 glyphname = Imacron;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3373,11 +3391,9 @@ unicode = 012A;
 {
 color = 0;
 glyphname = Iogonek;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3407,11 +3423,9 @@ unicode = 012E;
 {
 color = 0;
 glyphname = Itilde;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3458,7 +3472,6 @@ unicode = 0128;
 {
 color = 0;
 glyphname = J;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -3468,7 +3481,6 @@ position = "{151, 710}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3494,11 +3506,9 @@ unicode = 004A;
 {
 color = 0;
 glyphname = Jcircumflex;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3536,7 +3546,6 @@ unicode = 0134;
 {
 color = 0;
 glyphname = K;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -3550,7 +3559,6 @@ position = "{156, 710}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3583,11 +3591,9 @@ unicode = 004B;
 {
 color = 0;
 glyphname = Kcommaaccent;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3632,7 +3638,6 @@ unicode = 0136;
 {
 color = 0;
 glyphname = L;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -3646,7 +3651,6 @@ position = "{132, 710}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3668,11 +3672,9 @@ unicode = 004C;
 {
 color = 0;
 glyphname = LJ;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3709,11 +3711,9 @@ unicode = 01C7;
 {
 color = 0;
 glyphname = Lacute;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3744,11 +3744,9 @@ unicode = 0139;
 {
 color = 0;
 glyphname = Lcaron;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3781,11 +3779,9 @@ unicode = 013D;
 {
 color = 0;
 glyphname = Lcommaaccent;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3819,11 +3815,9 @@ unicode = 013B;
 {
 color = 0;
 glyphname = Ldot;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3854,11 +3848,9 @@ unicode = 013F;
 {
 color = 0;
 glyphname = Lslash;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3888,11 +3880,9 @@ unicode = 0141;
 {
 color = 0;
 glyphname = M;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3924,7 +3914,6 @@ unicode = 004D;
 {
 color = 0;
 glyphname = N;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -3938,7 +3927,6 @@ position = "{172, 710}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3966,11 +3954,9 @@ unicode = 004E;
 {
 color = 0;
 glyphname = NJ;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4013,11 +3999,9 @@ unicode = 01CA;
 {
 color = 0;
 glyphname = Nacute;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4054,11 +4038,9 @@ unicode = 0143;
 {
 color = 0;
 glyphname = Ncaron;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4098,11 +4080,9 @@ unicode = 0147;
 {
 color = 0;
 glyphname = Ncommaaccent;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4142,11 +4122,9 @@ unicode = 0145;
 {
 color = 0;
 glyphname = Ndotaccent;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4183,11 +4161,9 @@ unicode = 1E44;
 {
 color = 0;
 glyphname = Eng;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4222,11 +4198,9 @@ unicode = 014A;
 {
 color = 0;
 glyphname = Ntilde;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4279,7 +4253,6 @@ unicode = 00D1;
 {
 color = 0;
 glyphname = O;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -4289,7 +4262,6 @@ position = "{159, 710}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4334,11 +4306,9 @@ unicode = 004F;
 {
 color = 0;
 glyphname = Oacute;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4392,11 +4362,9 @@ unicode = 00D3;
 {
 color = 0;
 glyphname = Obreve;
-lastChange = "2013-12-19 19:02:16 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4457,11 +4425,9 @@ unicode = 014E;
 {
 color = 0;
 glyphname = Ocircumflex;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4518,11 +4484,9 @@ unicode = 00D4;
 {
 color = 0;
 glyphname = Odieresis;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4585,11 +4549,9 @@ unicode = 00D6;
 {
 color = 0;
 glyphname = Odotbelow;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4643,11 +4605,9 @@ unicode = 1ECC;
 {
 color = 0;
 glyphname = Ograve;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4701,11 +4661,9 @@ unicode = 00D2;
 {
 color = 0;
 glyphname = Ohungarumlaut;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4768,11 +4726,9 @@ unicode = 0150;
 {
 color = 0;
 glyphname = Omacron;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4826,11 +4782,9 @@ unicode = 014C;
 {
 color = 0;
 glyphname = Oogonek;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4883,7 +4837,6 @@ unicode = 01EA;
 {
 color = 0;
 glyphname = Oslash;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -4893,7 +4846,6 @@ position = "{159, 710}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4952,11 +4904,9 @@ unicode = 00D8;
 {
 color = 0;
 glyphname = Oslashacute;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5024,11 +4974,9 @@ unicode = 01FE;
 {
 color = 0;
 glyphname = Otilde;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5098,7 +5046,6 @@ unicode = 00D5;
 {
 color = 0;
 glyphname = OE;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -5108,7 +5055,6 @@ position = "{231, 710}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5162,11 +5108,9 @@ unicode = 0152;
 {
 color = 0;
 glyphname = P;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5217,11 +5161,9 @@ unicode = 0050;
 {
 color = 0;
 glyphname = Thorn;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5272,11 +5214,9 @@ unicode = 00DE;
 {
 color = 0;
 glyphname = Q;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5327,7 +5267,6 @@ unicode = 0051;
 {
 color = 0;
 glyphname = R;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -5341,7 +5280,6 @@ position = "{160, 710}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5396,11 +5334,9 @@ unicode = 0052;
 {
 color = 0;
 glyphname = Racute;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5464,11 +5400,9 @@ unicode = 0154;
 {
 color = 0;
 glyphname = Rcaron;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5535,11 +5469,9 @@ unicode = 0158;
 {
 color = 0;
 glyphname = Rcommaaccent;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5606,11 +5538,9 @@ unicode = 0156;
 {
 color = 0;
 glyphname = Rdotbelow;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5674,7 +5604,6 @@ unicode = 1E5A;
 {
 color = 0;
 glyphname = S;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -5688,7 +5617,6 @@ position = "{144, 710}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5722,11 +5650,9 @@ unicode = 0053;
 {
 color = 0;
 glyphname = Sacute;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5769,11 +5695,9 @@ unicode = 015A;
 {
 color = 0;
 glyphname = Scaron;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5819,11 +5743,9 @@ unicode = 0160;
 {
 color = 0;
 glyphname = Scedilla;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5870,11 +5792,9 @@ unicode = 015E;
 {
 color = 0;
 glyphname = Scircumflex;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5920,11 +5840,9 @@ unicode = 015C;
 {
 color = 0;
 glyphname = Scommaaccent;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5970,11 +5888,9 @@ unicode = 0218;
 {
 color = 0;
 glyphname = Sdotbelow;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6017,11 +5933,9 @@ unicode = 1E62;
 {
 color = 0;
 glyphname = Germandbls;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6056,11 +5970,9 @@ unicode = 1E9E;
 {
 color = 0;
 glyphname = Schwa;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6106,7 +6018,6 @@ unicode = 018F;
 {
 color = 0;
 glyphname = T;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -6124,7 +6035,6 @@ position = "{138, 710}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6148,11 +6058,9 @@ unicode = 0054;
 {
 color = 0;
 glyphname = Tbar;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6184,11 +6092,9 @@ unicode = 0166;
 {
 color = 0;
 glyphname = Tcaron;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6224,11 +6130,9 @@ unicode = 0164;
 {
 color = 0;
 glyphname = Tcedilla;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6264,11 +6168,9 @@ unicode = 0162;
 {
 color = 0;
 glyphname = Tcommaaccent;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6304,11 +6206,9 @@ unicode = 021A;
 {
 color = 0;
 glyphname = Tdotbelow;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6341,7 +6241,6 @@ unicode = 1E6C;
 {
 color = 0;
 glyphname = U;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -6355,7 +6254,6 @@ position = "{155, 710}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6382,11 +6280,9 @@ unicode = 0055;
 {
 color = 0;
 glyphname = Uacute;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6422,11 +6318,9 @@ unicode = 00DA;
 {
 color = 0;
 glyphname = Ubreve;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6469,11 +6363,9 @@ unicode = 016C;
 {
 color = 0;
 glyphname = Ucircumflex;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6512,11 +6404,9 @@ unicode = 00DB;
 {
 color = 0;
 glyphname = Udieresis;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6561,11 +6451,9 @@ unicode = 00DC;
 {
 color = 0;
 glyphname = Udotbelow;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6601,11 +6489,9 @@ unicode = 1EE4;
 {
 color = 0;
 glyphname = Ugrave;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6641,11 +6527,9 @@ unicode = 00D9;
 {
 color = 0;
 glyphname = Uhungarumlaut;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6690,11 +6574,9 @@ unicode = 0170;
 {
 color = 0;
 glyphname = Umacron;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6730,11 +6612,9 @@ unicode = 016A;
 {
 color = 0;
 glyphname = Uogonek;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6769,11 +6649,9 @@ unicode = 0172;
 {
 color = 0;
 glyphname = Uring;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6831,11 +6709,9 @@ unicode = 016E;
 {
 color = 0;
 glyphname = Utilde;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6887,11 +6763,9 @@ unicode = 0168;
 {
 color = 0;
 glyphname = V;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6915,7 +6789,6 @@ unicode = 0056;
 {
 color = 0;
 glyphname = W;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -6925,7 +6798,6 @@ position = "{167, 710}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6957,11 +6829,9 @@ unicode = 0057;
 {
 color = 0;
 glyphname = Wacute;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7002,11 +6872,9 @@ unicode = 1E82;
 {
 color = 0;
 glyphname = Wcircumflex;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7050,11 +6918,9 @@ unicode = 0174;
 {
 color = 0;
 glyphname = Wdieresis;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7104,11 +6970,9 @@ unicode = 1E84;
 {
 color = 0;
 glyphname = Wgrave;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7149,11 +7013,9 @@ unicode = 1E80;
 {
 color = 0;
 glyphname = X;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7188,7 +7050,6 @@ unicode = 0058;
 {
 color = 0;
 glyphname = Y;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -7198,7 +7059,6 @@ position = "{124, 710}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7226,11 +7086,9 @@ unicode = 0059;
 {
 color = 0;
 glyphname = Yacute;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7267,11 +7125,9 @@ unicode = 00DD;
 {
 color = 0;
 glyphname = Ycircumflex;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7311,11 +7167,9 @@ unicode = 0176;
 {
 color = 0;
 glyphname = Ydieresis;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7361,11 +7215,9 @@ unicode = 0178;
 {
 color = 0;
 glyphname = Ygrave;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7402,11 +7254,9 @@ unicode = 1EF2;
 {
 color = 0;
 glyphname = Ytilde;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7459,7 +7309,6 @@ unicode = 1EF8;
 {
 color = 0;
 glyphname = Z;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -7469,7 +7318,6 @@ position = "{151, 710}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7496,11 +7344,9 @@ unicode = 005A;
 {
 color = 0;
 glyphname = Zacute;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7536,11 +7382,9 @@ unicode = 0179;
 {
 color = 0;
 glyphname = Zcaron;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7579,11 +7423,9 @@ unicode = 017D;
 {
 color = 0;
 glyphname = Zdotaccent;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7619,11 +7461,9 @@ unicode = 017B;
 {
 color = 0;
 glyphname = Zdotbelow;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7659,11 +7499,9 @@ unicode = 1E92;
 {
 color = 0;
 glyphname = Iacute_J.loclNLD;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7717,7 +7555,6 @@ width = 454;
 {
 color = 0;
 glyphname = Y.loclGUA;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -7727,7 +7564,6 @@ position = "{124, 710}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7754,11 +7590,9 @@ width = 247;
 {
 color = 0;
 glyphname = Yacute.loclGUA;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7794,11 +7628,9 @@ width = 247;
 {
 color = 0;
 glyphname = Ycircumflex.loclGUA;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7837,11 +7669,9 @@ width = 247;
 {
 color = 0;
 glyphname = Ydieresis.loclGUA;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7886,11 +7716,9 @@ width = 247;
 {
 color = 0;
 glyphname = Ygrave.loclGUA;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7926,11 +7754,9 @@ width = 247;
 {
 color = 0;
 glyphname = Ytilde.loclGUA;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7982,11 +7808,9 @@ width = 247;
 {
 color = 0;
 glyphname = Cacute.loclPLK;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8047,11 +7871,9 @@ width = 334;
 {
 color = 0;
 glyphname = Nacute.loclPLK;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8087,11 +7909,9 @@ width = 344;
 {
 color = 0;
 glyphname = Oacute.loclPLK;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8144,11 +7964,9 @@ width = 318;
 {
 color = 0;
 glyphname = Sacute.loclPLK;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8190,11 +8008,9 @@ width = 287;
 {
 color = 0;
 glyphname = Zacute.loclPLK;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8229,7 +8045,6 @@ width = 302;
 {
 color = 0;
 glyphname = a;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -8243,7 +8058,6 @@ position = "{154, 492}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8288,11 +8102,9 @@ unicode = 0061;
 {
 color = 0;
 glyphname = aacute;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8346,11 +8158,9 @@ unicode = 00E1;
 {
 color = 0;
 glyphname = abreve;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8411,11 +8221,9 @@ unicode = 0103;
 {
 color = 0;
 glyphname = acircumflex;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8472,11 +8280,9 @@ unicode = 00E2;
 {
 color = 0;
 glyphname = adieresis;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8539,11 +8345,9 @@ unicode = 00E4;
 {
 color = 0;
 glyphname = agrave;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8597,11 +8401,9 @@ unicode = 00E0;
 {
 color = 0;
 glyphname = amacron;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8655,11 +8457,9 @@ unicode = 0101;
 {
 color = 0;
 glyphname = aogonek;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8711,11 +8511,9 @@ unicode = 0105;
 {
 color = 0;
 glyphname = aring;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8791,11 +8589,9 @@ unicode = 00E5;
 {
 color = 0;
 glyphname = aringacute;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8874,11 +8670,9 @@ unicode = 01FB;
 {
 color = 0;
 glyphname = atilde;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8948,7 +8742,6 @@ unicode = 00E3;
 {
 color = 0;
 glyphname = ae;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -8958,7 +8751,6 @@ position = "{250, 492}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9011,11 +8803,9 @@ unicode = 00E6;
 {
 color = 0;
 glyphname = aeacute;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9077,11 +8867,9 @@ unicode = 01FD;
 {
 color = 0;
 glyphname = b;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9157,7 +8945,6 @@ unicode = 0062;
 {
 color = 0;
 glyphname = c;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -9171,7 +8958,6 @@ position = "{167, 492}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9225,11 +9011,9 @@ unicode = 0063;
 {
 color = 0;
 glyphname = cacute;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9292,11 +9076,9 @@ unicode = 0107;
 {
 color = 0;
 glyphname = ccaron;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9362,11 +9144,9 @@ unicode = 010D;
 {
 color = 0;
 glyphname = ccedilla;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9433,11 +9213,9 @@ unicode = 00E7;
 {
 color = 0;
 glyphname = ccircumflex;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9503,11 +9281,9 @@ unicode = 0109;
 {
 color = 0;
 glyphname = cdotaccent;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9570,7 +9346,6 @@ unicode = 010B;
 {
 color = 0;
 glyphname = d;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -9580,7 +9355,6 @@ position = "{167, 246}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9627,17 +9401,14 @@ unicode = 0064;
 {
 color = 0;
 glyphname = eth;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 components = (
 {
 name = dcroat;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = UUID0;
-name = Regular;
 width = 333;
 },
 {
@@ -9684,11 +9455,9 @@ unicode = 00F0;
 {
 color = 0;
 glyphname = dcaron;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9747,11 +9516,9 @@ unicode = 010F;
 {
 color = 0;
 glyphname = dcroat;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9806,11 +9573,9 @@ unicode = 0111;
 {
 color = 0;
 glyphname = ddotbelow;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9866,11 +9631,9 @@ unicode = 1E0D;
 {
 color = 0;
 glyphname = dz;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9931,11 +9694,9 @@ unicode = 01F3;
 {
 color = 0;
 glyphname = dzcaron;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10004,7 +9765,6 @@ unicode = 01C6;
 {
 color = 0;
 glyphname = e;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -10022,7 +9782,6 @@ position = "{165, 492}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10050,11 +9809,9 @@ unicode = 0065;
 {
 color = 0;
 glyphname = eacute;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10091,11 +9848,9 @@ unicode = 00E9;
 {
 color = 0;
 glyphname = ebreve;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10139,11 +9894,9 @@ unicode = 0115;
 {
 color = 0;
 glyphname = ecaron;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10183,11 +9936,9 @@ unicode = 011B;
 {
 color = 0;
 glyphname = ecircumflex;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10227,11 +9978,9 @@ unicode = 00EA;
 {
 color = 0;
 glyphname = edieresis;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10277,11 +10026,9 @@ unicode = 00EB;
 {
 color = 0;
 glyphname = edotaccent;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10318,11 +10065,9 @@ unicode = 0117;
 {
 color = 0;
 glyphname = edotbelow;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10359,11 +10104,9 @@ unicode = 1EB9;
 {
 color = 0;
 glyphname = egrave;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10400,11 +10143,9 @@ unicode = 00E8;
 {
 color = 0;
 glyphname = emacron;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10441,11 +10182,9 @@ unicode = 0113;
 {
 color = 0;
 glyphname = eogonek;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10481,11 +10220,9 @@ unicode = 0119;
 {
 color = 0;
 glyphname = etilde;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10537,12 +10274,57 @@ unicode = 1EBD;
 },
 {
 color = 0;
-glyphname = f;
-lastChange = "2013-12-03 23:01:42 +0000";
+glyphname = schwa;
 layers = (
 {
 layerId = UUID0;
-name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"52 387 LINE",
+"52 58 LINE SMOOTH",
+"52 22 OFFCURVE",
+"87 0 OFFCURVE",
+"122 0 CURVE SMOOTH",
+"272 0 LINE",
+"294 656 LINE",
+"293 687 OFFCURVE",
+"274 710 OFFCURVE",
+"245 710 CURVE SMOOTH",
+"45 710 LINE",
+"45 668 LINE",
+"219 630 LINE",
+"211 387 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"135 94 LINE SMOOTH",
+"127 94 OFFCURVE",
+"115 98 OFFCURVE",
+"115 106 CURVE SMOOTH",
+"115 317 LINE",
+"209 329 LINE",
+"202 112 LINE SMOOTH",
+"202 103 OFFCURVE",
+"190 94 OFFCURVE",
+"181 94 CURVE"
+);
+}
+);
+width = 328;
+}
+);
+unicode = 0259;
+},
+{
+color = 0;
+glyphname = f;
+layers = (
+{
+layerId = UUID0;
 paths = (
 {
 closed = 1;
@@ -10568,7 +10350,6 @@ unicode = 0066;
 {
 color = 0;
 glyphname = g;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -10578,7 +10359,6 @@ position = "{178, 492}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10621,11 +10401,9 @@ unicode = 0067;
 {
 color = 0;
 glyphname = gbreve;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10684,11 +10462,9 @@ unicode = 011F;
 {
 color = 0;
 glyphname = gcircumflex;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10743,11 +10519,9 @@ unicode = 011D;
 {
 color = 0;
 glyphname = gcommaaccent;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10802,11 +10576,9 @@ unicode = 0123;
 {
 color = 0;
 glyphname = gdotaccent;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10858,7 +10630,6 @@ unicode = 0121;
 {
 color = 0;
 glyphname = h;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -10872,7 +10643,6 @@ position = "{167, 492}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10900,11 +10670,9 @@ unicode = 0068;
 {
 color = 0;
 glyphname = hbar;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10940,11 +10708,9 @@ unicode = 0127;
 {
 color = 0;
 glyphname = hcircumflex;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10984,11 +10750,9 @@ unicode = 0125;
 {
 color = 0;
 glyphname = hdotbelow;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11025,11 +10789,9 @@ unicode = 1E25;
 {
 color = 0;
 glyphname = i;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11049,7 +10811,6 @@ unicode = 0069;
 {
 color = 0;
 glyphname = dotlessi;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -11063,7 +10824,6 @@ position = "{88, 492}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11083,11 +10843,9 @@ unicode = 0131;
 {
 color = 0;
 glyphname = iacute;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11116,11 +10874,9 @@ unicode = 00ED;
 {
 color = 0;
 glyphname = ibreve;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11156,11 +10912,9 @@ unicode = 012D;
 {
 color = 0;
 glyphname = icircumflex;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11192,11 +10946,9 @@ unicode = 00EE;
 {
 color = 0;
 glyphname = idieresis;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11234,17 +10986,14 @@ unicode = 00EF;
 {
 color = 0;
 glyphname = idotaccent;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 components = (
 {
 name = i;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11263,11 +11012,9 @@ width = 175;
 {
 color = 0;
 glyphname = idotbelow;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11296,11 +11043,9 @@ unicode = 1ECB;
 {
 color = 0;
 glyphname = igrave;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11329,11 +11074,9 @@ unicode = 00EC;
 {
 color = 0;
 glyphname = ij;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11370,11 +11113,9 @@ unicode = 0133;
 {
 color = 0;
 glyphname = imacron;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11403,11 +11144,9 @@ unicode = 012B;
 {
 color = 0;
 glyphname = iogonek;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11436,11 +11175,9 @@ unicode = 012F;
 {
 color = 0;
 glyphname = itilde;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11485,11 +11222,9 @@ unicode = 0129;
 {
 color = 0;
 glyphname = j;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11517,7 +11252,6 @@ unicode = 006A;
 {
 color = 0;
 glyphname = dotlessj;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -11527,7 +11261,6 @@ position = "{143, 492}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11555,11 +11288,9 @@ unicode = 0237;
 {
 color = 0;
 glyphname = jcircumflex;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11599,7 +11330,6 @@ unicode = 0135;
 {
 color = 0;
 glyphname = k;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -11609,7 +11339,6 @@ position = "{151, 0}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11641,11 +11370,9 @@ unicode = 006B;
 {
 color = 0;
 glyphname = kcommaaccent;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11689,11 +11416,9 @@ unicode = 0137;
 {
 color = 0;
 glyphname = kgreenlandic;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11725,7 +11450,6 @@ unicode = 0138;
 {
 color = 0;
 glyphname = l;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -11743,7 +11467,6 @@ position = "{267, 492}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11766,11 +11489,9 @@ unicode = 006C;
 {
 color = 0;
 glyphname = lacute;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11802,11 +11523,9 @@ unicode = 013A;
 {
 color = 0;
 glyphname = lcaron;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11840,11 +11559,9 @@ unicode = 013E;
 {
 color = 0;
 glyphname = lcommaaccent;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11879,11 +11596,9 @@ unicode = 013C;
 {
 color = 0;
 glyphname = ldot;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11915,11 +11630,9 @@ unicode = 0140;
 {
 color = 0;
 glyphname = lj;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11959,11 +11672,9 @@ unicode = 01C9;
 {
 color = 0;
 glyphname = lslash;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11994,11 +11705,9 @@ unicode = 0142;
 {
 color = 0;
 glyphname = m;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12030,7 +11739,6 @@ unicode = 006D;
 {
 color = 0;
 glyphname = n;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -12044,7 +11752,6 @@ position = "{168, 492}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12072,11 +11779,9 @@ unicode = 006E;
 {
 color = 0;
 glyphname = nacute;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12113,11 +11818,9 @@ unicode = 0144;
 {
 color = 0;
 glyphname = napostrophe;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12157,11 +11860,9 @@ unicode = 0149;
 {
 color = 0;
 glyphname = ncaron;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12201,11 +11902,9 @@ unicode = 0148;
 {
 color = 0;
 glyphname = ncommaaccent;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12245,11 +11944,9 @@ unicode = 0146;
 {
 color = 0;
 glyphname = ndotaccent;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12286,11 +11983,9 @@ unicode = 1E45;
 {
 color = 0;
 glyphname = eng;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12327,11 +12022,9 @@ unicode = 014B;
 {
 color = 0;
 glyphname = nj;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12376,11 +12069,9 @@ unicode = 01CC;
 {
 color = 0;
 glyphname = ntilde;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12433,7 +12124,6 @@ unicode = 00F1;
 {
 color = 0;
 glyphname = o;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -12443,7 +12133,6 @@ position = "{156, 492}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12485,11 +12174,9 @@ unicode = 006F;
 {
 color = 0;
 glyphname = oacute;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12540,11 +12227,9 @@ unicode = 00F3;
 {
 color = 0;
 glyphname = obreve;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12602,11 +12287,9 @@ unicode = 014F;
 {
 color = 0;
 glyphname = ocircumflex;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12660,11 +12343,9 @@ unicode = 00F4;
 {
 color = 0;
 glyphname = odieresis;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12724,11 +12405,9 @@ unicode = 00F6;
 {
 color = 0;
 glyphname = odotbelow;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12779,11 +12458,9 @@ unicode = 1ECD;
 {
 color = 0;
 glyphname = ograve;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12834,11 +12511,9 @@ unicode = 00F2;
 {
 color = 0;
 glyphname = ohungarumlaut;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12898,11 +12573,9 @@ unicode = 0151;
 {
 color = 0;
 glyphname = omacron;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12953,11 +12626,9 @@ unicode = 014D;
 {
 color = 0;
 glyphname = oogonek;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13006,7 +12677,6 @@ unicode = 01EB;
 {
 color = 0;
 glyphname = oslash;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -13016,7 +12686,6 @@ position = "{156, 492}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13073,11 +12742,9 @@ unicode = 00F8;
 {
 color = 0;
 glyphname = oslashacute;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13143,11 +12810,9 @@ unicode = 01FF;
 {
 color = 0;
 glyphname = otilde;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13214,7 +12879,6 @@ unicode = 00F5;
 {
 color = 0;
 glyphname = oe;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -13224,7 +12888,6 @@ position = "{230, 492}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13275,11 +12938,9 @@ unicode = 0153;
 {
 color = 0;
 glyphname = p;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13321,11 +12982,9 @@ unicode = 0070;
 {
 color = 0;
 glyphname = thorn;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13369,11 +13028,9 @@ unicode = 00FE;
 {
 color = 0;
 glyphname = q;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13420,7 +13077,6 @@ unicode = 0071;
 {
 color = 0;
 glyphname = r;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -13434,7 +13090,6 @@ position = "{160, 492}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13480,11 +13135,9 @@ unicode = 0072;
 {
 color = 0;
 glyphname = racute;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13539,11 +13192,9 @@ unicode = 0155;
 {
 color = 0;
 glyphname = rcaron;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13601,11 +13252,9 @@ unicode = 0159;
 {
 color = 0;
 glyphname = rcommaaccent;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13663,11 +13312,9 @@ unicode = 0157;
 {
 color = 0;
 glyphname = rdotbelow;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13722,7 +13369,6 @@ unicode = 1E5B;
 {
 color = 0;
 glyphname = s;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -13736,7 +13382,6 @@ position = "{145, 492}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13772,11 +13417,9 @@ unicode = 0073;
 {
 color = 0;
 glyphname = sacute;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13821,11 +13464,9 @@ unicode = 015B;
 {
 color = 0;
 glyphname = scaron;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13873,11 +13514,9 @@ unicode = 0161;
 {
 color = 0;
 glyphname = scedilla;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13926,11 +13565,9 @@ unicode = 015F;
 {
 color = 0;
 glyphname = scircumflex;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13978,11 +13615,9 @@ unicode = 015D;
 {
 color = 0;
 glyphname = scommaaccent;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14030,11 +13665,9 @@ unicode = 0219;
 {
 color = 0;
 glyphname = sdotbelow;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14079,11 +13712,9 @@ unicode = 1E63;
 {
 color = 0;
 glyphname = germandbls;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14123,11 +13754,9 @@ unicode = 00DF;
 {
 color = 0;
 glyphname = longs;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14148,57 +13777,7 @@ unicode = 017F;
 },
 {
 color = 0;
-glyphname = schwa;
-lastChange = "2013-12-03 23:01:42 +0000";
-layers = (
-{
-layerId = UUID0;
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"52 387 LINE",
-"52 58 LINE SMOOTH",
-"52 22 OFFCURVE",
-"87 0 OFFCURVE",
-"122 0 CURVE SMOOTH",
-"272 0 LINE",
-"294 656 LINE",
-"293 687 OFFCURVE",
-"274 710 OFFCURVE",
-"245 710 CURVE SMOOTH",
-"45 710 LINE",
-"45 668 LINE",
-"219 630 LINE",
-"211 387 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"135 94 LINE SMOOTH",
-"127 94 OFFCURVE",
-"115 98 OFFCURVE",
-"115 106 CURVE SMOOTH",
-"115 317 LINE",
-"209 329 LINE",
-"202 112 LINE SMOOTH",
-"202 103 OFFCURVE",
-"190 94 OFFCURVE",
-"181 94 CURVE"
-);
-}
-);
-width = 328;
-}
-);
-unicode = 0259;
-},
-{
-color = 0;
 glyphname = t;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -14212,7 +13791,6 @@ position = "{138, 246}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14236,11 +13814,9 @@ unicode = 0074;
 {
 color = 0;
 glyphname = tbar;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14272,11 +13848,9 @@ unicode = 0167;
 {
 color = 0;
 glyphname = tcaron;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14312,11 +13886,9 @@ unicode = 0165;
 {
 color = 0;
 glyphname = tcedilla;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14352,11 +13924,9 @@ unicode = 0163;
 {
 color = 0;
 glyphname = tcommaaccent;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14392,11 +13962,9 @@ unicode = 021B;
 {
 color = 0;
 glyphname = tdotbelow;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14429,7 +13997,6 @@ unicode = 1E6D;
 {
 color = 0;
 glyphname = u;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -14443,7 +14010,6 @@ position = "{152, 492}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14467,11 +14033,9 @@ unicode = 0075;
 {
 color = 0;
 glyphname = uacute;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14504,11 +14068,9 @@ unicode = 00FA;
 {
 color = 0;
 glyphname = ubreve;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14548,11 +14110,9 @@ unicode = 016D;
 {
 color = 0;
 glyphname = ucircumflex;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14588,11 +14148,9 @@ unicode = 00FB;
 {
 color = 0;
 glyphname = udieresis;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14634,11 +14192,9 @@ unicode = 00FC;
 {
 color = 0;
 glyphname = udotbelow;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14671,11 +14227,9 @@ unicode = 1EE5;
 {
 color = 0;
 glyphname = ugrave;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14708,11 +14262,9 @@ unicode = 00F9;
 {
 color = 0;
 glyphname = uhungarumlaut;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14754,11 +14306,9 @@ unicode = 0171;
 {
 color = 0;
 glyphname = umacron;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14791,11 +14341,9 @@ unicode = 016B;
 {
 color = 0;
 glyphname = uogonek;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14827,11 +14375,9 @@ unicode = 0173;
 {
 color = 0;
 glyphname = uring;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14886,11 +14432,9 @@ unicode = 016F;
 {
 color = 0;
 glyphname = utilde;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14939,11 +14483,9 @@ unicode = 0169;
 {
 color = 0;
 glyphname = v;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14967,7 +14509,6 @@ unicode = 0076;
 {
 color = 0;
 glyphname = w;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -14977,7 +14518,6 @@ position = "{210, 492}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15010,11 +14550,9 @@ unicode = 0077;
 {
 color = 0;
 glyphname = wacute;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15056,11 +14594,9 @@ unicode = 1E83;
 {
 color = 0;
 glyphname = wcircumflex;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15105,11 +14641,9 @@ unicode = 0175;
 {
 color = 0;
 glyphname = wdieresis;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15160,11 +14694,9 @@ unicode = 1E85;
 {
 color = 0;
 glyphname = wgrave;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15206,11 +14738,9 @@ unicode = 1E81;
 {
 color = 0;
 glyphname = x;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15240,7 +14770,6 @@ unicode = 0078;
 {
 color = 0;
 glyphname = y;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -15250,7 +14779,6 @@ position = "{132, 492}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15277,11 +14805,9 @@ unicode = 0079;
 {
 color = 0;
 glyphname = yacute;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15317,11 +14843,9 @@ unicode = 00FD;
 {
 color = 0;
 glyphname = ycircumflex;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15360,11 +14884,9 @@ unicode = 0177;
 {
 color = 0;
 glyphname = ydieresis;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15409,11 +14931,9 @@ unicode = 00FF;
 {
 color = 0;
 glyphname = ygrave;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15449,11 +14969,9 @@ unicode = 1EF3;
 {
 color = 0;
 glyphname = ytilde;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15505,7 +15023,6 @@ unicode = 1EF9;
 {
 color = 0;
 glyphname = z;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -15515,7 +15032,6 @@ position = "{146, 492}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15540,11 +15056,9 @@ unicode = 007A;
 {
 color = 0;
 glyphname = zacute;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15578,11 +15092,9 @@ unicode = 017A;
 {
 color = 0;
 glyphname = zcaron;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15619,11 +15131,9 @@ unicode = 017E;
 {
 color = 0;
 glyphname = zdotaccent;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15657,11 +15167,9 @@ unicode = 017C;
 {
 color = 0;
 glyphname = zdotbelow;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15695,11 +15203,9 @@ unicode = 1E93;
 {
 color = 0;
 glyphname = iacute_j.loclNLD;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15753,7 +15259,6 @@ width = 460;
 {
 color = 0;
 glyphname = y.loclGUA;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -15763,7 +15268,6 @@ position = "{131, 492}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15790,11 +15294,9 @@ width = 261;
 {
 color = 0;
 glyphname = yacute.loclGUA;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15830,11 +15332,9 @@ width = 261;
 {
 color = 0;
 glyphname = ycircumflex.loclGUA;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15873,11 +15373,9 @@ width = 261;
 {
 color = 0;
 glyphname = ydieresis.loclGUA;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15922,11 +15420,9 @@ width = 261;
 {
 color = 0;
 glyphname = ygrave.loclGUA;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15962,11 +15458,9 @@ width = 261;
 {
 color = 0;
 glyphname = ytilde.loclGUA;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16018,11 +15512,9 @@ width = 261;
 {
 color = 0;
 glyphname = cacute.loclPLK;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16084,11 +15576,9 @@ width = 334;
 {
 color = 0;
 glyphname = nacute.loclPLK;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16124,11 +15614,9 @@ width = 335;
 {
 color = 0;
 glyphname = oacute.loclPLK;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16178,11 +15666,9 @@ width = 312;
 {
 color = 0;
 glyphname = sacute.loclPLK;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16226,11 +15712,9 @@ width = 289;
 {
 color = 0;
 glyphname = zacute.loclPLK;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16263,11 +15747,9 @@ width = 292;
 {
 color = 0;
 glyphname = f_f;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16308,11 +15790,9 @@ width = 560;
 {
 color = 0;
 glyphname = fi;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16340,11 +15820,9 @@ unicode = FB01;
 {
 color = 0;
 glyphname = fl;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16375,11 +15853,9 @@ unicode = FB02;
 {
 color = 0;
 glyphname = ordfeminine;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16424,11 +15900,9 @@ unicode = 00AA;
 {
 color = 0;
 glyphname = ordmasculine;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16470,11 +15944,9 @@ unicode = 00BA;
 {
 color = 0;
 glyphname = Delta;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16503,7 +15975,6 @@ unicode = 0394;
 {
 color = 0;
 glyphname = Omega;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -16513,7 +15984,6 @@ position = "{20, 710}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16557,11 +16027,9 @@ unicode = 03A9;
 {
 color = 0;
 glyphname = mu;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16588,11 +16056,9 @@ unicode = 03BC;
 {
 color = 0;
 glyphname = pi;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16630,11 +16096,9 @@ unicode = 03C0;
 {
 color = 0;
 glyphname = zero;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16686,11 +16150,9 @@ unicode = 0030;
 {
 color = 0;
 glyphname = one;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16716,11 +16178,9 @@ unicode = 0031;
 {
 color = 0;
 glyphname = two;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16752,11 +16212,9 @@ unicode = 0032;
 {
 color = 0;
 glyphname = three;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16801,11 +16259,9 @@ unicode = 0033;
 {
 color = 0;
 glyphname = four;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16837,11 +16293,9 @@ unicode = 0034;
 {
 color = 0;
 glyphname = five;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16880,11 +16334,9 @@ unicode = 0035;
 {
 color = 0;
 glyphname = six;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16919,11 +16371,9 @@ unicode = 0036;
 {
 color = 0;
 glyphname = seven;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16953,11 +16403,9 @@ unicode = 0037;
 {
 color = 0;
 glyphname = eight;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17004,11 +16452,9 @@ unicode = 0038;
 {
 color = 0;
 glyphname = nine;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17043,27 +16489,25 @@ unicode = 0039;
 {
 color = 0;
 glyphname = zero.ss01;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 hints = (
 {
-place = "{50.000000, 68.000000}";
+place = "{50, 68}";
 },
 {
-place = "{227.000000, 62.000000}";
-},
-{
-horizontal = 1;
-place = "{0.000000, 69.000000}";
+place = "{227, 62}";
 },
 {
 horizontal = 1;
-place = "{656.000000, 54.000000}";
+place = "{0, 69}";
+},
+{
+horizontal = 1;
+place = "{656, 54}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17114,24 +16558,22 @@ width = 339;
 {
 color = 0;
 glyphname = one.ss01;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 hints = (
 {
-place = "{151.000000, 79.000000}";
+place = "{151, 79}";
 },
 {
 horizontal = 1;
-place = "{0.000000, 56.000000}";
+place = "{0, 56}";
 },
 {
 horizontal = 1;
-place = "{711.000000, -20.000000}";
+place = "{711, -20}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17158,27 +16600,25 @@ width = 339;
 {
 color = 0;
 glyphname = two.ss01;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 hints = (
 {
-place = "{61.000000, 63.000000}";
+place = "{61, 63}";
 },
 {
-place = "{219.000000, 77.000000}";
-},
-{
-horizontal = 1;
-place = "{0.000000, 63.000000}";
+place = "{219, 77}";
 },
 {
 horizontal = 1;
-place = "{710.000000, -20.000000}";
+place = "{0, 63}";
+},
+{
+horizontal = 1;
+place = "{710, -20}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17209,27 +16649,25 @@ width = 339;
 {
 color = 0;
 glyphname = three.ss01;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 hints = (
 {
-place = "{48.000000, 51.000000}";
+place = "{48, 51}";
 },
 {
-place = "{215.000000, 76.000000}";
-},
-{
-horizontal = 1;
-place = "{21.000000, -21.000000}";
+place = "{215, 76}";
 },
 {
 horizontal = 1;
-place = "{645.000000, 65.000000}";
+place = "{21, -21}";
+},
+{
+horizontal = 1;
+place = "{645, 65}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17277,24 +16715,22 @@ width = 339;
 {
 color = 0;
 glyphname = four.ss01;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 hints = (
 {
-place = "{206.000000, 69.000000}";
+place = "{206, 69}";
 },
 {
 horizontal = 1;
-place = "{21.000000, -21.000000}";
+place = "{21, -21}";
 },
 {
 horizontal = 1;
-place = "{710.000000, -20.000000}";
+place = "{710, -20}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17329,27 +16765,25 @@ width = 339;
 {
 color = 0;
 glyphname = five.ss01;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 hints = (
 {
-place = "{42.000000, 67.000000}";
+place = "{42, 67}";
 },
 {
-place = "{211.000000, 75.000000}";
-},
-{
-horizontal = 1;
-place = "{21.000000, -21.000000}";
+place = "{211, 75}";
 },
 {
 horizontal = 1;
-place = "{710.000000, -20.000000}";
+place = "{21, -21}";
+},
+{
+horizontal = 1;
+place = "{710, -20}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17387,27 +16821,25 @@ width = 339;
 {
 color = 0;
 glyphname = six.ss01;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 hints = (
 {
-place = "{52.000000, 74.000000}";
+place = "{52, 74}";
 },
 {
-place = "{217.000000, 74.000000}";
-},
-{
-horizontal = 1;
-place = "{21.000000, -21.000000}";
+place = "{217, 74}";
 },
 {
 horizontal = 1;
-place = "{710.000000, -20.000000}";
+place = "{21, -21}";
+},
+{
+horizontal = 1;
+place = "{710, -20}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17447,29 +16879,27 @@ width = 339;
 {
 color = 0;
 glyphname = seven.ss01;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 hints = (
 {
 horizontal = 1;
-place = "{2.000000, -21.000000}";
+place = "{2, -21}";
 },
 {
 horizontal = 1;
-place = "{362.000000, 65.000000}";
+place = "{362, 65}";
 },
 {
 horizontal = 1;
-place = "{632.000000, 77.000000}";
+place = "{632, 77}";
 },
 {
 horizontal = 1;
-place = "{714.000000, -20.000000}";
+place = "{714, -20}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17502,27 +16932,25 @@ width = 339;
 {
 color = 0;
 glyphname = eight.ss01;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 hints = (
 {
-place = "{64.000000, 70.000000}";
+place = "{64, 70}";
 },
 {
-place = "{219.000000, 67.000000}";
-},
-{
-horizontal = 1;
-place = "{0.000000, 57.000000}";
+place = "{219, 67}";
 },
 {
 horizontal = 1;
-place = "{710.000000, -20.000000}";
+place = "{0, 57}";
+},
+{
+horizontal = 1;
+place = "{710, -20}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17570,30 +16998,28 @@ width = 339;
 {
 color = 0;
 glyphname = nine.ss01;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 hints = (
 {
-place = "{49.000000, 64.000000}";
+place = "{49, 64}";
 },
 {
-place = "{204.000000, 80.000000}";
+place = "{204, 80}";
 },
 {
-place = "{219.000000, 65.000000}";
-},
-{
-horizontal = 1;
-place = "{21.000000, -21.000000}";
+place = "{219, 65}";
 },
 {
 horizontal = 1;
-place = "{710.000000, -20.000000}";
+place = "{21, -21}";
+},
+{
+horizontal = 1;
+place = "{710, -20}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17631,12 +17057,111 @@ width = 339;
 },
 {
 color = 0;
-glyphname = fraction;
-lastChange = "2013-12-03 23:01:42 +0000";
+glyphname = onesuperior;
 layers = (
 {
 layerId = UUID0;
-name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"45 345 LINE",
+"200 345 LINE",
+"194 399 LINE",
+"147 397 LINE",
+"147 710 LINE",
+"112 710 LINE",
+"47 679 LINE",
+"46 652 LINE",
+"97 649 LINE",
+"89 395 LINE",
+"45 394 LINE"
+);
+}
+);
+width = 245;
+}
+);
+unicode = 00B9;
+},
+{
+color = 0;
+glyphname = twosuperior;
+layers = (
+{
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"113 403 LINE",
+"192 533 LINE",
+"199 710 LINE",
+"99 710 LINE",
+"62 662 LINE",
+"62 566 LINE",
+"96 568 LINE",
+"106 659 LINE",
+"148 659 LINE",
+"143 554 LINE",
+"53 399 LINE",
+"45 345 LINE",
+"203 345 LINE",
+"203 392 LINE"
+);
+}
+);
+width = 248;
+}
+);
+unicode = 00B2;
+},
+{
+color = 0;
+glyphname = threesuperior;
+layers = (
+{
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"189 595 LINE",
+"189 710 LINE",
+"73 710 LINE",
+"45 684 LINE",
+"45 657 LINE",
+"144 661 LINE",
+"142 604 LINE",
+"57 558 LINE",
+"77 533 LINE",
+"135 536 LINE",
+"143 395 LINE",
+"95 400 LINE",
+"90 461 LINE",
+"50 461 LINE",
+"50 345 LINE",
+"160 345 LINE",
+"187 375 LINE",
+"187 545 LINE",
+"183 550 OFFCURVE",
+"177 561 OFFCURVE",
+"172 568 CURVE",
+"185 581 LINE"
+);
+}
+);
+width = 234;
+}
+);
+unicode = 00B3;
+},
+{
+color = 0;
+glyphname = fraction;
+layers = (
+{
+layerId = UUID0;
 paths = (
 {
 closed = 1;
@@ -17656,11 +17181,9 @@ unicode = 2044;
 {
 color = 0;
 glyphname = onehalf;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17715,11 +17238,9 @@ unicode = 00BD;
 {
 color = 0;
 glyphname = onethird;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17782,11 +17303,9 @@ unicode = 2153;
 {
 color = 0;
 glyphname = twothirds;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17852,11 +17371,9 @@ unicode = 2154;
 {
 color = 0;
 glyphname = onequarter;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17913,11 +17430,9 @@ unicode = 00BC;
 {
 color = 0;
 glyphname = threequarters;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17985,11 +17500,9 @@ unicode = 00BE;
 {
 color = 0;
 glyphname = oneeighth;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18060,119 +17573,10 @@ unicode = 215B;
 },
 {
 color = 0;
-glyphname = onesuperior;
-lastChange = "2013-12-03 23:01:42 +0000";
-layers = (
-{
-layerId = UUID0;
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"45 345 LINE",
-"200 345 LINE",
-"194 399 LINE",
-"147 397 LINE",
-"147 710 LINE",
-"112 710 LINE",
-"47 679 LINE",
-"46 652 LINE",
-"97 649 LINE",
-"89 395 LINE",
-"45 394 LINE"
-);
-}
-);
-width = 245;
-}
-);
-unicode = 00B9;
-},
-{
-color = 0;
-glyphname = twosuperior;
-lastChange = "2013-12-03 23:01:42 +0000";
-layers = (
-{
-layerId = UUID0;
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"113 403 LINE",
-"192 533 LINE",
-"199 710 LINE",
-"99 710 LINE",
-"62 662 LINE",
-"62 566 LINE",
-"96 568 LINE",
-"106 659 LINE",
-"148 659 LINE",
-"143 554 LINE",
-"53 399 LINE",
-"45 345 LINE",
-"203 345 LINE",
-"203 392 LINE"
-);
-}
-);
-width = 248;
-}
-);
-unicode = 00B2;
-},
-{
-color = 0;
-glyphname = threesuperior;
-lastChange = "2013-12-03 23:01:42 +0000";
-layers = (
-{
-layerId = UUID0;
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"189 595 LINE",
-"189 710 LINE",
-"73 710 LINE",
-"45 684 LINE",
-"45 657 LINE",
-"144 661 LINE",
-"142 604 LINE",
-"57 558 LINE",
-"77 533 LINE",
-"135 536 LINE",
-"143 395 LINE",
-"95 400 LINE",
-"90 461 LINE",
-"50 461 LINE",
-"50 345 LINE",
-"160 345 LINE",
-"187 375 LINE",
-"187 545 LINE",
-"183 550 OFFCURVE",
-"177 561 OFFCURVE",
-"172 568 CURVE",
-"185 581 LINE"
-);
-}
-);
-width = 234;
-}
-);
-unicode = 00B3;
-},
-{
-color = 0;
 glyphname = asterisk;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18206,11 +17610,9 @@ unicode = 002A;
 {
 color = 0;
 glyphname = backslash;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18230,11 +17632,9 @@ unicode = 005C;
 {
 color = 0;
 glyphname = periodcentered;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18254,11 +17654,9 @@ unicode = 00B7;
 {
 color = 0;
 glyphname = bullet;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18278,11 +17676,9 @@ unicode = 2022;
 {
 color = 0;
 glyphname = colon;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18311,11 +17707,9 @@ unicode = 003A;
 {
 color = 0;
 glyphname = comma;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18337,11 +17731,9 @@ unicode = 002C;
 {
 color = 0;
 glyphname = ellipsis;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18379,11 +17771,9 @@ unicode = 2026;
 {
 color = 0;
 glyphname = exclam;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18412,11 +17802,9 @@ unicode = 0021;
 {
 color = 0;
 glyphname = exclamdown;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18445,11 +17833,9 @@ unicode = 00A1;
 {
 color = 0;
 glyphname = numbersign;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18502,11 +17888,9 @@ unicode = 0023;
 {
 color = 0;
 glyphname = period;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18526,11 +17910,9 @@ unicode = 002E;
 {
 color = 0;
 glyphname = question;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18569,11 +17951,9 @@ unicode = 003F;
 {
 color = 0;
 glyphname = questiondown;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18611,11 +17991,9 @@ unicode = 00BF;
 {
 color = 0;
 glyphname = quotedbl;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18644,11 +18022,9 @@ unicode = 0022;
 {
 color = 0;
 glyphname = quotesingle;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18668,11 +18044,9 @@ unicode = 0027;
 {
 color = 0;
 glyphname = semicolon;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18703,11 +18077,9 @@ unicode = 003B;
 {
 color = 0;
 glyphname = slash;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18727,11 +18099,9 @@ unicode = 002F;
 {
 color = 0;
 glyphname = underscore;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18751,11 +18121,9 @@ unicode = 005F;
 {
 color = 0;
 glyphname = quotesingle.loclGUA;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18775,11 +18143,9 @@ width = 143;
 {
 color = 0;
 glyphname = braceleft;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18814,11 +18180,9 @@ unicode = 007B;
 {
 color = 0;
 glyphname = braceright;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18853,11 +18217,9 @@ unicode = 007D;
 {
 color = 0;
 glyphname = bracketleft;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18881,11 +18243,9 @@ unicode = 005B;
 {
 color = 0;
 glyphname = bracketright;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18909,11 +18269,9 @@ unicode = 005D;
 {
 color = 0;
 glyphname = parenleft;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18937,11 +18295,9 @@ unicode = 0028;
 {
 color = 0;
 glyphname = parenright;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18965,11 +18321,9 @@ unicode = 0029;
 {
 color = 0;
 glyphname = emdash;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18989,11 +18343,9 @@ unicode = 2014;
 {
 color = 0;
 glyphname = endash;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19013,11 +18365,9 @@ unicode = 2013;
 {
 color = 0;
 glyphname = hyphen;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19037,11 +18387,9 @@ unicode = 002D;
 {
 color = 0;
 glyphname = softhyphen;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19061,11 +18409,9 @@ unicode = 00AD;
 {
 color = 0;
 glyphname = guillemotleft;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19102,11 +18448,9 @@ unicode = 00AB;
 {
 color = 0;
 glyphname = guillemotright;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19143,11 +18487,9 @@ unicode = 00BB;
 {
 color = 0;
 glyphname = guilsinglleft;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19171,11 +18513,9 @@ unicode = 2039;
 {
 color = 0;
 glyphname = guilsinglright;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19199,11 +18539,9 @@ unicode = 203A;
 {
 color = 0;
 glyphname = quotedblbase;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19236,11 +18574,9 @@ unicode = 201E;
 {
 color = 0;
 glyphname = quotedblleft;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19273,11 +18609,9 @@ unicode = 201C;
 {
 color = 0;
 glyphname = quotedblright;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19310,11 +18644,9 @@ unicode = 201D;
 {
 color = 0;
 glyphname = quoteleft;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19336,11 +18668,9 @@ unicode = 2018;
 {
 color = 0;
 glyphname = quoteright;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19362,11 +18692,9 @@ unicode = 2019;
 {
 color = 0;
 glyphname = quotesinglbase;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19388,11 +18716,9 @@ unicode = 201A;
 {
 color = 0;
 glyphname = emspace;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 width = 450;
 }
 );
@@ -19401,11 +18727,9 @@ unicode = 2003;
 {
 color = 0;
 glyphname = enspace;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 width = 335;
 }
 );
@@ -19414,11 +18738,9 @@ unicode = 2002;
 {
 color = 0;
 glyphname = "four-per-emspace";
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 width = 200;
 }
 );
@@ -19427,11 +18749,9 @@ unicode = 2005;
 {
 color = 0;
 glyphname = space;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 width = 178;
 }
 );
@@ -19440,11 +18760,9 @@ unicode = 0020;
 {
 color = 3;
 glyphname = nbspace;
-lastChange = "2013-12-11 20:10:30 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 width = 178;
 }
 );
@@ -19453,11 +18771,9 @@ unicode = 00A0;
 {
 color = 0;
 glyphname = "three-per-emspace";
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 width = 200;
 }
 );
@@ -19466,11 +18782,9 @@ unicode = 2004;
 {
 color = 0;
 glyphname = .notdef;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19528,11 +18842,9 @@ width = 339;
 {
 color = 0;
 glyphname = cent;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19591,11 +18903,9 @@ unicode = 00A2;
 {
 color = 0;
 glyphname = currency;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19649,11 +18959,9 @@ unicode = 00A4;
 {
 color = 0;
 glyphname = dollar;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19695,11 +19003,9 @@ unicode = 0024;
 {
 color = 0;
 glyphname = euro;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19746,11 +19052,9 @@ unicode = 20AC;
 {
 color = 0;
 glyphname = florin;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19784,11 +19088,9 @@ unicode = 0192;
 {
 color = 0;
 glyphname = guarani;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19849,11 +19151,9 @@ unicode = 20B2;
 {
 color = 0;
 glyphname = sterling;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19899,11 +19199,9 @@ unicode = 00A3;
 {
 color = 0;
 glyphname = yen;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19945,31 +19243,410 @@ unicode = 00A5;
 },
 {
 color = 3;
-glyphname = Ohm;
-lastChange = "2013-12-11 20:10:56 +0000";
+glyphname = bulletoperator;
 layers = (
 {
 components = (
 {
-name = Omega;
-transform = "{1, 0, 0, 1, 0, 0}";
+name = periodcentered;
 }
 );
 layerId = UUID0;
-name = Regular;
-width = 340;
+width = 206;
 }
 );
-unicode = 2126;
+unicode = 2219;
+},
+{
+color = 0;
+glyphname = divisionslash;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = "{225, -21}";
+},
+{
+horizontal = 1;
+place = "{938, -20}";
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"395 679 LINE",
+"361 707 LINE",
+"0 33 LINE",
+"39 -2 LINE"
+);
+}
+);
+width = 395;
+}
+);
+unicode = 2215;
+},
+{
+color = 0;
+glyphname = plus;
+layers = (
+{
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"139 516 LINE",
+"145 361 LINE",
+"10 366 LINE",
+"10 308 LINE",
+"140 308 LINE",
+"140 158 LINE",
+"188 158 LINE",
+"198 308 LINE",
+"328 308 LINE",
+"328 357 LINE",
+"198 366 LINE",
+"198 516 LINE"
+);
+}
+);
+width = 339;
+}
+);
+unicode = 002B;
+},
+{
+color = 0;
+glyphname = minus;
+layers = (
+{
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"10 388 LINE",
+"13 330 LINE",
+"328 330 LINE",
+"328 379 LINE"
+);
+}
+);
+width = 339;
+}
+);
+unicode = 2212;
+},
+{
+color = 0;
+glyphname = multiply;
+layers = (
+{
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"319 223 LINE",
+"208 341 LINE",
+"322 464 LINE",
+"281 504 LINE",
+"179 384 LINE",
+"60 513 LINE",
+"16 468 LINE",
+"137 336 LINE",
+"16 221 LINE",
+"62 176 LINE",
+"169 298 LINE",
+"270 173 LINE"
+);
+}
+);
+width = 339;
+}
+);
+unicode = 00D7;
+},
+{
+color = 0;
+glyphname = divide;
+layers = (
+{
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"10 366 LINE",
+"13 308 LINE",
+"328 308 LINE",
+"328 357 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"131 132 LINE",
+"223 132 LINE",
+"227 228 LINE",
+"131 224 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"131 444 LINE",
+"227 440 LINE",
+"223 536 LINE",
+"131 536 LINE"
+);
+}
+);
+width = 339;
+}
+);
+unicode = 00F7;
+},
+{
+color = 0;
+glyphname = equal;
+layers = (
+{
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"20 447 LINE",
+"20 379 LINE",
+"315 389 LINE",
+"318 448 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"23 281 LINE",
+"20 222 LINE",
+"314 222 LINE",
+"318 290 LINE"
+);
+}
+);
+width = 339;
+}
+);
+unicode = 003D;
+},
+{
+color = 0;
+glyphname = notequal;
+layers = (
+{
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"23 281 LINE",
+"20 222 LINE",
+"90 222 LINE",
+"41 113 LINE",
+"85 78 LINE",
+"148 222 LINE",
+"314 222 LINE",
+"318 290 LINE",
+"175 285 LINE",
+"219 386 LINE",
+"315 389 LINE",
+"318 448 LINE",
+"246 447 LINE",
+"298 567 LINE",
+"259 595 LINE",
+"192 447 LINE",
+"20 447 LINE",
+"20 379 LINE",
+"163 384 LINE",
+"118 284 LINE"
+);
+}
+);
+width = 339;
+}
+);
+unicode = 2260;
+},
+{
+color = 0;
+glyphname = greater;
+layers = (
+{
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"308 298 LINE",
+"304 364 LINE",
+"66 516 LINE",
+"30 458 LINE",
+"236 334 LINE",
+"236 330 LINE",
+"32 241 LINE",
+"87 158 LINE"
+);
+}
+);
+width = 339;
+}
+);
+unicode = 003E;
+},
+{
+color = 0;
+glyphname = less;
+layers = (
+{
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"262 158 LINE",
+"307 221 LINE",
+"103 330 LINE",
+"103 334 LINE",
+"309 458 LINE",
+"273 516 LINE",
+"35 364 LINE",
+"31 298 LINE"
+);
+}
+);
+width = 339;
+}
+);
+unicode = 003C;
+},
+{
+color = 0;
+glyphname = greaterequal;
+layers = (
+{
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"308 373 LINE",
+"304 439 LINE",
+"66 591 LINE",
+"30 533 LINE",
+"236 409 LINE",
+"236 405 LINE",
+"32 316 LINE",
+"87 233 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"10 178 LINE",
+"13 120 LINE",
+"328 120 LINE",
+"328 169 LINE"
+);
+}
+);
+width = 339;
+}
+);
+unicode = 2265;
+},
+{
+color = 0;
+glyphname = lessequal;
+layers = (
+{
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"262 233 LINE",
+"307 296 LINE",
+"103 405 LINE",
+"103 409 LINE",
+"309 533 LINE",
+"273 591 LINE",
+"35 439 LINE",
+"31 373 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"10 178 LINE",
+"13 120 LINE",
+"328 120 LINE",
+"328 169 LINE"
+);
+}
+);
+width = 339;
+}
+);
+unicode = 2264;
+},
+{
+color = 0;
+glyphname = plusminus;
+layers = (
+{
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"10 178 LINE",
+"13 120 LINE",
+"328 120 LINE",
+"328 169 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"139 598 LINE",
+"145 443 LINE",
+"10 448 LINE",
+"10 390 LINE",
+"140 390 LINE",
+"140 240 LINE",
+"188 240 LINE",
+"198 390 LINE",
+"328 390 LINE",
+"328 439 LINE",
+"198 448 LINE",
+"198 598 LINE"
+);
+}
+);
+width = 339;
+}
+);
+unicode = 00B1;
 },
 {
 color = 0;
 glyphname = approxequal;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -20030,11 +19707,9 @@ unicode = 2248;
 {
 color = 0;
 glyphname = asciitilde;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -20068,225 +19743,36 @@ width = 398;
 unicode = 007E;
 },
 {
-color = 3;
-glyphname = bulletoperator;
-lastChange = "2013-12-11 20:11:04 +0000";
-layers = (
-{
-components = (
-{
-name = periodcentered;
-transform = "{1, 0, 0, 1, 0, 0}";
-}
-);
-layerId = UUID0;
-name = Regular;
-width = 206;
-}
-);
-unicode = 2219;
-},
-{
 color = 0;
-glyphname = divide;
-lastChange = "2013-12-03 23:01:42 +0000";
+glyphname = logicalnot;
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
 nodes = (
-"10 366 LINE",
-"13 308 LINE",
-"328 308 LINE",
-"328 357 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"131 132 LINE",
-"223 132 LINE",
-"227 228 LINE",
-"131 224 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"131 444 LINE",
-"227 440 LINE",
-"223 536 LINE",
-"131 536 LINE"
+"278 315 LINE",
+"252 190 LINE",
+"312 175 LINE",
+"328 317 LINE",
+"328 366 LINE",
+"13 366 LINE",
+"10 308 LINE"
 );
 }
 );
 width = 339;
 }
 );
-unicode = 00F7;
-},
-{
-color = 0;
-glyphname = divisionslash;
-lastChange = "2013-12-03 23:01:42 +0000";
-layers = (
-{
-hints = (
-{
-horizontal = 1;
-place = "{225.000000, -21.000000}";
-},
-{
-horizontal = 1;
-place = "{938.000000, -20.000000}";
-}
-);
-layerId = UUID0;
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"395 679 LINE",
-"361 707 LINE",
-"0 33 LINE",
-"39 -2 LINE"
-);
-}
-);
-width = 395;
-}
-);
-unicode = 2215;
-},
-{
-color = 0;
-glyphname = equal;
-lastChange = "2013-12-03 23:01:42 +0000";
-layers = (
-{
-layerId = UUID0;
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"20 447 LINE",
-"20 379 LINE",
-"315 389 LINE",
-"318 448 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"23 281 LINE",
-"20 222 LINE",
-"314 222 LINE",
-"318 290 LINE"
-);
-}
-);
-width = 339;
-}
-);
-unicode = 003D;
-},
-{
-color = 0;
-glyphname = greater;
-lastChange = "2013-12-03 23:01:42 +0000";
-layers = (
-{
-layerId = UUID0;
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"308 298 LINE",
-"304 364 LINE",
-"66 516 LINE",
-"30 458 LINE",
-"236 334 LINE",
-"236 330 LINE",
-"32 241 LINE",
-"87 158 LINE"
-);
-}
-);
-width = 339;
-}
-);
-unicode = 003E;
-},
-{
-color = 0;
-glyphname = greaterequal;
-lastChange = "2013-12-03 23:01:42 +0000";
-layers = (
-{
-layerId = UUID0;
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"308 373 LINE",
-"304 439 LINE",
-"66 591 LINE",
-"30 533 LINE",
-"236 409 LINE",
-"236 405 LINE",
-"32 316 LINE",
-"87 233 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"10 178 LINE",
-"13 120 LINE",
-"328 120 LINE",
-"328 169 LINE"
-);
-}
-);
-width = 339;
-}
-);
-unicode = 2265;
-},
-{
-color = 0;
-glyphname = increment;
-lastChange = "2013-12-03 23:01:42 +0000";
-layers = (
-{
-components = (
-{
-name = Delta;
-transform = "{1, 0, 0, 1, 0, 0}";
-}
-);
-layerId = UUID0;
-name = Regular;
-width = 330;
-}
-);
-unicode = 2206;
+unicode = 00AC;
 },
 {
 color = 0;
 glyphname = infinity;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -20335,11 +19821,9 @@ unicode = 221E;
 {
 color = 0;
 glyphname = integral;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -20369,111 +19853,134 @@ width = 349;
 unicode = 222B;
 },
 {
+color = 3;
+glyphname = Ohm;
+layers = (
+{
+components = (
+{
+name = Omega;
+}
+);
+layerId = UUID0;
+width = 340;
+}
+);
+unicode = 2126;
+},
+{
 color = 0;
-glyphname = less;
-lastChange = "2013-12-03 23:01:42 +0000";
+glyphname = increment;
+layers = (
+{
+components = (
+{
+name = Delta;
+}
+);
+layerId = UUID0;
+width = 330;
+}
+);
+unicode = 2206;
+},
+{
+color = 0;
+glyphname = product;
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
 nodes = (
-"262 158 LINE",
-"307 221 LINE",
-"103 330 LINE",
-"103 334 LINE",
-"309 458 LINE",
-"273 516 LINE",
-"35 364 LINE",
-"31 298 LINE"
+"42 0 LINE",
+"106 0 LINE",
+"106 647 LINE",
+"183 641 LINE",
+"203 23 LINE",
+"253 23 LINE",
+"253 710 LINE",
+"49 702 LINE"
 );
 }
 );
-width = 339;
+width = 298;
 }
 );
-unicode = 003C;
+unicode = 220F;
 },
 {
 color = 0;
-glyphname = lessequal;
-lastChange = "2013-12-03 23:01:42 +0000";
+glyphname = summation;
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
 nodes = (
-"262 233 LINE",
-"307 296 LINE",
-"103 405 LINE",
-"103 409 LINE",
-"309 533 LINE",
-"273 591 LINE",
-"35 439 LINE",
-"31 373 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"10 178 LINE",
-"13 120 LINE",
-"328 120 LINE",
-"328 169 LINE"
+"259 101 LINE",
+"104 83 LINE",
+"241 388 LINE",
+"119 632 LINE",
+"282 652 LINE",
+"282 710 LINE",
+"79 710 LINE",
+"24 642 LINE",
+"153 365 LINE",
+"12 31 LINE",
+"23 0 LINE",
+"271 10 LINE"
 );
 }
 );
-width = 339;
+width = 316;
 }
 );
-unicode = 2264;
+unicode = 2211;
 },
 {
 color = 0;
-glyphname = logicalnot;
-lastChange = "2013-12-03 23:01:42 +0000";
+glyphname = radical;
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
 nodes = (
-"278 315 LINE",
-"252 190 LINE",
-"312 175 LINE",
-"328 317 LINE",
-"328 366 LINE",
-"13 366 LINE",
-"10 308 LINE"
+"199 0 LINE",
+"294 647 LINE",
+"381 656 LINE",
+"377 710 LINE",
+"239 710 LINE",
+"171 78 LINE",
+"167 78 LINE",
+"129 325 LINE",
+"10 325 LINE",
+"14 288 LINE",
+"85 269 LINE",
+"133 -10 LINE"
 );
 }
 );
-width = 339;
+width = 391;
 }
 );
-unicode = 00AC;
+unicode = 221A;
 },
 {
 color = 3;
 glyphname = micro;
-lastChange = "2013-12-11 20:11:11 +0000";
 layers = (
 {
 components = (
 {
 name = mu;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = UUID0;
-name = Regular;
 width = 304;
 }
 );
@@ -20481,108 +19988,10 @@ unicode = 00B5;
 },
 {
 color = 0;
-glyphname = minus;
-lastChange = "2013-12-03 23:01:42 +0000";
-layers = (
-{
-layerId = UUID0;
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"10 388 LINE",
-"13 330 LINE",
-"328 330 LINE",
-"328 379 LINE"
-);
-}
-);
-width = 339;
-}
-);
-unicode = 2212;
-},
-{
-color = 0;
-glyphname = multiply;
-lastChange = "2013-12-03 23:01:42 +0000";
-layers = (
-{
-layerId = UUID0;
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"319 223 LINE",
-"208 341 LINE",
-"322 464 LINE",
-"281 504 LINE",
-"179 384 LINE",
-"60 513 LINE",
-"16 468 LINE",
-"137 336 LINE",
-"16 221 LINE",
-"62 176 LINE",
-"169 298 LINE",
-"270 173 LINE"
-);
-}
-);
-width = 339;
-}
-);
-unicode = 00D7;
-},
-{
-color = 0;
-glyphname = notequal;
-lastChange = "2013-12-03 23:01:42 +0000";
-layers = (
-{
-layerId = UUID0;
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"23 281 LINE",
-"20 222 LINE",
-"90 222 LINE",
-"41 113 LINE",
-"85 78 LINE",
-"148 222 LINE",
-"314 222 LINE",
-"318 290 LINE",
-"175 285 LINE",
-"219 386 LINE",
-"315 389 LINE",
-"318 448 LINE",
-"246 447 LINE",
-"298 567 LINE",
-"259 595 LINE",
-"192 447 LINE",
-"20 447 LINE",
-"20 379 LINE",
-"163 384 LINE",
-"118 284 LINE"
-);
-}
-);
-width = 339;
-}
-);
-unicode = 2260;
-},
-{
-color = 0;
 glyphname = partialdiff;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -20615,11 +20024,9 @@ unicode = 2202;
 {
 color = 0;
 glyphname = percent;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -20701,11 +20108,9 @@ unicode = 0025;
 {
 color = 0;
 glyphname = perthousand;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -20817,177 +20222,10 @@ unicode = 2030;
 },
 {
 color = 0;
-glyphname = plus;
-lastChange = "2013-12-03 23:01:42 +0000";
-layers = (
-{
-layerId = UUID0;
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"139 516 LINE",
-"145 361 LINE",
-"10 366 LINE",
-"10 308 LINE",
-"140 308 LINE",
-"140 158 LINE",
-"188 158 LINE",
-"198 308 LINE",
-"328 308 LINE",
-"328 357 LINE",
-"198 366 LINE",
-"198 516 LINE"
-);
-}
-);
-width = 339;
-}
-);
-unicode = 002B;
-},
-{
-color = 0;
-glyphname = plusminus;
-lastChange = "2013-12-03 23:01:42 +0000";
-layers = (
-{
-layerId = UUID0;
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"10 178 LINE",
-"13 120 LINE",
-"328 120 LINE",
-"328 169 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"139 598 LINE",
-"145 443 LINE",
-"10 448 LINE",
-"10 390 LINE",
-"140 390 LINE",
-"140 240 LINE",
-"188 240 LINE",
-"198 390 LINE",
-"328 390 LINE",
-"328 439 LINE",
-"198 448 LINE",
-"198 598 LINE"
-);
-}
-);
-width = 339;
-}
-);
-unicode = 00B1;
-},
-{
-color = 0;
-glyphname = product;
-lastChange = "2013-12-03 23:01:42 +0000";
-layers = (
-{
-layerId = UUID0;
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"42 0 LINE",
-"106 0 LINE",
-"106 647 LINE",
-"183 641 LINE",
-"203 23 LINE",
-"253 23 LINE",
-"253 710 LINE",
-"49 702 LINE"
-);
-}
-);
-width = 298;
-}
-);
-unicode = 220F;
-},
-{
-color = 0;
-glyphname = radical;
-lastChange = "2013-12-03 23:01:42 +0000";
-layers = (
-{
-layerId = UUID0;
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"199 0 LINE",
-"294 647 LINE",
-"381 656 LINE",
-"377 710 LINE",
-"239 710 LINE",
-"171 78 LINE",
-"167 78 LINE",
-"129 325 LINE",
-"10 325 LINE",
-"14 288 LINE",
-"85 269 LINE",
-"133 -10 LINE"
-);
-}
-);
-width = 391;
-}
-);
-unicode = 221A;
-},
-{
-color = 0;
-glyphname = summation;
-lastChange = "2013-12-03 23:01:42 +0000";
-layers = (
-{
-layerId = UUID0;
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"259 101 LINE",
-"104 83 LINE",
-"241 388 LINE",
-"119 632 LINE",
-"282 652 LINE",
-"282 710 LINE",
-"79 710 LINE",
-"24 642 LINE",
-"153 365 LINE",
-"12 31 LINE",
-"23 0 LINE",
-"271 10 LINE"
-);
-}
-);
-width = 316;
-}
-);
-unicode = 2211;
-},
-{
-color = 0;
 glyphname = lozenge;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -21019,69 +20257,10 @@ unicode = 25CA;
 },
 {
 color = 0;
-glyphname = bar;
-lastChange = "2013-12-03 23:01:42 +0000";
-layers = (
-{
-layerId = UUID0;
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"118 762 LINE",
-"75 762 LINE",
-"75 -126 LINE",
-"125 -129 LINE"
-);
-}
-);
-width = 192;
-}
-);
-unicode = 007C;
-},
-{
-color = 0;
-glyphname = brokenbar;
-lastChange = "2013-12-03 23:01:42 +0000";
-layers = (
-{
-layerId = UUID0;
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"118 762 LINE",
-"75 762 LINE",
-"75 404 LINE",
-"125 401 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"72 -124 LINE",
-"122 -121 LINE",
-"122 237 LINE",
-"79 237 LINE"
-);
-}
-);
-width = 192;
-}
-);
-unicode = 00A6;
-},
-{
-color = 0;
 glyphname = at;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -21129,11 +20308,9 @@ unicode = 0040;
 {
 color = 0;
 glyphname = ampersand;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -21185,11 +20362,9 @@ unicode = 0026;
 {
 color = 0;
 glyphname = paragraph;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -21222,12 +20397,59 @@ unicode = 00B6;
 },
 {
 color = 0;
-glyphname = copyright;
-lastChange = "2013-12-03 23:01:42 +0000";
+glyphname = section;
 layers = (
 {
 layerId = UUID0;
-name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"264 415 LINE",
+"107 421 LINE",
+"133 640 LINE",
+"182 647 LINE",
+"202 569 LINE",
+"239 569 LINE",
+"244 710 LINE",
+"98 710 LINE",
+"58 686 LINE",
+"47 376 LINE",
+"77 369 LINE",
+"50 91 LINE",
+"179 61 LINE",
+"179 -167 LINE",
+"40 -167 LINE",
+"40 -235 LINE",
+"183 -235 LINE SMOOTH",
+"212 -235 OFFCURVE",
+"244 -203 OFFCURVE",
+"247 -175 CURVE",
+"271 113 LINE",
+"239 120 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"192 346 LINE",
+"171 136 LINE",
+"130 146 LINE",
+"145 355 LINE"
+);
+}
+);
+width = 311;
+}
+);
+unicode = 00A7;
+},
+{
+color = 0;
+glyphname = copyright;
+layers = (
+{
+layerId = UUID0;
 paths = (
 {
 closed = 1;
@@ -21302,11 +20524,9 @@ unicode = 00A9;
 {
 color = 0;
 glyphname = registered;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -21382,63 +20602,10 @@ unicode = 00AE;
 },
 {
 color = 0;
-glyphname = section;
-lastChange = "2013-12-03 23:01:42 +0000";
-layers = (
-{
-layerId = UUID0;
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"264 415 LINE",
-"107 421 LINE",
-"133 640 LINE",
-"182 647 LINE",
-"202 569 LINE",
-"239 569 LINE",
-"244 710 LINE",
-"98 710 LINE",
-"58 686 LINE",
-"47 376 LINE",
-"77 369 LINE",
-"50 91 LINE",
-"179 61 LINE",
-"179 -167 LINE",
-"40 -167 LINE",
-"40 -235 LINE",
-"183 -235 LINE SMOOTH",
-"212 -235 OFFCURVE",
-"244 -203 OFFCURVE",
-"247 -175 CURVE",
-"271 113 LINE",
-"239 120 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"192 346 LINE",
-"171 136 LINE",
-"130 146 LINE",
-"145 355 LINE"
-);
-}
-);
-width = 311;
-}
-);
-unicode = 00A7;
-},
-{
-color = 0;
 glyphname = trademark;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -21483,11 +20650,9 @@ unicode = 2122;
 {
 color = 0;
 glyphname = degree;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -21527,110 +20692,61 @@ width = 237;
 unicode = 00B0;
 },
 {
-color = 3;
-glyphname = estimated;
-lastChange = "2013-12-11 20:30:37 +0000";
+color = 0;
+glyphname = bar;
 layers = (
 {
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"363 213 LINE",
-"361 106 LINE SMOOTH",
-"361 94 OFFCURVE",
-"340 70 OFFCURVE",
-"332 70 CURVE SMOOTH",
-"160 70 LINE SMOOTH",
-"154 70 OFFCURVE",
-"151 72 OFFCURVE",
-"151 76 CURVE SMOOTH",
-"151 649 LINE SMOOTH",
-"151 655 OFFCURVE",
-"154 658 OFFCURVE",
-"160 658 CURVE SMOOTH",
-"302 658 LINE SMOOTH",
-"312 658 OFFCURVE",
-"321 655 OFFCURVE",
-"321 649 CURVE SMOOTH",
-"316 372 LINE",
-"428 372 LINE",
-"428 632 LINE",
-"338 710 LINE",
-"143 710 LINE",
-"50 628 LINE",
-"50 92 LINE",
-"139 0 LINE",
-"365 0 LINE",
-"428 76 LINE",
-"428 213 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"146 372 LINE",
-"406 372 LINE",
-"406 442 LINE",
-"146 442 LINE"
-);
-}
-);
-};
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
 nodes = (
-"428 372 LINE",
-"428 632 LINE",
-"338 710 LINE",
-"143 710 LINE",
-"50 628 LINE",
-"50 92 LINE",
-"139 0 LINE",
-"365 0 LINE",
-"428 76 LINE",
-"428 213 LINE",
-"363 213 LINE",
-"361 106 LINE SMOOTH",
-"361 94 OFFCURVE",
-"340 70 OFFCURVE",
-"332 70 CURVE SMOOTH",
-"160 70 LINE SMOOTH",
-"154 70 OFFCURVE",
-"151 72 OFFCURVE",
-"151 76 CURVE SMOOTH",
-"151 372 LINE"
+"118 762 LINE",
+"75 762 LINE",
+"75 -126 LINE",
+"125 -129 LINE"
+);
+}
+);
+width = 192;
+}
+);
+unicode = 007C;
+},
+{
+color = 0;
+glyphname = brokenbar;
+layers = (
+{
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"118 762 LINE",
+"75 762 LINE",
+"75 404 LINE",
+"125 401 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"309 658 LINE SMOOTH",
-"319 658 OFFCURVE",
-"328 655 OFFCURVE",
-"328 649 CURVE SMOOTH",
-"324 442 LINE",
-"151 442 LINE",
-"151 649 LINE SMOOTH",
-"151 655 OFFCURVE",
-"154 658 OFFCURVE",
-"160 658 CURVE SMOOTH"
+"72 -124 LINE",
+"122 -121 LINE",
+"122 237 LINE",
+"79 237 LINE"
 );
 }
 );
-width = 538;
+width = 192;
 }
 );
-unicode = 212E;
+unicode = 00A6;
 },
 {
 color = 3;
 glyphname = literSign;
-lastChange = "2013-12-11 20:39:13 +0000";
 layers = (
 {
 background = {
@@ -21681,7 +20797,6 @@ nodes = (
 );
 };
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -21726,39 +20841,10 @@ unicode = 2113;
 },
 {
 color = 0;
-glyphname = asciicircum;
-lastChange = "2013-12-03 23:01:42 +0000";
-layers = (
-{
-layerId = UUID0;
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"30 296 LINE",
-"59 277 LINE",
-"187 420 LINE",
-"311 277 LINE",
-"340 296 LINE",
-"207 487 LINE",
-"167 490 LINE"
-);
-}
-);
-width = 370;
-}
-);
-unicode = 005E;
-},
-{
-color = 0;
 glyphname = dagger;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -21786,11 +20872,9 @@ unicode = 2020;
 {
 color = 0;
 glyphname = daggerdbl;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -21824,747 +20908,132 @@ width = 317;
 unicode = 2021;
 },
 {
-color = 0;
-glyphname = acute;
-lastChange = "2013-12-03 23:01:42 +0000";
+color = 3;
+glyphname = estimated;
 layers = (
 {
-anchors = (
-{
-name = _top;
-position = "{85, 492}";
-}
-);
-layerId = UUID0;
-name = Regular;
+background = {
 paths = (
 {
 closed = 1;
 nodes = (
-"20 792 LINE",
-"54 768 LINE",
-"150 852 LINE",
-"104 900 LINE"
+"363 213 LINE",
+"361 106 LINE SMOOTH",
+"361 94 OFFCURVE",
+"340 70 OFFCURVE",
+"332 70 CURVE SMOOTH",
+"160 70 LINE SMOOTH",
+"154 70 OFFCURVE",
+"151 72 OFFCURVE",
+"151 76 CURVE SMOOTH",
+"151 649 LINE SMOOTH",
+"151 655 OFFCURVE",
+"154 658 OFFCURVE",
+"160 658 CURVE SMOOTH",
+"302 658 LINE SMOOTH",
+"312 658 OFFCURVE",
+"321 655 OFFCURVE",
+"321 649 CURVE SMOOTH",
+"316 372 LINE",
+"428 372 LINE",
+"428 632 LINE",
+"338 710 LINE",
+"143 710 LINE",
+"50 628 LINE",
+"50 92 LINE",
+"139 0 LINE",
+"365 0 LINE",
+"428 76 LINE",
+"428 213 LINE"
 );
-}
-);
-width = 170;
-}
-);
-unicode = 00B4;
 },
 {
-color = 0;
-glyphname = breve;
-lastChange = "2013-12-03 23:01:42 +0000";
-layers = (
-{
-anchors = (
-{
-name = _top;
-position = "{136.5, 492}";
+closed = 1;
+nodes = (
+"146 372 LINE",
+"406 372 LINE",
+"406 442 LINE",
+"146 442 LINE"
+);
 }
 );
+};
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
 nodes = (
-"30 894 LINE",
-"34 813 LINE",
-"79 785 LINE",
-"204 785 LINE",
-"243 824 LINE",
-"243 900 LINE",
-"197 896 LINE",
-"200 830 LINE",
-"90 835 LINE",
-"78 846 LINE",
-"83 894 LINE"
+"428 372 LINE",
+"428 632 LINE",
+"338 710 LINE",
+"143 710 LINE",
+"50 628 LINE",
+"50 92 LINE",
+"139 0 LINE",
+"365 0 LINE",
+"428 76 LINE",
+"428 213 LINE",
+"363 213 LINE",
+"361 106 LINE SMOOTH",
+"361 94 OFFCURVE",
+"340 70 OFFCURVE",
+"332 70 CURVE SMOOTH",
+"160 70 LINE SMOOTH",
+"154 70 OFFCURVE",
+"151 72 OFFCURVE",
+"151 76 CURVE SMOOTH",
+"151 372 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"309 658 LINE SMOOTH",
+"319 658 OFFCURVE",
+"328 655 OFFCURVE",
+"328 649 CURVE SMOOTH",
+"324 442 LINE",
+"151 442 LINE",
+"151 649 LINE SMOOTH",
+"151 655 OFFCURVE",
+"154 658 OFFCURVE",
+"160 658 CURVE SMOOTH"
 );
 }
 );
-width = 273;
+width = 538;
 }
 );
-unicode = 02D8;
+unicode = 212E;
 },
 {
 color = 0;
-glyphname = caron;
-lastChange = "2013-12-03 23:01:42 +0000";
+glyphname = asciicircum;
 layers = (
 {
-anchors = (
-{
-name = _top;
-position = "{114, 492}";
-}
-);
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
 nodes = (
-"208 881 LINE",
-"179 900 LINE",
-"114 838 LINE",
-"49 900 LINE",
-"20 881 LINE",
-"94 771 LINE",
-"134 768 LINE"
+"30 296 LINE",
+"59 277 LINE",
+"187 420 LINE",
+"311 277 LINE",
+"340 296 LINE",
+"207 487 LINE",
+"167 490 LINE"
 );
 }
 );
-width = 228;
+width = 370;
 }
 );
-unicode = 02C7;
-},
-{
-color = 0;
-glyphname = cedilla;
-lastChange = "2013-12-03 23:01:42 +0000";
-layers = (
-{
-anchors = (
-{
-name = _bottom;
-position = "{145.5, 0}";
-}
-);
-layerId = UUID0;
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"114 53 LINE",
-"74 -89 LINE",
-"179 -97 LINE",
-"169 -150 LINE",
-"40 -150 LINE",
-"40 -208 LINE",
-"163 -208 LINE SMOOTH",
-"192 -208 OFFCURVE",
-"227 -176 OFFCURVE",
-"227 -148 CURVE",
-"251 -45 LINE",
-"139 -45 LINE",
-"179 32 LINE"
-);
-}
-);
-width = 291;
-}
-);
-unicode = 00B8;
-},
-{
-color = 0;
-glyphname = circumflex;
-lastChange = "2013-12-03 23:01:42 +0000";
-layers = (
-{
-anchors = (
-{
-name = _top;
-position = "{114, 492}";
-}
-);
-layerId = UUID0;
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"20 787 LINE",
-"49 768 LINE",
-"114 830 LINE",
-"179 768 LINE",
-"208 787 LINE",
-"134 897 LINE",
-"94 900 LINE"
-);
-}
-);
-width = 228;
-}
-);
-unicode = 02C6;
-},
-{
-color = 0;
-glyphname = dieresis;
-lastChange = "2013-12-03 23:01:42 +0000";
-layers = (
-{
-anchors = (
-{
-name = _top;
-position = "{144.5, 492}";
-}
-);
-layerId = UUID0;
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"30 815 LINE",
-"109 815 LINE",
-"113 898 LINE",
-"30 895 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"183 815 LINE",
-"259 818 LINE",
-"259 898 LINE",
-"180 898 LINE"
-);
-}
-);
-width = 289;
-}
-);
-unicode = 00A8;
-},
-{
-color = 0;
-glyphname = dotaccent;
-lastChange = "2013-12-03 23:01:42 +0000";
-layers = (
-{
-anchors = (
-{
-name = _top;
-position = "{76.5, 492}";
-}
-);
-layerId = UUID0;
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"34 802 LINE",
-"123 805 LINE",
-"123 900 LINE",
-"30 900 LINE"
-);
-}
-);
-width = 153;
-}
-);
-unicode = 02D9;
-},
-{
-color = 0;
-glyphname = grave;
-lastChange = "2013-12-03 23:01:42 +0000";
-layers = (
-{
-anchors = (
-{
-name = _top;
-position = "{85, 492}";
-}
-);
-layerId = UUID0;
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"66 900 LINE",
-"20 852 LINE",
-"116 768 LINE",
-"150 792 LINE"
-);
-}
-);
-width = 170;
-}
-);
-unicode = 0060;
-},
-{
-color = 0;
-glyphname = hungarumlaut;
-lastChange = "2013-12-03 23:01:42 +0000";
-layers = (
-{
-anchors = (
-{
-name = _top;
-position = "{150, 492}";
-}
-);
-layerId = UUID0;
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"20 792 LINE",
-"54 768 LINE",
-"150 852 LINE",
-"104 900 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"150 792 LINE",
-"184 768 LINE",
-"280 852 LINE",
-"234 900 LINE"
-);
-}
-);
-width = 300;
-}
-);
-unicode = 02DD;
-},
-{
-color = 0;
-glyphname = macron;
-lastChange = "2013-12-03 23:01:42 +0000";
-layers = (
-{
-anchors = (
-{
-name = _top;
-position = "{164, 492}";
-}
-);
-layerId = UUID0;
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"30 891 LINE",
-"33 827 LINE",
-"298 836 LINE",
-"298 891 LINE"
-);
-}
-);
-width = 328;
-}
-);
-unicode = 00AF;
-},
-{
-color = 0;
-glyphname = ogonek;
-lastChange = "2013-12-03 23:01:42 +0000";
-layers = (
-{
-anchors = (
-{
-name = _ogonek;
-position = "{231, 10}";
-}
-);
-layerId = UUID0;
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"103 50 LINE",
-"30 -95 LINE",
-"118 -209 LINE",
-"231 -146 LINE",
-"215 -100 LINE",
-"126 -145 LINE",
-"92 -83 LINE",
-"118 0 LINE",
-"118 40 LINE"
-);
-}
-);
-width = 301;
-}
-);
-unicode = 02DB;
-},
-{
-color = 0;
-glyphname = ring;
-lastChange = "2013-12-03 23:01:42 +0000";
-layers = (
-{
-anchors = (
-{
-name = _top;
-position = "{99.5, 492}";
-}
-);
-layerId = UUID0;
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"30 900 LINE",
-"30 765 LINE",
-"144 765 LINE",
-"169 791 LINE",
-"169 900 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"79 800 LINE SMOOTH",
-"75 800 OFFCURVE",
-"73 801 OFFCURVE",
-"73 804 CURVE SMOOTH",
-"73 870 LINE SMOOTH",
-"73 872 OFFCURVE",
-"76 873 OFFCURVE",
-"81 873 CURVE",
-"121 868 LINE",
-"125 866 OFFCURVE",
-"127 864 OFFCURVE",
-"127 862 CURVE SMOOTH",
-"127 806 LINE SMOOTH",
-"127 802 OFFCURVE",
-"125 800 OFFCURVE",
-"120 800 CURVE SMOOTH"
-);
-}
-);
-width = 199;
-}
-);
-unicode = 02DA;
-},
-{
-color = 0;
-glyphname = tilde;
-lastChange = "2013-12-03 23:01:42 +0000";
-layers = (
-{
-anchors = (
-{
-name = _top;
-position = "{164, 492}";
-}
-);
-layerId = UUID0;
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"99 897 OFFCURVE",
-"87 892 OFFCURVE",
-"76 883 CURVE SMOOTH",
-"50 860 LINE",
-"53 791 LINE",
-"121 844 LINE",
-"165 813 LINE SMOOTH",
-"182 801 OFFCURVE",
-"195 794 OFFCURVE",
-"210 794 CURVE SMOOTH",
-"222 794 OFFCURVE",
-"241 805 OFFCURVE",
-"254 817 CURVE SMOOTH",
-"278 840 LINE",
-"278 900 LINE",
-"206 852 LINE",
-"168 877 LINE SMOOTH",
-"152 888 OFFCURVE",
-"133 897 OFFCURVE",
-"114 897 CURVE SMOOTH"
-);
-}
-);
-width = 328;
-}
-);
-unicode = 02DC;
-},
-{
-color = 0;
-glyphname = caron.alt;
-lastChange = "2013-12-03 23:01:42 +0000";
-layers = (
-{
-anchors = (
-{
-name = _top;
-position = "{85.5, 492}";
-}
-);
-layerId = UUID0;
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"81 803 LINE",
-"30 728 LINE",
-"73 713 LINE",
-"141 803 LINE",
-"135 899 LINE",
-"49 895 LINE"
-);
-}
-);
-width = 171;
-}
-);
-},
-{
-color = 0;
-glyphname = acute.loclPLK;
-lastChange = "2013-12-03 23:01:42 +0000";
-layers = (
-{
-anchors = (
-{
-name = _top;
-position = "{77, 492}";
-}
-);
-layerId = UUID0;
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"30 769 LINE",
-"71 761 LINE",
-"124 877 LINE",
-"61 897 LINE"
-);
-}
-);
-width = 154;
-}
-);
-},
-{
-color = 0;
-glyphname = acutecomb;
-lastChange = "2013-12-03 23:01:42 +0000";
-layers = (
-{
-anchors = (
-{
-name = _top;
-position = "{85, 492}";
-}
-);
-layerId = UUID0;
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"20 792 LINE",
-"54 768 LINE",
-"150 852 LINE",
-"104 900 LINE"
-);
-}
-);
-width = 170;
-}
-);
-unicode = 0301;
-},
-{
-color = 0;
-glyphname = brevecomb;
-lastChange = "2013-12-03 23:01:42 +0000";
-layers = (
-{
-anchors = (
-{
-name = _top;
-position = "{136.5, 492}";
-}
-);
-layerId = UUID0;
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"30 894 LINE",
-"34 813 LINE",
-"79 785 LINE",
-"204 785 LINE",
-"243 824 LINE",
-"243 900 LINE",
-"197 896 LINE",
-"200 830 LINE",
-"90 835 LINE",
-"78 846 LINE",
-"83 894 LINE"
-);
-}
-);
-width = 273;
-}
-);
-unicode = 0306;
-},
-{
-color = 0;
-glyphname = caroncomb;
-lastChange = "2013-12-03 23:01:42 +0000";
-layers = (
-{
-anchors = (
-{
-name = _top;
-position = "{114, 492}";
-}
-);
-layerId = UUID0;
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"208 881 LINE",
-"179 900 LINE",
-"114 838 LINE",
-"49 900 LINE",
-"20 881 LINE",
-"94 771 LINE",
-"134 768 LINE"
-);
-}
-);
-width = 228;
-}
-);
-unicode = 030C;
-},
-{
-color = 0;
-glyphname = cedillacomb;
-lastChange = "2013-12-03 23:01:42 +0000";
-layers = (
-{
-anchors = (
-{
-name = _bottom;
-position = "{145.5, 0}";
-}
-);
-layerId = UUID0;
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"114 53 LINE",
-"74 -89 LINE",
-"179 -97 LINE",
-"169 -150 LINE",
-"40 -150 LINE",
-"40 -208 LINE",
-"163 -208 LINE SMOOTH",
-"192 -208 OFFCURVE",
-"227 -176 OFFCURVE",
-"227 -148 CURVE",
-"251 -45 LINE",
-"139 -45 LINE",
-"179 32 LINE"
-);
-}
-);
-width = 291;
-}
-);
-unicode = 0327;
-},
-{
-color = 0;
-glyphname = circumflexcomb;
-lastChange = "2013-12-03 23:01:42 +0000";
-layers = (
-{
-anchors = (
-{
-name = _top;
-position = "{114, 492}";
-}
-);
-layerId = UUID0;
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"20 787 LINE",
-"49 768 LINE",
-"114 830 LINE",
-"179 768 LINE",
-"208 787 LINE",
-"134 897 LINE",
-"94 900 LINE"
-);
-}
-);
-width = 228;
-}
-);
-unicode = 0302;
-},
-{
-color = 0;
-glyphname = commaaccent;
-lastChange = "2013-12-03 23:01:42 +0000";
-layers = (
-{
-anchors = (
-{
-name = _bottom;
-position = "{79, 0}";
-}
-);
-layerId = UUID0;
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"39 -160 LINE",
-"81 -160 LINE",
-"35 -234 LINE",
-"90 -250 LINE",
-"123 -160 LINE",
-"120 -78 LINE",
-"39 -78 LINE"
-);
-}
-);
-width = 148;
-}
-);
-unicode = 0326;
+unicode = 005E;
 },
 {
 color = 0;
 glyphname = dieresiscomb;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -22574,7 +21043,6 @@ position = "{144.5, 492}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -22603,7 +21071,6 @@ unicode = 0308;
 {
 color = 0;
 glyphname = dotaccentcomb;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -22613,7 +21080,6 @@ position = "{76.5, 492}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -22632,38 +21098,7 @@ unicode = 0307;
 },
 {
 color = 0;
-glyphname = dotbelowcomb;
-lastChange = "2013-12-03 23:01:42 +0000";
-layers = (
-{
-anchors = (
-{
-name = _bottom;
-position = "{76.5, 0}";
-}
-);
-layerId = UUID0;
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"34 802 LINE",
-"123 805 LINE",
-"123 900 LINE",
-"30 900 LINE"
-);
-}
-);
-width = 153;
-}
-);
-unicode = 0323;
-},
-{
-color = 0;
 glyphname = gravecomb;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -22673,7 +21108,6 @@ position = "{85, 492}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -22692,8 +21126,35 @@ unicode = 0300;
 },
 {
 color = 0;
+glyphname = acutecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{85, 492}";
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"20 792 LINE",
+"54 768 LINE",
+"150 852 LINE",
+"104 900 LINE"
+);
+}
+);
+width = 170;
+}
+);
+unicode = 0301;
+},
+{
+color = 0;
 glyphname = hungarumlautcomb;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -22703,7 +21164,6 @@ position = "{150, 492}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -22731,38 +21191,104 @@ unicode = 030B;
 },
 {
 color = 0;
-glyphname = macroncomb;
-lastChange = "2013-12-03 23:01:42 +0000";
+glyphname = circumflexcomb;
 layers = (
 {
 anchors = (
 {
 name = _top;
-position = "{164, 492}";
+position = "{114, 492}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
 nodes = (
-"30 891 LINE",
-"33 827 LINE",
-"298 836 LINE",
-"298 891 LINE"
+"20 787 LINE",
+"49 768 LINE",
+"114 830 LINE",
+"179 768 LINE",
+"208 787 LINE",
+"134 897 LINE",
+"94 900 LINE"
 );
 }
 );
-width = 328;
+width = 228;
 }
 );
-unicode = 0304;
+unicode = 0302;
+},
+{
+color = 0;
+glyphname = caroncomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{114, 492}";
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"208 881 LINE",
+"179 900 LINE",
+"114 838 LINE",
+"49 900 LINE",
+"20 881 LINE",
+"94 771 LINE",
+"134 768 LINE"
+);
+}
+);
+width = 228;
+}
+);
+unicode = 030C;
+},
+{
+color = 0;
+glyphname = brevecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{136.5, 492}";
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"30 894 LINE",
+"34 813 LINE",
+"79 785 LINE",
+"204 785 LINE",
+"243 824 LINE",
+"243 900 LINE",
+"197 896 LINE",
+"200 830 LINE",
+"90 835 LINE",
+"78 846 LINE",
+"83 894 LINE"
+);
+}
+);
+width = 273;
+}
+);
+unicode = 0306;
 },
 {
 color = 0;
 glyphname = ringcomb;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -22772,7 +21298,6 @@ position = "{99.5, 492}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -22814,7 +21339,6 @@ unicode = 030A;
 {
 color = 0;
 glyphname = tildecomb;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 anchors = (
@@ -22824,7 +21348,6 @@ position = "{164, 492}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -22859,12 +21382,134 @@ unicode = 0303;
 },
 {
 color = 0;
+glyphname = macroncomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{164, 492}";
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"30 891 LINE",
+"33 827 LINE",
+"298 836 LINE",
+"298 891 LINE"
+);
+}
+);
+width = 328;
+}
+);
+unicode = 0304;
+},
+{
+color = 0;
+glyphname = dotbelowcomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{76.5, 0}";
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"34 802 LINE",
+"123 805 LINE",
+"123 900 LINE",
+"30 900 LINE"
+);
+}
+);
+width = 153;
+}
+);
+unicode = 0323;
+},
+{
+color = 0;
+glyphname = commaaccent;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{79, 0}";
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"39 -160 LINE",
+"81 -160 LINE",
+"35 -234 LINE",
+"90 -250 LINE",
+"123 -160 LINE",
+"120 -78 LINE",
+"39 -78 LINE"
+);
+}
+);
+width = 148;
+}
+);
+unicode = 0326;
+},
+{
+color = 0;
+glyphname = cedillacomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{145.5, 0}";
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"114 53 LINE",
+"74 -89 LINE",
+"179 -97 LINE",
+"169 -150 LINE",
+"40 -150 LINE",
+"40 -208 LINE",
+"163 -208 LINE SMOOTH",
+"192 -208 OFFCURVE",
+"227 -176 OFFCURVE",
+"227 -148 CURVE",
+"251 -45 LINE",
+"139 -45 LINE",
+"179 32 LINE"
+);
+}
+);
+width = 291;
+}
+);
+unicode = 0327;
+},
+{
+color = 0;
 glyphname = apostrophemod;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -22887,17 +21532,14 @@ unicode = 02BC;
 {
 color = 3;
 glyphname = firsttonechinese;
-lastChange = "2013-12-11 21:26:49 +0000";
 layers = (
 {
 components = (
 {
 name = macron;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = UUID0;
-name = Regular;
 width = 328;
 }
 );
@@ -22905,12 +21547,513 @@ unicode = 02C9;
 },
 {
 color = 0;
+glyphname = acute;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{85, 492}";
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"20 792 LINE",
+"54 768 LINE",
+"150 852 LINE",
+"104 900 LINE"
+);
+}
+);
+width = 170;
+}
+);
+unicode = 00B4;
+},
+{
+color = 0;
+glyphname = breve;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{136.5, 492}";
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"30 894 LINE",
+"34 813 LINE",
+"79 785 LINE",
+"204 785 LINE",
+"243 824 LINE",
+"243 900 LINE",
+"197 896 LINE",
+"200 830 LINE",
+"90 835 LINE",
+"78 846 LINE",
+"83 894 LINE"
+);
+}
+);
+width = 273;
+}
+);
+unicode = 02D8;
+},
+{
+color = 0;
+glyphname = caron;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{114, 492}";
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"208 881 LINE",
+"179 900 LINE",
+"114 838 LINE",
+"49 900 LINE",
+"20 881 LINE",
+"94 771 LINE",
+"134 768 LINE"
+);
+}
+);
+width = 228;
+}
+);
+unicode = 02C7;
+},
+{
+color = 0;
+glyphname = cedilla;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{145.5, 0}";
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"114 53 LINE",
+"74 -89 LINE",
+"179 -97 LINE",
+"169 -150 LINE",
+"40 -150 LINE",
+"40 -208 LINE",
+"163 -208 LINE SMOOTH",
+"192 -208 OFFCURVE",
+"227 -176 OFFCURVE",
+"227 -148 CURVE",
+"251 -45 LINE",
+"139 -45 LINE",
+"179 32 LINE"
+);
+}
+);
+width = 291;
+}
+);
+unicode = 00B8;
+},
+{
+color = 0;
+glyphname = circumflex;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{114, 492}";
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"20 787 LINE",
+"49 768 LINE",
+"114 830 LINE",
+"179 768 LINE",
+"208 787 LINE",
+"134 897 LINE",
+"94 900 LINE"
+);
+}
+);
+width = 228;
+}
+);
+unicode = 02C6;
+},
+{
+color = 0;
+glyphname = dieresis;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{144.5, 492}";
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"30 815 LINE",
+"109 815 LINE",
+"113 898 LINE",
+"30 895 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"183 815 LINE",
+"259 818 LINE",
+"259 898 LINE",
+"180 898 LINE"
+);
+}
+);
+width = 289;
+}
+);
+unicode = 00A8;
+},
+{
+color = 0;
+glyphname = dotaccent;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{76.5, 492}";
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"34 802 LINE",
+"123 805 LINE",
+"123 900 LINE",
+"30 900 LINE"
+);
+}
+);
+width = 153;
+}
+);
+unicode = 02D9;
+},
+{
+color = 0;
+glyphname = grave;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{85, 492}";
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"66 900 LINE",
+"20 852 LINE",
+"116 768 LINE",
+"150 792 LINE"
+);
+}
+);
+width = 170;
+}
+);
+unicode = 0060;
+},
+{
+color = 0;
+glyphname = hungarumlaut;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{150, 492}";
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"20 792 LINE",
+"54 768 LINE",
+"150 852 LINE",
+"104 900 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"150 792 LINE",
+"184 768 LINE",
+"280 852 LINE",
+"234 900 LINE"
+);
+}
+);
+width = 300;
+}
+);
+unicode = 02DD;
+},
+{
+color = 0;
+glyphname = macron;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{164, 492}";
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"30 891 LINE",
+"33 827 LINE",
+"298 836 LINE",
+"298 891 LINE"
+);
+}
+);
+width = 328;
+}
+);
+unicode = 00AF;
+},
+{
+color = 0;
+glyphname = ogonek;
+layers = (
+{
+anchors = (
+{
+name = _ogonek;
+position = "{231, 10}";
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"103 50 LINE",
+"30 -95 LINE",
+"118 -209 LINE",
+"231 -146 LINE",
+"215 -100 LINE",
+"126 -145 LINE",
+"92 -83 LINE",
+"118 0 LINE",
+"118 40 LINE"
+);
+}
+);
+width = 301;
+}
+);
+unicode = 02DB;
+},
+{
+color = 0;
+glyphname = ring;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{99.5, 492}";
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"30 900 LINE",
+"30 765 LINE",
+"144 765 LINE",
+"169 791 LINE",
+"169 900 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"79 800 LINE SMOOTH",
+"75 800 OFFCURVE",
+"73 801 OFFCURVE",
+"73 804 CURVE SMOOTH",
+"73 870 LINE SMOOTH",
+"73 872 OFFCURVE",
+"76 873 OFFCURVE",
+"81 873 CURVE",
+"121 868 LINE",
+"125 866 OFFCURVE",
+"127 864 OFFCURVE",
+"127 862 CURVE SMOOTH",
+"127 806 LINE SMOOTH",
+"127 802 OFFCURVE",
+"125 800 OFFCURVE",
+"120 800 CURVE SMOOTH"
+);
+}
+);
+width = 199;
+}
+);
+unicode = 02DA;
+},
+{
+color = 0;
+glyphname = tilde;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{164, 492}";
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"99 897 OFFCURVE",
+"87 892 OFFCURVE",
+"76 883 CURVE SMOOTH",
+"50 860 LINE",
+"53 791 LINE",
+"121 844 LINE",
+"165 813 LINE SMOOTH",
+"182 801 OFFCURVE",
+"195 794 OFFCURVE",
+"210 794 CURVE SMOOTH",
+"222 794 OFFCURVE",
+"241 805 OFFCURVE",
+"254 817 CURVE SMOOTH",
+"278 840 LINE",
+"278 900 LINE",
+"206 852 LINE",
+"168 877 LINE SMOOTH",
+"152 888 OFFCURVE",
+"133 897 OFFCURVE",
+"114 897 CURVE SMOOTH"
+);
+}
+);
+width = 328;
+}
+);
+unicode = 02DC;
+},
+{
+color = 0;
+glyphname = caron.alt;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{85.5, 492}";
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"81 803 LINE",
+"30 728 LINE",
+"73 713 LINE",
+"141 803 LINE",
+"135 899 LINE",
+"49 895 LINE"
+);
+}
+);
+width = 171;
+}
+);
+},
+{
+color = 0;
+glyphname = acute.loclPLK;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{77, 492}";
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"30 769 LINE",
+"71 761 LINE",
+"124 877 LINE",
+"61 897 LINE"
+);
+}
+);
+width = 154;
+}
+);
+},
+{
+color = 0;
 glyphname = baraccent;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -22929,11 +22072,9 @@ width = 253;
 {
 color = 0;
 glyphname = baraccentlong;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -22952,11 +22093,9 @@ width = 501;
 {
 color = 0;
 glyphname = baraccentmedium;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -22975,11 +22114,9 @@ width = 363;
 {
 color = 0;
 glyphname = commaaccentinvert;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -23001,20 +22138,18 @@ width = 148;
 {
 color = 0;
 glyphname = dotbelow;
-lastChange = "2013-12-03 23:01:42 +0000";
 layers = (
 {
 hints = (
 {
-place = "{32.000000, 91.000000}";
+place = "{32, 91}";
 },
 {
 horizontal = 1;
-place = "{-154.000000, 98.000000}";
+place = "{-154, 98}";
 }
 );
 layerId = UUID0;
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -23029,6 +22164,26 @@ nodes = (
 width = 153;
 }
 );
+},
+{
+glyphname = CR;
+layers = (
+{
+layerId = UUID0;
+width = 178;
+}
+);
+unicode = 000D;
+},
+{
+glyphname = NULL;
+layers = (
+{
+layerId = UUID0;
+width = 0;
+}
+);
+unicode = 0000;
 }
 );
 instances = (
@@ -23039,6 +22194,9 @@ name = "TTFAutohint options";
 value = "--windows-compatibility --no-info --strong-stem-width=gD";
 }
 );
+instanceInterpolations = {
+UUID0 = 1;
+};
 name = Regular;
 }
 );
@@ -23046,5 +22204,5 @@ manufacturer = "Pablo Cosgaya & Dani Raskovsky";
 manufacturerURL = "http://www.omnibus-type.com/";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 4;
+versionMinor = 5;
 }
