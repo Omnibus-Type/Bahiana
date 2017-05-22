@@ -1,37 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hbar" format="1">
-  <advance width="333"/>
+  <advance width="293"/>
   <unicode hex="0127"/>
   <outline>
-    <contour>
-      <point x="239" y="0" type="line"/>
-      <point x="283" y="0" type="line"/>
-      <point x="283" y="710" type="line"/>
-      <point x="210" y="710" type="line"/>
-      <point x="210" y="400" type="line"/>
-      <point x="111" y="395" type="line"/>
-      <point x="116" y="540" type="line"/>
-      <point x="319" y="543" type="line"/>
-      <point x="319" y="592" type="line"/>
-      <point x="118" y="592" type="line"/>
-      <point x="122" y="710" type="line"/>
-      <point x="50" y="710" type="line"/>
-      <point x="50" y="592" type="line"/>
-      <point x="2" y="592" type="line"/>
-      <point x="5" y="534" type="line"/>
-      <point x="50" y="536" type="line"/>
-      <point x="50" y="0" type="line"/>
-      <point x="124" y="0" type="line"/>
-      <point x="124" y="327" type="line"/>
-      <point x="210" y="310" type="line"/>
-    </contour>
+    <component base="h"/>
+    <component base="baraccent" yOffset="282"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-28 20:31:02 +0000</string>
     </dict>
   </lib>
 </glyph>

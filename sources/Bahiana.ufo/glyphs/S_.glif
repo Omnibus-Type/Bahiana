@@ -1,41 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="S" format="1">
-  <advance width="287"/>
+  <advance width="271"/>
   <unicode hex="0053"/>
   <outline>
     <contour>
-      <point x="247" y="661" type="line"/>
-      <point x="247" y="710" type="line"/>
-      <point x="80" y="710" type="line" smooth="yes"/>
-      <point x="59" y="710"/>
-      <point x="40" y="684"/>
-      <point x="40" y="663" type="curve" smooth="yes"/>
-      <point x="40" y="366" type="line"/>
-      <point x="155" y="336" type="line"/>
-      <point x="179" y="68" type="line"/>
-      <point x="40" y="68" type="line"/>
-      <point x="40" y="0" type="line"/>
-      <point x="183" y="0" type="line" smooth="yes"/>
-      <point x="212" y="0"/>
-      <point x="247" y="32"/>
-      <point x="247" y="60" type="curve" smooth="yes"/>
-      <point x="247" y="388" type="line"/>
-      <point x="120" y="421" type="line"/>
-      <point x="105" y="642" type="line"/>
+      <point x="112" y="421" type="line"/>
+      <point x="97" y="642" type="line"/>
+      <point x="239" y="661" type="line"/>
+      <point x="239" y="710" type="line"/>
+      <point x="72" y="710" type="line" smooth="yes"/>
+      <point x="51" y="710"/>
+      <point x="32" y="684"/>
+      <point x="32" y="663" type="curve" smooth="yes"/>
+      <point x="32" y="366" type="line"/>
+      <point x="147" y="336" type="line"/>
+      <point x="171" y="68" type="line"/>
+      <point x="32" y="68" type="line"/>
+      <point x="32" y="0" type="line"/>
+      <point x="175" y="0" type="line" smooth="yes"/>
+      <point x="204" y="0"/>
+      <point x="239" y="32"/>
+      <point x="239" y="60" type="curve" smooth="yes"/>
+      <point x="239" y="388" type="line"/>
     </contour>
     <contour>
-      <point x="144" y="710" type="move" name="top"/>
+      <point x="142" y="710" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="144" y="0" type="move" name="bottom"/>
+      <point x="146" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-24 01:51:35 +0000</string>
     </dict>
   </lib>
 </glyph>

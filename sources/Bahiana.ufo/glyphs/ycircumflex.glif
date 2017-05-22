@@ -1,37 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ycircumflex" format="1">
-  <advance width="263"/>
+  <advance width="264"/>
   <unicode hex="0177"/>
   <outline>
-    <contour>
-      <point x="168" y="369" type="line"/>
-      <point x="204" y="431" type="line"/>
-      <point x="248" y="710" type="line"/>
-      <point x="178" y="710" type="line"/>
-      <point x="148" y="415" type="line"/>
-      <point x="140" y="413" type="line"/>
-      <point x="106" y="700" type="line"/>
-      <point x="15" y="700" type="line"/>
-      <point x="108" y="374" type="line"/>
-      <point x="108" y="0" type="line"/>
-      <point x="185" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="47" y="787" type="line"/>
-      <point x="76" y="768" type="line"/>
-      <point x="141" y="830" type="line"/>
-      <point x="206" y="768" type="line"/>
-      <point x="235" y="787" type="line"/>
-      <point x="161" y="897" type="line"/>
-      <point x="121" y="900" type="line"/>
-    </contour>
+    <component base="y"/>
+    <component base="uni0302" xOffset="18" yOffset="-128"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-28 20:30:54 +0000</string>
     </dict>
   </lib>
 </glyph>

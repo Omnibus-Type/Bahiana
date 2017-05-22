@@ -1,34 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="U" format="1">
-  <advance width="310"/>
+  <advance width="290"/>
   <unicode hex="0055"/>
   <outline>
     <contour>
-      <point x="261" y="710" type="line"/>
-      <point x="176" y="710" type="line"/>
-      <point x="197" y="63" type="line"/>
-      <point x="110" y="69" type="line"/>
-      <point x="110" y="687" type="line"/>
-      <point x="50" y="687" type="line"/>
-      <point x="50" y="0" type="line"/>
-      <point x="217" y="0" type="line" smooth="yes"/>
-      <point x="236" y="0"/>
-      <point x="260" y="21"/>
-      <point x="260" y="40" type="curve" smooth="yes"/>
+      <point x="250" y="40" type="curve"/>
+      <point x="250" y="710" type="line"/>
+      <point x="166" y="710" type="line"/>
+      <point x="187" y="63" type="line"/>
+      <point x="100" y="69" type="line"/>
+      <point x="100" y="687" type="line"/>
+      <point x="40" y="687" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="207" y="0" type="line" smooth="yes"/>
+      <point x="226" y="0"/>
+      <point x="250" y="21"/>
     </contour>
     <contour>
-      <point x="279" y="10" type="move" name="ogonek"/>
+      <point x="143" y="710" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="155" y="710" type="move" name="top"/>
+      <point x="136" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-14 20:29:20 +0000</string>
     </dict>
   </lib>
 </glyph>

@@ -4,22 +4,20 @@
   <unicode hex="003C"/>
   <outline>
     <contour>
+      <point x="35" y="364" type="line"/>
+      <point x="31" y="298" type="line"/>
       <point x="262" y="158" type="line"/>
       <point x="307" y="221" type="line"/>
       <point x="103" y="330" type="line"/>
       <point x="103" y="334" type="line"/>
       <point x="309" y="458" type="line"/>
       <point x="273" y="516" type="line"/>
-      <point x="35" y="364" type="line"/>
-      <point x="31" y="298" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-13 14:17:54 +0000</string>
     </dict>
   </lib>
 </glyph>

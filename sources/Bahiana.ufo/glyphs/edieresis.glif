@@ -1,41 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="edieresis" format="1">
-  <advance width="330"/>
+  <advance width="281"/>
   <unicode hex="00EB"/>
   <outline>
-    <contour>
-      <point x="269" y="83" type="line"/>
-      <point x="127" y="75" type="line"/>
-      <point x="127" y="362" type="line"/>
-      <point x="269" y="356" type="line"/>
-      <point x="269" y="404" type="line"/>
-      <point x="144" y="427" type="line"/>
-      <point x="144" y="654" type="line"/>
-      <point x="269" y="648" type="line"/>
-      <point x="269" y="710" type="line"/>
-      <point x="55" y="710" type="line"/>
-      <point x="55" y="0" type="line"/>
-      <point x="269" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="50" y="815" type="line"/>
-      <point x="129" y="815" type="line"/>
-      <point x="133" y="898" type="line"/>
-      <point x="50" y="895" type="line"/>
-    </contour>
-    <contour>
-      <point x="203" y="815" type="line"/>
-      <point x="279" y="818" type="line"/>
-      <point x="279" y="898" type="line"/>
-      <point x="200" y="898" type="line"/>
-    </contour>
+    <component base="e"/>
+    <component base="uni0308" xOffset="1" yOffset="-128"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-28 20:31:02 +0000</string>
     </dict>
   </lib>
 </glyph>

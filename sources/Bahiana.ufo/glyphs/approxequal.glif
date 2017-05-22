@@ -4,6 +4,8 @@
   <unicode hex="2248"/>
   <outline>
     <contour>
+      <point x="164" y="439" type="curve"/>
+      <point x="105" y="463" type="line"/>
       <point x="11" y="416" type="line"/>
       <point x="14" y="352" type="line"/>
       <point x="56" y="379" type="line" smooth="yes"/>
@@ -22,10 +24,10 @@
       <point x="223" y="421" type="curve" smooth="yes"/>
       <point x="208" y="421"/>
       <point x="193" y="427"/>
-      <point x="164" y="439" type="curve" smooth="yes"/>
-      <point x="105" y="463" type="line"/>
     </contour>
     <contour>
+      <point x="164" y="287" type="curve"/>
+      <point x="105" y="311" type="line"/>
       <point x="11" y="264" type="line"/>
       <point x="14" y="200" type="line"/>
       <point x="56" y="227" type="line" smooth="yes"/>
@@ -44,16 +46,12 @@
       <point x="223" y="269" type="curve" smooth="yes"/>
       <point x="208" y="269"/>
       <point x="193" y="275"/>
-      <point x="164" y="287" type="curve" smooth="yes"/>
-      <point x="105" y="311" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-13 14:17:54 +0000</string>
     </dict>
   </lib>
 </glyph>

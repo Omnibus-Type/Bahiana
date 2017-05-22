@@ -1,50 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="scedilla" format="1">
-  <advance width="289"/>
+  <advance width="246"/>
   <unicode hex="015F"/>
   <outline>
-    <contour>
-      <point x="244" y="710" type="line"/>
-      <point x="87" y="710" type="line"/>
-      <point x="47" y="686" type="line"/>
-      <point x="47" y="364" type="line"/>
-      <point x="182" y="334" type="line"/>
-      <point x="166" y="68" type="line"/>
-      <point x="96" y="84" type="line"/>
-      <point x="97" y="171" type="line"/>
-      <point x="38" y="171" type="line"/>
-      <point x="47" y="0" type="line"/>
-      <point x="95" y="0" type="line"/>
-      <point x="70" y="-89" type="line"/>
-      <point x="175" y="-97" type="line"/>
-      <point x="165" y="-150" type="line"/>
-      <point x="36" y="-150" type="line"/>
-      <point x="36" y="-208" type="line"/>
-      <point x="159" y="-208" type="line" smooth="yes"/>
-      <point x="188" y="-208"/>
-      <point x="223" y="-176"/>
-      <point x="223" y="-148" type="curve"/>
-      <point x="247" y="-45" type="line"/>
-      <point x="135" y="-45" type="line"/>
-      <point x="158" y="0" type="line"/>
-      <point x="164" y="0" type="line" smooth="yes"/>
-      <point x="192" y="0"/>
-      <point x="238" y="32"/>
-      <point x="238" y="60" type="curve"/>
-      <point x="252" y="392" type="line"/>
-      <point x="107" y="418" type="line"/>
-      <point x="122" y="640" type="line"/>
-      <point x="182" y="647" type="line"/>
-      <point x="202" y="569" type="line"/>
-      <point x="239" y="569" type="line"/>
-    </contour>
+    <component base="s"/>
+    <component base="uni0327" xOffset="-20"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-28 20:30:54 +0000</string>
     </dict>
   </lib>
 </glyph>

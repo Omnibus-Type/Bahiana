@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotlessi" format="1">
-  <advance width="175"/>
+  <advance width="163"/>
   <unicode hex="0131"/>
   <outline>
     <contour>
-      <point x="113" y="710" type="line"/>
-      <point x="50" y="710" type="line"/>
-      <point x="50" y="0" type="line"/>
-      <point x="134" y="0" type="line"/>
+      <point x="50" y="-24" type="line"/>
+      <point x="125" y="-24" type="line"/>
+      <point x="126" y="21" type="line"/>
+      <point x="112" y="51" type="line"/>
+      <point x="120" y="582" type="line"/>
+      <point x="46" y="582" type="line"/>
     </contour>
     <contour>
-      <point x="157" y="10" type="move" name="ogonek"/>
+      <point x="83" y="582" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="88" y="492" type="move" name="top"/>
+      <point x="83" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-28 20:31:02 +0000</string>
     </dict>
   </lib>
 </glyph>

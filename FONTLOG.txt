@@ -10,6 +10,10 @@ Bahiana has rustic, fresh and casual look, as if carved in wood. Its structure i
 
 ChangeLog
 
+21 May 2017 Bahiana v1.006
+- Added lowercases
+- Expanded character repertoire
+
 01 Dec 2016 Bahiana v1.005
 - Updated to latest Google Font spec
 

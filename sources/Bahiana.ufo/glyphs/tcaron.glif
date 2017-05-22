@@ -1,34 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tcaron" format="1">
-  <advance width="275"/>
+  <advance width="257"/>
   <unicode hex="0165"/>
   <outline>
     <contour>
-      <point x="38" y="710" type="line"/>
-      <point x="25" y="639" type="line"/>
-      <point x="97" y="615" type="line"/>
-      <point x="77" y="0" type="line"/>
-      <point x="162" y="0" type="line"/>
-      <point x="162" y="633" type="line"/>
-      <point x="250" y="633" type="line"/>
-      <point x="245" y="696" type="line"/>
+      <point x="265" y="783" type="line"/>
+      <point x="179" y="779" type="line"/>
+      <point x="211" y="687" type="line"/>
+      <point x="160" y="612" type="line"/>
+      <point x="213" y="612" type="line"/>
+      <point x="271" y="687" type="line"/>
     </contour>
-    <contour>
-      <point x="233" y="881" type="line"/>
-      <point x="204" y="900" type="line"/>
-      <point x="139" y="838" type="line"/>
-      <point x="74" y="900" type="line"/>
-      <point x="45" y="881" type="line"/>
-      <point x="119" y="771" type="line"/>
-      <point x="159" y="768" type="line"/>
-    </contour>
+    <component base="t"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-28 20:30:54 +0000</string>
     </dict>
   </lib>
 </glyph>

@@ -41,6 +41,13 @@ This information should be distributed along with the Bahiana fonts and any deri
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
+**21 May 2017 Bahiana v1.006**
+- Added lowercases
+- Expanded character repertoire
+
+**01 Dec 2016 Bahiana v1.005**
+- Updated to latest Google Font spec
+
 **03 Feb 2015 (Omnibus-Type) Bahiana v.1.4**  
 - Removed Reserve Font Name from the license
 - fsType Installable Mode

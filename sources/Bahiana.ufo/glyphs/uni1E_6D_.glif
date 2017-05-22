@@ -1,31 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E6D" format="1">
-  <advance width="275"/>
+  <advance width="238"/>
   <unicode hex="1E6D"/>
   <outline>
-    <contour>
-      <point x="38" y="710" type="line"/>
-      <point x="25" y="639" type="line"/>
-      <point x="97" y="615" type="line"/>
-      <point x="77" y="0" type="line"/>
-      <point x="162" y="0" type="line"/>
-      <point x="162" y="633" type="line"/>
-      <point x="250" y="633" type="line"/>
-      <point x="245" y="696" type="line"/>
-    </contour>
-    <contour>
-      <point x="77" y="-154" type="line"/>
-      <point x="166" y="-151" type="line"/>
-      <point x="166" y="-56" type="line"/>
-      <point x="73" y="-56" type="line"/>
-    </contour>
+    <component base="t"/>
+    <component base="dotbelow" xOffset="65"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-28 20:30:54 +0000</string>
     </dict>
   </lib>
 </glyph>
