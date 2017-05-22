@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iacute.alt" format="1">
+  <advance width="167"/>
+  <outline>
+    <component base="dotlessi.alt"/>
+    <component base="acute" xOffset="14" yOffset="-128"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-28 22:33:47 +0000</string>
+    </dict>
+  </lib>
+</glyph>

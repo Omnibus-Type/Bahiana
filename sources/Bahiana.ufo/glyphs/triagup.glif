@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="triagup" format="1">
+  <advance width="683"/>
+  <unicode hex="25B2"/>
+  <note>
+    triagup
+  </note>
+  <outline>
+    <contour>
+      <point x="636" y="103" type="line"/>
+      <point x="653" y="131" type="line"/>
+      <point x="385" y="591" type="line"/>
+      <point x="339" y="615" type="line"/>
+      <point x="30" y="144" type="line"/>
+      <point x="45" y="117" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-11-01 14:50:09 +0000</string>
+    </dict>
+  </lib>
+</glyph>

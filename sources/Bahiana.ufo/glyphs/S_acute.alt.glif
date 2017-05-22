@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sacute.alt" format="1">
+  <advance width="273"/>
+  <outline>
+    <component base="S.alt"/>
+    <component base="acute" xOffset="78"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-28 14:07:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

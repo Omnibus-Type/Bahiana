@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0233.alt" format="1">
+  <advance width="246"/>
+  <outline>
+    <component base="y.alt"/>
+    <component base="uni0304" xOffset="-41" yOffset="-128"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-11-09 02:12:46 +0000</string>
+    </dict>
+  </lib>
+</glyph>

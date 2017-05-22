@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ldot.alt" format="1">
+  <advance width="330"/>
+  <outline>
+    <contour>
+      <point x="290" y="417" type="line"/>
+      <point x="194" y="413" type="line"/>
+      <point x="194" y="321" type="line"/>
+      <point x="286" y="321" type="line"/>
+    </contour>
+    <component base="L.alt"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-28 12:02:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

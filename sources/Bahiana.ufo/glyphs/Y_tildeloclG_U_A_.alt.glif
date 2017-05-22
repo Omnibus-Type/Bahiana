@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="YtildeloclGUA.alt" format="1">
+  <advance width="252"/>
+  <outline>
+    <component base="YloclGUA.alt"/>
+    <component base="tilde" xOffset="-36"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-28 03:01:43 +0000</string>
+    </dict>
+  </lib>
+</glyph>
