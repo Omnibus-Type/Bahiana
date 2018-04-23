@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblbase" format="1">
+  <advance width="348"/>
+  <unicode hex="201E"/>
+  <outline>
+    <contour>
+      <point x="152" y="92" type="line"/>
+      <point x="53" y="87" type="line"/>
+      <point x="90" y="-18" type="line"/>
+      <point x="43" y="-127" type="line"/>
+      <point x="92" y="-144" type="line"/>
+      <point x="147" y="-18" type="line"/>
+    </contour>
+    <contour>
+      <point x="299" y="92" type="line"/>
+      <point x="200" y="87" type="line"/>
+      <point x="237" y="-18" type="line"/>
+      <point x="190" y="-127" type="line"/>
+      <point x="239" y="-144" type="line"/>
+      <point x="294" y="-18" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-25 02:44:50 +0000</string>
+    </dict>
+  </lib>
+</glyph>

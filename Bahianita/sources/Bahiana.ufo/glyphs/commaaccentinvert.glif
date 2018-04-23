@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaaccentinvert" format="1">
+  <advance width="148"/>
+  <outline>
+    <contour>
+      <point x="33" y="728" type="line"/>
+      <point x="114" y="728" type="line"/>
+      <point x="114" y="810" type="line"/>
+      <point x="72" y="810" type="line"/>
+      <point x="118" y="884" type="line"/>
+      <point x="63" y="900" type="line"/>
+      <point x="30" y="810" type="line"/>
+    </contour>
+    <contour>
+      <point x="76" y="900" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="76" y="710" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-13 19:57:06 +0000</string>
+    </dict>
+  </lib>
+</glyph>

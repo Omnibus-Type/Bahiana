@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="empty" format="1">
+  <advance width="600"/>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-11-03 13:40:35 +0000</string>
+    </dict>
+  </lib>
+</glyph>

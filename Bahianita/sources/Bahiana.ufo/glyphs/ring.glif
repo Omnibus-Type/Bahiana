@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ring" format="1">
+  <advance width="199"/>
+  <unicode hex="02DA"/>
+  <outline>
+    <contour>
+      <point x="169" y="793" type="line"/>
+      <point x="169" y="902" type="line"/>
+      <point x="30" y="902" type="line"/>
+      <point x="30" y="767" type="line"/>
+      <point x="144" y="767" type="line"/>
+    </contour>
+    <contour>
+      <point x="127" y="804"/>
+      <point x="125" y="802"/>
+      <point x="120" y="802" type="curve"/>
+      <point x="79" y="802" type="line" smooth="yes"/>
+      <point x="75" y="802"/>
+      <point x="73" y="803"/>
+      <point x="73" y="806" type="curve" smooth="yes"/>
+      <point x="73" y="872" type="line" smooth="yes"/>
+      <point x="73" y="874"/>
+      <point x="76" y="875"/>
+      <point x="81" y="875" type="curve"/>
+      <point x="121" y="870" type="line"/>
+      <point x="125" y="868"/>
+      <point x="127" y="866"/>
+      <point x="127" y="864" type="curve" smooth="yes"/>
+      <point x="127" y="808" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="95" y="900" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="95" y="710" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-17 19:37:26 +0000</string>
+    </dict>
+  </lib>
+</glyph>

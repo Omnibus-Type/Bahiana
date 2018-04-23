@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sacute.loclPLK" format="1">
+  <advance width="271"/>
+  <outline>
+    <component base="S"/>
+    <component base="acute.loclPLK" xOffset="84"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-27 23:49:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

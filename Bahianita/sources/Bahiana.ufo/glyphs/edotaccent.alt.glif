@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="edotaccent.alt" format="1">
+  <advance width="281"/>
+  <outline>
+    <component base="e.alt"/>
+    <component base="uni0307" xOffset="72" yOffset="-128"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-27 23:49:52 +0000</string>
+    </dict>
+  </lib>
+</glyph>

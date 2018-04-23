@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessi.alt" format="1">
+  <advance width="167"/>
+  <outline>
+    <contour>
+      <point x="50" y="0" type="line"/>
+      <point x="129" y="0" type="line"/>
+      <point x="113" y="582" type="line"/>
+      <point x="50" y="582" type="line"/>
+    </contour>
+    <contour>
+      <point x="81" y="582" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="47" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-17 23:07:25 +0000</string>
+    </dict>
+  </lib>
+</glyph>

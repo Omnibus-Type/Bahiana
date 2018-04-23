@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="L" format="1">
+  <advance width="245"/>
+  <unicode hex="004C"/>
+  <outline>
+    <contour>
+      <point x="40" y="0" type="line"/>
+      <point x="229" y="0" type="line"/>
+      <point x="229" y="64" type="line"/>
+      <point x="116" y="82" type="line"/>
+      <point x="137" y="710" type="line"/>
+      <point x="40" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="131" y="710" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="124" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-25 03:24:48 +0000</string>
+    </dict>
+  </lib>
+</glyph>

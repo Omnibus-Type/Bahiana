@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessI" format="1">
+  <advance width="157"/>
+  <outline>
+    <contour>
+      <point x="42" y="0" type="line"/>
+      <point x="126" y="0" type="line"/>
+      <point x="105" y="710" type="line"/>
+      <point x="42" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="72" y="710" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="84" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-27 14:18:28 +0000</string>
+    </dict>
+  </lib>
+</glyph>

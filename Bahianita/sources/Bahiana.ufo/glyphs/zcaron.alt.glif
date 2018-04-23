@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zcaron.alt" format="1">
+  <advance width="232"/>
+  <outline>
+    <component base="z.alt"/>
+    <component base="uni030C" xOffset="7" yOffset="-128"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-27 23:49:53 +0000</string>
+    </dict>
+  </lib>
+</glyph>

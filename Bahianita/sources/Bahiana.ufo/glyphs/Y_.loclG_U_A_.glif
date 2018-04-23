@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Y.loclGUA" format="1">
+  <advance width="235"/>
+  <outline>
+    <contour>
+      <point x="31" y="0" type="line"/>
+      <point x="211" y="0" type="line"/>
+      <point x="211" y="710" type="line"/>
+      <point x="145" y="710" type="line"/>
+      <point x="145" y="388" type="line"/>
+      <point x="96" y="391" type="line"/>
+      <point x="83" y="690" type="line"/>
+      <point x="24" y="690" type="line"/>
+      <point x="24" y="338" type="line"/>
+      <point x="138" y="323" type="line"/>
+      <point x="153" y="57" type="line"/>
+      <point x="41" y="72" type="line"/>
+    </contour>
+    <contour>
+      <point x="116" y="710" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="112" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-14 21:36:36 +0000</string>
+    </dict>
+  </lib>
+</glyph>

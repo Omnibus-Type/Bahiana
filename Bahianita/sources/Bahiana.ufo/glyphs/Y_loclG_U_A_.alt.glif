@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="YloclGUA.alt" format="1">
+  <advance width="252"/>
+  <outline>
+    <contour>
+      <point x="65" y="0" type="line"/>
+      <point x="205" y="0" type="line"/>
+      <point x="225" y="690" type="line"/>
+      <point x="175" y="690" type="line"/>
+      <point x="145" y="385" type="line"/>
+      <point x="117" y="383" type="line"/>
+      <point x="83" y="710" type="line"/>
+      <point x="12" y="710" type="line"/>
+      <point x="75" y="324" type="line"/>
+      <point x="159" y="312" type="line"/>
+      <point x="159" y="55" type="line"/>
+      <point x="55" y="36" type="line"/>
+    </contour>
+    <contour>
+      <point x="124" y="710" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="122" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-27 14:21:41 +0000</string>
+    </dict>
+  </lib>
+</glyph>

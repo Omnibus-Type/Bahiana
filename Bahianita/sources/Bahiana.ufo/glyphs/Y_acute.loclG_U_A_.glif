@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yacute.loclGUA" format="1">
+  <advance width="235"/>
+  <outline>
+    <component base="Y.loclGUA"/>
+    <component base="acute" xOffset="49"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-27 23:49:44 +0000</string>
+    </dict>
+  </lib>
+</glyph>

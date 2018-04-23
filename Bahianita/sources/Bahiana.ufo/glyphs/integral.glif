@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="integral" format="1">
+  <advance width="349"/>
+  <unicode hex="222B"/>
+  <outline>
+    <contour>
+      <point x="145" y="636" type="curve"/>
+      <point x="134" y="100" type="line"/>
+      <point x="82" y="55" type="line"/>
+      <point x="64" y="161" type="line"/>
+      <point x="20" y="161" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="130" y="0" type="line"/>
+      <point x="205" y="94" type="line"/>
+      <point x="205" y="660" type="line"/>
+      <point x="277" y="655" type="line"/>
+      <point x="277" y="570" type="line"/>
+      <point x="329" y="563" type="line"/>
+      <point x="329" y="710" type="line"/>
+      <point x="214" y="710" type="line" smooth="yes"/>
+      <point x="175" y="710"/>
+      <point x="146" y="677"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-13 14:17:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

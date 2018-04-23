@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oslashacute.alt" format="1">
+  <advance width="291"/>
+  <outline>
+    <component base="oslash.alt"/>
+    <component base="acute" xOffset="84" yOffset="-128"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-28 16:44:07 +0000</string>
+    </dict>
+  </lib>
+</glyph>

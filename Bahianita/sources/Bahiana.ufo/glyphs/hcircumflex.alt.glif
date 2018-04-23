@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hcircumflex.alt" format="1">
+  <advance width="292"/>
+  <outline>
+    <component base="h.alt"/>
+    <component base="uni0302" xOffset="-29" yOffset="-39"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-27 23:49:52 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni0302</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

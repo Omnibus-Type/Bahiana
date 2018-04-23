@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcaron" format="1">
+  <advance width="257"/>
+  <unicode hex="0165"/>
+  <outline>
+    <contour>
+      <point x="265" y="783" type="line"/>
+      <point x="179" y="779" type="line"/>
+      <point x="211" y="687" type="line"/>
+      <point x="160" y="612" type="line"/>
+      <point x="213" y="612" type="line"/>
+      <point x="271" y="687" type="line"/>
+    </contour>
+    <component base="t"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-28 20:30:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f_i.alt" format="1">
+  <advance width="362"/>
+  <outline>
+    <contour>
+      <point x="238" y="0" type="line"/>
+      <point x="317" y="0" type="line"/>
+      <point x="301" y="582" type="line"/>
+      <point x="108" y="583" type="line"/>
+      <point x="108" y="637" type="line" smooth="yes"/>
+      <point x="108" y="642"/>
+      <point x="110" y="646"/>
+      <point x="114" y="646" type="curve" smooth="yes"/>
+      <point x="197" y="655" type="line"/>
+      <point x="197" y="710" type="line"/>
+      <point x="85" y="710" type="line"/>
+      <point x="42" y="661" type="line"/>
+      <point x="43" y="583" type="line"/>
+      <point x="3" y="565" type="line"/>
+      <point x="3" y="522" type="line"/>
+      <point x="44" y="522" type="line"/>
+      <point x="52" y="-56" type="line" smooth="yes"/>
+      <point x="52" y="-61"/>
+      <point x="50" y="-65"/>
+      <point x="46" y="-65" type="curve" smooth="yes"/>
+      <point x="-57" y="-74" type="line"/>
+      <point x="-57" y="-129" type="line"/>
+      <point x="81" y="-129" type="line"/>
+      <point x="124" y="-80" type="line"/>
+      <point x="109" y="522" type="line"/>
+      <point x="238" y="522" type="line"/>
+    </contour>
+    <contour>
+      <point x="312" y="707" type="line"/>
+      <point x="297" y="721" type="line"/>
+      <point x="244" y="721" type="line"/>
+      <point x="227" y="701" type="line"/>
+      <point x="229" y="661" type="line"/>
+      <point x="248" y="646" type="line"/>
+      <point x="300" y="646" type="line"/>
+      <point x="312" y="671" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-11-01 14:51:40 +0000</string>
+    </dict>
+  </lib>
+</glyph>

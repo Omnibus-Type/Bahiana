@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CacuteloclPLK.alt" format="1">
+  <advance width="314"/>
+  <outline>
+    <component base="C.alt"/>
+    <component base="acute.loclPLK" xOffset="122"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-28 14:05:59 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iacute_j.loclNLD" format="1">
+  <advance width="328"/>
+  <unicode hex="E132"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="uni0237" xOffset="163"/>
+    <component base="acute" xOffset="180" yOffset="-128"/>
+    <component base="acute" xOffset="20" yOffset="-127"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-22 04:01:35 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>3</integer>
+          <key>name</key>
+          <string>acute</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
