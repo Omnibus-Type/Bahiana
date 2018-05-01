@@ -4,21 +4,19 @@
   <unicode hex="00D6"/>
   <outline>
     <component base="O"/>
-    <component base="dieresis" xOffset="9"/>
+    <component base="dieresiscomb.case" xOffset="40" yOffset="128"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-10-28 12:02:44 +0000</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
           <key>alignment</key>
           <integer>-1</integer>
           <key>index</key>
-          <integer>1</integer>
+          <integer>0</integer>
           <key>name</key>
-          <string>dieresis</string>
+          <string>O</string>
         </dict>
       </array>
     </dict>

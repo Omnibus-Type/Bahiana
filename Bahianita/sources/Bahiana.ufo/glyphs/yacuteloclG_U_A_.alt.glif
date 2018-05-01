@@ -3,12 +3,6 @@
   <advance width="292"/>
   <outline>
     <component base="yloclGUA.alt"/>
-    <component base="acute" xOffset="79" yOffset="-128"/>
+    <component base="acutecomb" xOffset="90"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-10-28 03:01:43 +0000</string>
-    </dict>
-  </lib>
 </glyph>

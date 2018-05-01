@@ -4,12 +4,6 @@
   <unicode hex="012A"/>
   <outline>
     <component base="I"/>
-    <component base="macron" xOffset="-85"/>
+    <component base="macroncomb.case" xOffset="-25" yOffset="128"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-10-28 12:02:44 +0000</string>
-    </dict>
-  </lib>
 </glyph>

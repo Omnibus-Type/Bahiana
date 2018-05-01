@@ -4,23 +4,6 @@
   <unicode hex="011F"/>
   <outline>
     <component base="g"/>
-    <component base="uni0306" xOffset="7" yOffset="-118"/>
+    <component base="brevecomb" xOffset="32"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-10-28 20:31:02 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>uni0306</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>

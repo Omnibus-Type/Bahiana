@@ -3,12 +3,6 @@
   <advance width="313"/>
   <outline>
     <component base="H.alt"/>
-    <component base="circumflex" xOffset="45"/>
+    <component base="circumflexcomb.case" xOffset="65" yOffset="128"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-10-28 12:11:10 +0000</string>
-    </dict>
-  </lib>
 </glyph>

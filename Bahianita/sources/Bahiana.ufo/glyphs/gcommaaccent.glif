@@ -3,21 +3,7 @@
   <advance width="282"/>
   <unicode hex="0123"/>
   <outline>
-    <contour>
-      <point x="191" y="-153" type="line"/>
-      <point x="110" y="-153" type="line"/>
-      <point x="110" y="-230" type="line"/>
-      <point x="152" y="-230" type="line"/>
-      <point x="106" y="-299" type="line"/>
-      <point x="161" y="-315" type="line"/>
-      <point x="194" y="-230" type="line"/>
-    </contour>
     <component base="g"/>
+    <component base="commaaccentcomb" xOffset="101" yOffset="-100"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-10-28 20:31:02 +0000</string>
-    </dict>
-  </lib>
 </glyph>

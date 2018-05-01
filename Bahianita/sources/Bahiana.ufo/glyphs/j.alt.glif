@@ -2,35 +2,7 @@
 <glyph name="j.alt" format="1">
   <advance width="167"/>
   <outline>
-    <contour>
-      <point x="-57" y="-129" type="line"/>
-      <point x="81" y="-129" type="line"/>
-      <point x="124" y="-80" type="line"/>
-      <point x="113" y="582" type="line"/>
-      <point x="39" y="582" type="line"/>
-      <point x="39" y="541" type="line"/>
-      <point x="52" y="516" type="line"/>
-      <point x="52" y="-56" type="line" smooth="yes"/>
-      <point x="52" y="-61"/>
-      <point x="50" y="-65"/>
-      <point x="46" y="-65" type="curve" smooth="yes"/>
-      <point x="-57" y="-74" type="line"/>
-    </contour>
-    <contour>
-      <point x="40" y="675" type="line"/>
-      <point x="47" y="644" type="line"/>
-      <point x="85" y="644" type="line"/>
-      <point x="119" y="654" type="line"/>
-      <point x="121" y="710" type="line"/>
-      <point x="113" y="721" type="line"/>
-      <point x="50" y="721" type="line"/>
-      <point x="40" y="710" type="line"/>
-    </contour>
+    <component base="jdotless.alt"/>
+    <component base="dotaccentcomb" xOffset="30"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-11-01 02:50:24 +0000</string>
-    </dict>
-  </lib>
 </glyph>

@@ -1,40 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Hbar.alt" format="1">
-  <advance width="333"/>
+  <advance width="313"/>
   <outline>
     <contour>
+      <point x="5" y="534" type="line"/>
       <point x="319" y="542" type="line"/>
       <point x="319" y="592" type="line"/>
-      <point x="283" y="592" type="line"/>
-      <point x="283" y="710" type="line"/>
-      <point x="210" y="710" type="line"/>
-      <point x="210" y="592" type="line"/>
-      <point x="118" y="592" type="line"/>
-      <point x="122" y="710" type="line"/>
-      <point x="50" y="710" type="line"/>
-      <point x="50" y="592" type="line"/>
       <point x="2" y="592" type="line"/>
-      <point x="5" y="534" type="line"/>
-      <point x="50" y="536" type="line"/>
-      <point x="50" y="0" type="line"/>
-      <point x="124" y="0" type="line"/>
-      <point x="124" y="327" type="line"/>
-      <point x="210" y="310" type="line"/>
-      <point x="239" y="0" type="line"/>
-      <point x="283" y="0" type="line"/>
-      <point x="283" y="542" type="line"/>
     </contour>
-    <contour>
-      <point x="210" y="541" type="line"/>
-      <point x="210" y="400" type="line"/>
-      <point x="111" y="395" type="line"/>
-      <point x="116" y="540" type="line"/>
-    </contour>
+    <component base="H.alt"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-10-27 14:13:38 +0000</string>
-    </dict>
-  </lib>
 </glyph>

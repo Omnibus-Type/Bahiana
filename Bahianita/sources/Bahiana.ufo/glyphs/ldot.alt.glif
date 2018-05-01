@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ldot.alt" format="1">
-  <advance width="243"/>
+  <advance width="160"/>
   <outline>
     <component base="l.alt"/>
-    <component base="periodcentered" xOffset="93"/>
+    <component base="periodcentered.loclCAT" xOffset="79" yOffset="12"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-10-27 23:49:52 +0000</string>
-    </dict>
-  </lib>
 </glyph>

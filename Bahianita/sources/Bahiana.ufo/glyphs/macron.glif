@@ -1,25 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="macron" format="1">
-  <advance width="328"/>
+  <advance width="248"/>
   <unicode hex="00AF"/>
   <outline>
     <contour>
-      <point x="298" y="812" type="line"/>
-      <point x="298" y="867" type="line"/>
-      <point x="30" y="867" type="line"/>
-      <point x="33" y="803" type="line"/>
-    </contour>
-    <contour>
-      <point x="166" y="900" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="164" y="710" type="move" name="_top"/>
+      <point x="23" y="675" type="line"/>
+      <point x="228" y="684" type="line"/>
+      <point x="228" y="734" type="line"/>
+      <point x="20" y="734" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-10-17 19:37:13 +0000</string>
-    </dict>
-  </lib>
 </glyph>

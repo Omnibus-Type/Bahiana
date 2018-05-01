@@ -2,22 +2,20 @@
 <glyph name="Idotaccent.alt" format="1">
   <advance width="157"/>
   <outline>
-    <component base="dotlessI"/>
-    <component base="uni0307" xOffset="-4"/>
+    <component base="I.alt"/>
+    <component base="dotaccentcomb.case" xOffset="28" yOffset="128"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-10-27 23:49:52 +0000</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
           <key>alignment</key>
-          <integer>1</integer>
+          <true/>
           <key>index</key>
           <integer>0</integer>
           <key>name</key>
-          <string>dotlessI</string>
+          <string>I.alt</string>
         </dict>
       </array>
     </dict>

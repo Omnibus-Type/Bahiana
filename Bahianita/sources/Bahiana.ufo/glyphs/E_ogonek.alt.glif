@@ -3,23 +3,6 @@
   <advance width="296"/>
   <outline>
     <component base="E.alt"/>
-    <component base="ogonek" xOffset="43"/>
+    <component base="ogonekcomb.case" xOffset="130"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-10-28 12:11:10 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>ogonek</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>

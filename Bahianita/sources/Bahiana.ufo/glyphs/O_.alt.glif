@@ -28,16 +28,22 @@
       <point x="183" y="66" type="line"/>
     </contour>
     <contour>
+      <point x="149" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="146" y="355" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="190" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
       <point x="144" y="710" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="149" y="0" type="move" name="bottom"/>
+      <point x="20" y="710" type="move" name="topleft"/>
+    </contour>
+    <contour>
+      <point x="223" y="703" type="move" name="topright"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-10-28 13:58:12 +0000</string>
-    </dict>
-  </lib>
 </glyph>

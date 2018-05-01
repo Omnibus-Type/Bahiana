@@ -3,8 +3,6 @@
   <advance width="289"/>
   <outline>
     <contour>
-      <point x="45" y="17"/>
-      <point x="65" y="0"/>
       <point x="121" y="0" type="curve"/>
       <point x="239" y="0" type="line"/>
       <point x="246" y="537" type="line" smooth="yes"/>
@@ -15,6 +13,8 @@
       <point x="70" y="577"/>
       <point x="45" y="561" type="curve"/>
       <point x="45" y="56" type="line" smooth="yes"/>
+      <point x="45" y="17"/>
+      <point x="65" y="0"/>
     </contour>
     <contour>
       <point x="169" y="51" type="line"/>
@@ -28,16 +28,19 @@
       <point x="178" y="60" type="line"/>
     </contour>
     <contour>
+      <point x="145" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="145" y="291" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="182" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
       <point x="148" y="582" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="143" y="0" type="move" name="bottom"/>
+      <point x="210" y="585" type="move" name="topright"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-11-01 02:51:39 +0000</string>
-    </dict>
-  </lib>
 </glyph>

@@ -3,12 +3,6 @@
   <advance width="257"/>
   <outline>
     <component base="Y.alt"/>
-    <component base="dieresis" xOffset="-18"/>
+    <component base="dieresiscomb.case" xOffset="17" yOffset="128"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-10-28 14:58:16 +0000</string>
-    </dict>
-  </lib>
 </glyph>

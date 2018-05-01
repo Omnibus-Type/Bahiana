@@ -3,12 +3,6 @@
   <advance width="252"/>
   <outline>
     <component base="YloclGUA.alt"/>
-    <component base="tilde" xOffset="-36"/>
+    <component base="tildecomb.case" xOffset="9" yOffset="128"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-10-28 03:01:43 +0000</string>
-    </dict>
-  </lib>
 </glyph>

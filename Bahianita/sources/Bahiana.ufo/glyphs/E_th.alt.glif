@@ -3,17 +3,11 @@
   <advance width="315"/>
   <outline>
     <contour>
+      <point x="11" y="338" type="line"/>
       <point x="177" y="338" type="line"/>
       <point x="177" y="387" type="line"/>
       <point x="8" y="396" type="line"/>
-      <point x="11" y="338" type="line"/>
     </contour>
     <component base="D.alt"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-11-09 02:24:18 +0000</string>
-    </dict>
-  </lib>
 </glyph>

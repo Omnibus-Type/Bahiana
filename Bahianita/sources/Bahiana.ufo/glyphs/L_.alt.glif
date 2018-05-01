@@ -12,16 +12,16 @@
       <point x="40" y="710" type="line"/>
     </contour>
     <contour>
-      <point x="114" y="710" type="move" name="top"/>
-    </contour>
-    <contour>
       <point x="139" y="0" type="move" name="bottom"/>
     </contour>
+    <contour>
+      <point x="211" y="385" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="78" y="710" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="162" y="540" type="move" name="topright"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-10-28 13:58:43 +0000</string>
-    </dict>
-  </lib>
 </glyph>

@@ -3,6 +3,7 @@
   <advance width="511"/>
   <outline>
     <contour>
+      <point x="36" y="0" type="line"/>
       <point x="121" y="0" type="line"/>
       <point x="121" y="355" type="line"/>
       <point x="228" y="373" type="line"/>
@@ -16,13 +17,10 @@
       <point x="382" y="82" type="line"/>
       <point x="403" y="710" type="line"/>
       <point x="59" y="710" type="line"/>
-      <point x="36" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-11-03 13:17:28 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>F</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

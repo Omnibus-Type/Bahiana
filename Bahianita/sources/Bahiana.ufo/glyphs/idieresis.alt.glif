@@ -2,13 +2,7 @@
 <glyph name="idieresis.alt" format="1">
   <advance width="167"/>
   <outline>
-    <component base="dotlessi.alt"/>
-    <component base="dieresis" xOffset="-64" yOffset="-128"/>
+    <component base="idotless.alt"/>
+    <component base="dieresiscomb" xOffset="-31"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-10-28 03:01:43 +0000</string>
-    </dict>
-  </lib>
 </glyph>

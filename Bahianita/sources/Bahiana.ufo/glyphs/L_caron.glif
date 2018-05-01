@@ -1,22 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lcaron" format="1">
-  <advance width="264"/>
+  <advance width="245"/>
   <unicode hex="013D"/>
   <outline>
-    <contour>
-      <point x="273" y="759" type="line"/>
-      <point x="187" y="755" type="line"/>
-      <point x="219" y="663" type="line"/>
-      <point x="168" y="588" type="line"/>
-      <point x="211" y="573" type="line"/>
-      <point x="279" y="663" type="line"/>
-    </contour>
     <component base="L"/>
+    <component base="caroncomb.alt" xOffset="165" yOffset="-82"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-10-28 12:02:44 +0000</string>
-    </dict>
-  </lib>
 </glyph>

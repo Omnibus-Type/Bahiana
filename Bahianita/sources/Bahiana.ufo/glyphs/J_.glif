@@ -16,16 +16,10 @@
       <point x="20" y="172" type="line"/>
     </contour>
     <contour>
-      <point x="199" y="710" type="move" name="top"/>
-    </contour>
-    <contour>
       <point x="192" y="0" type="move" name="bottom"/>
     </contour>
+    <contour>
+      <point x="199" y="710" type="move" name="top"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-10-28 20:07:37 +0000</string>
-    </dict>
-  </lib>
 </glyph>

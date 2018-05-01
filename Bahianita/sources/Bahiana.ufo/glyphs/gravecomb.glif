@@ -1,25 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gravecomb" format="1">
-  <advance width="0"/>
+  <advance width="130"/>
   <unicode hex="0300"/>
   <outline>
+    <component base="grave" xOffset="-20"/>
     <contour>
-      <point x="116" y="768" type="line"/>
-      <point x="150" y="792" type="line"/>
-      <point x="66" y="900" type="line"/>
-      <point x="20" y="852" type="line"/>
+      <point x="75" y="582" type="move" name="_top"/>
     </contour>
     <contour>
-      <point x="85" y="900" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="95" y="710" type="move" name="_top"/>
+      <point x="75" y="762" type="move" name="top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-10-17 22:06:02 +0000</string>
-    </dict>
-  </lib>
 </glyph>

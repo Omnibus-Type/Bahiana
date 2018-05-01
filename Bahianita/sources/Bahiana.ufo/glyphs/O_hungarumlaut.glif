@@ -4,12 +4,6 @@
   <unicode hex="0150"/>
   <outline>
     <component base="O"/>
-    <component base="hungarumlaut" xOffset="16"/>
+    <component base="hungarumlautcomb.case" xOffset="36" yOffset="128"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-10-28 12:11:10 +0000</string>
-    </dict>
-  </lib>
 </glyph>

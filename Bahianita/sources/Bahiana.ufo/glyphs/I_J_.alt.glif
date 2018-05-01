@@ -1,32 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="IJ.alt" format="1">
-  <advance width="434"/>
+  <advance width="401"/>
   <outline>
-    <contour>
-      <point x="42" y="20" type="line"/>
-      <point x="126" y="20" type="line"/>
-      <point x="105" y="710" type="line"/>
-      <point x="42" y="710" type="line"/>
-    </contour>
-    <contour>
-      <point x="361" y="710" type="line"/>
-      <point x="398" y="710" type="line"/>
-      <point x="379" y="0" type="line"/>
-      <point x="243" y="0" type="line" smooth="yes"/>
-      <point x="224" y="0"/>
-      <point x="201" y="19"/>
-      <point x="200" y="38" type="curve" smooth="yes"/>
-      <point x="192" y="172" type="line"/>
-      <point x="241" y="172" type="line"/>
-      <point x="246" y="94" type="line"/>
-      <point x="321" y="89" type="line"/>
-      <point x="321" y="696" type="line"/>
-    </contour>
+    <component base="I.alt"/>
+    <component base="J.alt" xOffset="137"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-10-27 14:11:53 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>I.alt</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>J.alt</string>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>

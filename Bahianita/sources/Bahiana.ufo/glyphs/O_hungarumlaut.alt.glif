@@ -3,12 +3,6 @@
   <advance width="292"/>
   <outline>
     <component base="O.alt"/>
-    <component base="hungarumlaut" xOffset="10"/>
+    <component base="hungarumlautcomb.case" xOffset="30" yOffset="128"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-10-28 14:07:10 +0000</string>
-    </dict>
-  </lib>
 </glyph>

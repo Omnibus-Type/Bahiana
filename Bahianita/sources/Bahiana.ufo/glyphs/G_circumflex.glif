@@ -1,26 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gcircumflex" format="1">
-  <advance width="350"/>
+  <advance width="346"/>
   <unicode hex="011C"/>
   <outline>
     <component base="G"/>
-    <component base="circumflex" xOffset="68"/>
+    <component base="circumflexcomb.case" xOffset="90" yOffset="128"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-10-28 12:02:44 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>circumflex</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>

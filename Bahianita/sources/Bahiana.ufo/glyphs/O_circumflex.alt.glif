@@ -3,21 +3,19 @@
   <advance width="292"/>
   <outline>
     <component base="O.alt"/>
-    <component base="circumflex" xOffset="33"/>
+    <component base="circumflexcomb.case" xOffset="53" yOffset="128"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-10-28 14:07:10 +0000</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
           <key>alignment</key>
-          <integer>1</integer>
+          <true/>
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>circumflex</string>
+          <string>circumflexcomb.case</string>
         </dict>
       </array>
     </dict>

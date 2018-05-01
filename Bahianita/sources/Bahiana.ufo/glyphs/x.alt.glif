@@ -3,6 +3,9 @@
   <advance width="272"/>
   <outline>
     <contour>
+      <point x="12" y="0" type="line"/>
+      <point x="81" y="0" type="line"/>
+      <point x="122" y="265" type="line"/>
       <point x="135" y="277" type="line"/>
       <point x="176" y="0" type="line"/>
       <point x="260" y="0" type="line"/>
@@ -14,15 +17,6 @@
       <point x="93" y="582" type="line"/>
       <point x="24" y="582" type="line"/>
       <point x="76" y="316" type="line"/>
-      <point x="12" y="0" type="line"/>
-      <point x="81" y="0" type="line"/>
-      <point x="122" y="265" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-11-01 02:53:39 +0000</string>
-    </dict>
-  </lib>
 </glyph>

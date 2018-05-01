@@ -4,21 +4,19 @@
   <unicode hex="0151"/>
   <outline>
     <component base="o"/>
-    <component base="uni030B" xOffset="15" yOffset="-128"/>
+    <component base="hungarumlautcomb" xOffset="50"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-10-28 20:30:54 +0000</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
           <key>alignment</key>
-          <integer>1</integer>
+          <true/>
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>uni030B</string>
+          <string>hungarumlautcomb</string>
         </dict>
       </array>
     </dict>

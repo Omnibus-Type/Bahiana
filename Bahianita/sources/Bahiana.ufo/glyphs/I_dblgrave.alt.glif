@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idblgrave.alt" format="1">
+  <advance width="157"/>
+  <outline>
+    <component base="I.alt"/>
+    <component base="dblgravecomb.case" xOffset="-64" yOffset="128"/>
+  </outline>
+</glyph>

@@ -4,9 +4,6 @@
   <unicode hex="00DE"/>
   <outline>
     <contour>
-      <point x="101" y="580" type="line"/>
-      <point x="91" y="710" type="line"/>
-      <point x="40" y="710" type="line"/>
       <point x="40" y="0" type="line"/>
       <point x="98" y="0" type="line"/>
       <point x="98" y="186" type="line"/>
@@ -18,8 +15,15 @@
       <point x="264" y="558"/>
       <point x="225" y="580"/>
       <point x="174" y="580" type="curve"/>
+      <point x="101" y="580" type="line"/>
+      <point x="91" y="710" type="line"/>
+      <point x="40" y="710" type="line"/>
     </contour>
     <contour>
+      <point x="124" y="237" type="line"/>
+      <point x="117" y="237"/>
+      <point x="112" y="242"/>
+      <point x="112" y="245" type="curve"/>
       <point x="112" y="520" type="line"/>
       <point x="112" y="525"/>
       <point x="116" y="527"/>
@@ -32,16 +36,6 @@
       <point x="183" y="249"/>
       <point x="181" y="248"/>
       <point x="177" y="247" type="curve"/>
-      <point x="124" y="237" type="line"/>
-      <point x="117" y="237"/>
-      <point x="112" y="242"/>
-      <point x="112" y="245" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-11-01 02:39:50 +0000</string>
-    </dict>
-  </lib>
 </glyph>

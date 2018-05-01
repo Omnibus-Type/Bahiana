@@ -3,12 +3,6 @@
   <advance width="320"/>
   <outline>
     <component base="N.alt"/>
-    <component base="caron" xOffset="62"/>
+    <component base="caroncomb.case" xOffset="67" yOffset="128"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-10-27 23:49:52 +0000</string>
-    </dict>
-  </lib>
 </glyph>

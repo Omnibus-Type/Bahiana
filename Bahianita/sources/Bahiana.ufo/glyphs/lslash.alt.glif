@@ -3,17 +3,11 @@
   <advance width="209"/>
   <outline>
     <contour>
+      <point x="27" y="277" type="line"/>
       <point x="214" y="409" type="line"/>
       <point x="185" y="453" type="line"/>
       <point x="-7" y="325" type="line"/>
-      <point x="27" y="277" type="line"/>
     </contour>
     <component base="l.alt" xOffset="22"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-10-27 23:49:52 +0000</string>
-    </dict>
-  </lib>
 </glyph>

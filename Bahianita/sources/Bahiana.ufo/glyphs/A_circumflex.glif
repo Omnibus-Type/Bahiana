@@ -4,12 +4,10 @@
   <unicode hex="00C2"/>
   <outline>
     <component base="A"/>
-    <component base="circumflex" xOffset="39"/>
+    <component base="circumflexcomb.case" xOffset="59" yOffset="128"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-10-28 13:52:57 +0000</string>
       <key>com.typemytype.robofont.guides</key>
       <array>
         <dict>

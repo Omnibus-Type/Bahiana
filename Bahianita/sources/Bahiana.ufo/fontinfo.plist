@@ -7,17 +7,13 @@
 	<key>capHeight</key>
 	<integer>710</integer>
 	<key>copyright</key>
-	<string>Copyright © 2016-2017, by Pablo Cosgaya &amp; Dani Raskovsky. All rights reserved.</string>
+	<string>Copyright 2016 The Bahiana Project Authors (https://github.com/Omnibus-Type/Bahiana)</string>
 	<key>descender</key>
 	<integer>-238</integer>
 	<key>familyName</key>
 	<string>Bahiana</string>
-	<key>macintoshFONDFamilyID</key>
-	<integer>128</integer>
-	<key>macintoshFONDName</key>
-	<string>Bahiana Regular</string>
 	<key>openTypeHeadCreated</key>
-	<string>2017/05/21 21:00:05</string>
+	<string>2018/04/30 10:21:11</string>
 	<key>openTypeHeadLowestRecPPEM</key>
 	<integer>9</integer>
 	<key>openTypeHheaAscender</key>
@@ -26,10 +22,10 @@
 	<integer>-238</integer>
 	<key>openTypeHheaLineGap</key>
 	<integer>0</integer>
-	<key>openTypeNameCompatibleFullName</key>
-	<string>Bahiana Regular</string>
 	<key>openTypeNameDesigner</key>
 	<string>Pablo Cosgaya &amp; Dani Raskovsky</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>http://www.omnibus-type.com/</string>
 	<key>openTypeNameManufacturer</key>
 	<string>Pablo Cosgaya &amp; Dani Raskovsky</string>
 	<key>openTypeNameManufacturerURL</key>
@@ -38,36 +34,6 @@
 	<string>Bahiana</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Regular</string>
-	<key>openTypeNameUniqueID</key>
-	<string>1.002;UKWN;Bahiana-Regular</string>
-	<key>openTypeNameVersion</key>
-	<string>Version 1.002;PS 001.002;hotconv 1.0.70;makeotf.lib2.5.58329</string>
-	<key>openTypeOS2CodePageRanges</key>
-	<array>
-		<integer>0</integer>
-		<integer>1</integer>
-		<integer>4</integer>
-		<integer>7</integer>
-		<integer>29</integer>
-	</array>
-	<key>openTypeOS2FamilyClass</key>
-	<array>
-		<integer>0</integer>
-		<integer>0</integer>
-	</array>
-	<key>openTypeOS2Panose</key>
-	<array>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>5</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-	</array>
 	<key>openTypeOS2StrikeoutPosition</key>
 	<integer>295</integer>
 	<key>openTypeOS2StrikeoutSize</key>
@@ -90,7 +56,6 @@
 	<integer>600</integer>
 	<key>openTypeOS2Type</key>
 	<array>
-		<integer>3</integer>
 	</array>
 	<key>openTypeOS2TypoAscender</key>
 	<integer>762</integer>
@@ -98,14 +63,8 @@
 	<integer>-238</integer>
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>200</integer>
-	<key>openTypeOS2UnicodeRanges</key>
-	<array>
-		<integer>0</integer>
-		<integer>1</integer>
-		<integer>2</integer>
-	</array>
 	<key>openTypeOS2VendorID</key>
-	<string>UKWN</string>
+	<string>OMNI</string>
 	<key>openTypeOS2WeightClass</key>
 	<integer>400</integer>
 	<key>openTypeOS2WidthClass</key>
@@ -114,12 +73,6 @@
 	<integer>962</integer>
 	<key>openTypeOS2WinDescent</key>
 	<integer>238</integer>
-	<key>postscriptBlueFuzz</key>
-	<integer>0</integer>
-	<key>postscriptBlueScale</key>
-	<real>0.036999999999999998</real>
-	<key>postscriptBlueShift</key>
-	<integer>7</integer>
 	<key>postscriptBlueValues</key>
 	<array>
 		<integer>-155</integer>
@@ -131,23 +84,13 @@
 		<integer>762</integer>
 		<integer>778</integer>
 	</array>
-	<key>postscriptDefaultWidthX</key>
-	<integer>500</integer>
 	<key>postscriptFontName</key>
-	<string>Bahiana</string>
-	<key>postscriptForceBold</key>
-	<false/>
-	<key>postscriptFullName</key>
-	<string>Bahiana</string>
-	<key>postscriptIsFixedPitch</key>
-	<false/>
+	<string>Bahiana-Regular</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 		<integer>-254</integer>
 		<integer>-238</integer>
 	</array>
-	<key>postscriptSlantAngle</key>
-	<real>0.0</real>
 	<key>postscriptStemSnapH</key>
 	<array>
 		<integer>94</integer>
@@ -164,25 +107,19 @@
 	<integer>-100</integer>
 	<key>postscriptUnderlineThickness</key>
 	<integer>50</integer>
-	<key>postscriptUniqueID</key>
-	<integer>-1</integer>
-	<key>postscriptWindowsCharacterSet</key>
-	<integer>1</integer>
-	<key>styleMapFamilyName</key>
-	<string>Bahiana</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
 	<string>Regular</string>
+	<key>trademark</key>
+	<string>Barrio is a trademark of Omnibus-Type.</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>6</integer>
+	<integer>7</integer>
 	<key>xHeight</key>
 	<integer>582</integer>
-	<key>year</key>
-	<integer>2013</integer>
 </dict>
 </plist>

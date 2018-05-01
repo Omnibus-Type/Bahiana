@@ -10,6 +10,10 @@ Bahiana has rustic, fresh and casual look, as if carved in wood. Its structure i
 
 ChangeLog
 
+01 May 2018 Bahiana v1.007
+- Updated underline
+– Expanded set to GF_Latin plus
+
 21 May 2017 Bahiana v1.006
 - Added lowercases
 - Expanded character repertoire

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oogonek.alt" format="1">
+  <advance width="289"/>
+  <outline>
+    <component base="o.alt"/>
+    <component base="ogonekcomb" xOffset="24"/>
+    <contour>
+      <point x="143" y="-226" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

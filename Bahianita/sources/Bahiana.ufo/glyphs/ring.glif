@@ -4,41 +4,35 @@
   <unicode hex="02DA"/>
   <outline>
     <contour>
-      <point x="169" y="793" type="line"/>
-      <point x="169" y="902" type="line"/>
-      <point x="30" y="902" type="line"/>
-      <point x="30" y="767" type="line"/>
-      <point x="144" y="767" type="line"/>
+      <point x="30" y="639" type="line"/>
+      <point x="144" y="639" type="line"/>
+      <point x="169" y="665" type="line"/>
+      <point x="169" y="774" type="line"/>
+      <point x="30" y="774" type="line"/>
     </contour>
     <contour>
-      <point x="127" y="804"/>
-      <point x="125" y="802"/>
-      <point x="120" y="802" type="curve"/>
-      <point x="79" y="802" type="line" smooth="yes"/>
-      <point x="75" y="802"/>
-      <point x="73" y="803"/>
-      <point x="73" y="806" type="curve" smooth="yes"/>
-      <point x="73" y="872" type="line" smooth="yes"/>
-      <point x="73" y="874"/>
-      <point x="76" y="875"/>
-      <point x="81" y="875" type="curve"/>
-      <point x="121" y="870" type="line"/>
-      <point x="125" y="868"/>
-      <point x="127" y="866"/>
-      <point x="127" y="864" type="curve" smooth="yes"/>
-      <point x="127" y="808" type="line" smooth="yes"/>
+      <point x="79" y="674" type="line" smooth="yes"/>
+      <point x="75" y="674"/>
+      <point x="73" y="675"/>
+      <point x="73" y="678" type="curve" smooth="yes"/>
+      <point x="73" y="744" type="line" smooth="yes"/>
+      <point x="73" y="746"/>
+      <point x="76" y="747"/>
+      <point x="81" y="747" type="curve"/>
+      <point x="121" y="742" type="line"/>
+      <point x="125" y="740"/>
+      <point x="127" y="738"/>
+      <point x="127" y="736" type="curve" smooth="yes"/>
+      <point x="127" y="680" type="line" smooth="yes"/>
+      <point x="127" y="676"/>
+      <point x="125" y="674"/>
+      <point x="120" y="674" type="curve"/>
     </contour>
     <contour>
-      <point x="95" y="900" type="move" name="top"/>
+      <point x="100" y="582" type="move" name="_top"/>
     </contour>
     <contour>
-      <point x="95" y="710" type="move" name="_top"/>
+      <point x="100" y="762" type="move" name="top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-10-17 19:37:26 +0000</string>
-    </dict>
-  </lib>
 </glyph>

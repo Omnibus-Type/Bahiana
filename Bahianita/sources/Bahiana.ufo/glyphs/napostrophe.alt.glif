@@ -3,12 +3,10 @@
   <advance width="353"/>
   <outline>
     <component base="n.alt" xOffset="60"/>
-    <component base="uni02BC" xOffset="-43" yOffset="-31"/>
+    <component base="apostrophemod" xOffset="-33" yOffset="-1"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-10-27 23:49:52 +0000</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
@@ -25,7 +23,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>uni02BC</string>
+          <string>apostrophemod</string>
         </dict>
       </array>
     </dict>

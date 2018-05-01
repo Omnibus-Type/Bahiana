@@ -4,21 +4,19 @@
   <unicode hex="0176"/>
   <outline>
     <component base="Y"/>
-    <component base="circumflex" xOffset="10"/>
+    <component base="circumflexcomb.case" xOffset="30" yOffset="128"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-10-28 14:52:52 +0000</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
           <key>alignment</key>
-          <integer>1</integer>
+          <true/>
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>circumflex</string>
+          <string>circumflexcomb.case</string>
         </dict>
       </array>
     </dict>

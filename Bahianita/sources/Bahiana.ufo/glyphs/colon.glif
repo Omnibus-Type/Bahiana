@@ -10,16 +10,10 @@
       <point x="60" y="490" type="line"/>
     </contour>
     <contour>
-      <point x="156" y="96" type="line"/>
-      <point x="60" y="92" type="line"/>
       <point x="60" y="0" type="line"/>
       <point x="152" y="0" type="line"/>
+      <point x="156" y="96" type="line"/>
+      <point x="60" y="92" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-10-28 15:26:01 +0000</string>
-    </dict>
-  </lib>
 </glyph>

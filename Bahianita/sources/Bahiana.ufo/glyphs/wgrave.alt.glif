@@ -3,12 +3,6 @@
   <advance width="404"/>
   <outline>
     <component base="w.alt"/>
-    <component base="gravecomb" xOffset="107" yOffset="-128"/>
+    <component base="gravecomb" xOffset="127"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-10-28 15:26:50 +0000</string>
-    </dict>
-  </lib>
 </glyph>

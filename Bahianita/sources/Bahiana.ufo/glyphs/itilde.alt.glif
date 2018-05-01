@@ -2,13 +2,7 @@
 <glyph name="itilde.alt" format="1">
   <advance width="167"/>
   <outline>
-    <component base="dotlessi.alt"/>
-    <component base="tilde" xOffset="-79" yOffset="-128"/>
+    <component base="idotless.alt"/>
+    <component base="tildecomb" xOffset="-25"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-10-28 03:02:47 +0000</string>
-    </dict>
-  </lib>
 </glyph>

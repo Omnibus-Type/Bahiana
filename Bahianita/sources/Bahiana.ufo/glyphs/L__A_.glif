@@ -3,6 +3,7 @@
   <advance width="441"/>
   <outline>
     <contour>
+      <point x="338" y="140" type="line"/>
       <point x="386" y="140" type="line"/>
       <point x="386" y="710" type="line"/>
       <point x="223" y="710" type="line"/>
@@ -10,13 +11,22 @@
       <point x="233" y="250" type="line"/>
       <point x="266" y="423" type="line"/>
       <point x="312" y="423" type="line"/>
-      <point x="338" y="140" type="line"/>
     </contour>
     <contour>
-      <point x="328" y="466" type="line"/>
-      <point x="328" y="462"/>
-      <point x="326" y="460"/>
-      <point x="322" y="460" type="curve"/>
+      <point x="48" y="0" type="line"/>
+      <point x="391" y="13" type="line"/>
+      <point x="383" y="84" type="line"/>
+      <point x="48" y="84" type="line"/>
+    </contour>
+    <contour>
+      <point x="49" y="140" type="line"/>
+      <point x="241" y="140" type="line"/>
+      <point x="241" y="204" type="line"/>
+      <point x="110" y="217" type="line"/>
+      <point x="131" y="710" type="line"/>
+      <point x="49" y="710" type="line"/>
+    </contour>
+    <contour>
       <point x="282" y="460" type="line"/>
       <point x="278" y="460"/>
       <point x="276" y="462"/>
@@ -29,26 +39,10 @@
       <point x="326" y="683"/>
       <point x="328" y="681"/>
       <point x="328" y="677" type="curve"/>
-    </contour>
-    <contour>
-      <point x="241" y="140" type="line"/>
-      <point x="241" y="204" type="line"/>
-      <point x="110" y="217" type="line"/>
-      <point x="131" y="710" type="line"/>
-      <point x="49" y="710" type="line"/>
-      <point x="49" y="140" type="line"/>
-    </contour>
-    <contour>
-      <point x="48" y="84" type="line"/>
-      <point x="48" y="0" type="line"/>
-      <point x="391" y="13" type="line"/>
-      <point x="383" y="84" type="line"/>
+      <point x="328" y="466" type="line"/>
+      <point x="328" y="462"/>
+      <point x="326" y="460"/>
+      <point x="322" y="460" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-11-09 02:33:27 +0000</string>
-    </dict>
-  </lib>
 </glyph>

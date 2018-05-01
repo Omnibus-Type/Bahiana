@@ -2,18 +2,6 @@
 <glyph name="Dcroat.alt" format="1">
   <advance width="315"/>
   <outline>
-    <contour>
-      <point x="177" y="338" type="line"/>
-      <point x="177" y="387" type="line"/>
-      <point x="8" y="396" type="line"/>
-      <point x="11" y="338" type="line"/>
-    </contour>
-    <component base="D.alt"/>
+    <component base="Eth.alt"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-10-28 14:06:07 +0000</string>
-    </dict>
-  </lib>
 </glyph>

@@ -3,13 +3,7 @@
   <advance width="163"/>
   <unicode hex="00EF"/>
   <outline>
-    <component base="dotlessi"/>
-    <component base="dieresis" xOffset="-62" yOffset="-128"/>
+    <component base="idotless"/>
+    <component base="dieresiscomb" xOffset="-29"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-10-28 20:31:02 +0000</string>
-    </dict>
-  </lib>
 </glyph>

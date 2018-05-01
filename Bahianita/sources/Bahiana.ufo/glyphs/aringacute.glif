@@ -4,30 +4,20 @@
   <unicode hex="01FB"/>
   <outline>
     <component base="a"/>
-    <component base="uni030A" xOffset="39" yOffset="-155"/>
-    <component base="acutecomb" xOffset="-290" yOffset="98" xScale="0.906" yScale="0.906" xyScale="-0.423" yxScale="0.423"/>
+    <component base="ringcomb" xOffset="69"/>
+    <component base="acutecomb" xOffset="83" yOffset="172"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-10-28 20:31:02 +0000</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
           <key>alignment</key>
           <integer>-1</integer>
           <key>index</key>
-          <integer>1</integer>
+          <integer>0</integer>
           <key>name</key>
-          <string>uni030A</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>2</integer>
-          <key>name</key>
-          <string>acutecomb</string>
+          <string>a</string>
         </dict>
       </array>
     </dict>

@@ -41,6 +41,10 @@ This information should be distributed along with the Bahiana fonts and any deri
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
+**01 May 2018 Bahiana v1,007**
+- Updated underline
+– Expanded set to GF_Latin plus
+
 **21 May 2017 Bahiana v1.006**
 - Added lowercases
 - Expanded character repertoire

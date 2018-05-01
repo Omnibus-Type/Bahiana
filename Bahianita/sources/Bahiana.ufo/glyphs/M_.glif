@@ -4,7 +4,6 @@
   <unicode hex="004D"/>
   <outline>
     <contour>
-      <point x="24" y="710" type="line"/>
       <point x="24" y="-20" type="line"/>
       <point x="76" y="-20" type="line"/>
       <point x="76" y="610" type="line"/>
@@ -20,12 +19,7 @@
       <point x="172" y="332" type="line"/>
       <point x="166" y="332" type="line"/>
       <point x="114" y="710" type="line"/>
+      <point x="24" y="710" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-10-14 20:26:44 +0000</string>
-    </dict>
-  </lib>
 </glyph>

@@ -3,12 +3,6 @@
   <advance width="320"/>
   <outline>
     <component base="N.alt"/>
-    <component base="acute.loclPLK" xOffset="118"/>
+    <component base="acute.loclPLK" xOffset="148" yOffset="128"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-10-27 23:49:52 +0000</string>
-    </dict>
-  </lib>
 </glyph>

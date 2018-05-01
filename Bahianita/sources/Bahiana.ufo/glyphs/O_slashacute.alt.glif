@@ -3,6 +3,9 @@
   <advance width="303"/>
   <outline>
     <contour>
+      <point x="61" y="-88" type="line"/>
+      <point x="84" y="0" type="line"/>
+      <point x="203" y="0" type="line" smooth="yes"/>
       <point x="243" y="0"/>
       <point x="257" y="14"/>
       <point x="257" y="37" type="curve"/>
@@ -18,33 +21,24 @@
       <point x="44" y="685" type="curve" smooth="yes"/>
       <point x="53" y="58" type="line"/>
       <point x="18" y="-72" type="line"/>
-      <point x="61" y="-88" type="line"/>
-      <point x="84" y="0" type="line"/>
-      <point x="203" y="0" type="line" smooth="yes"/>
     </contour>
     <contour>
+      <point x="127" y="52" type="line"/>
+      <point x="118" y="61" type="line"/>
+      <point x="116" y="122" type="line"/>
+      <point x="193" y="419" type="line"/>
+      <point x="200" y="77" type="line"/>
+    </contour>
+    <contour>
+      <point x="111" y="272" type="line"/>
+      <point x="99" y="643" type="line" smooth="yes"/>
       <point x="99" y="646"/>
       <point x="102" y="648"/>
       <point x="108" y="649" type="curve"/>
       <point x="181" y="639" type="line"/>
       <point x="190" y="633" type="line"/>
       <point x="190" y="568" type="line"/>
-      <point x="111" y="272" type="line"/>
-      <point x="99" y="643" type="line" smooth="yes"/>
     </contour>
-    <contour>
-      <point x="116" y="122" type="line"/>
-      <point x="193" y="419" type="line"/>
-      <point x="200" y="77" type="line"/>
-      <point x="127" y="52" type="line"/>
-      <point x="118" y="61" type="line"/>
-    </contour>
-    <component base="acute" xOffset="75"/>
+    <component base="acutecomb.case" xOffset="69" yOffset="128"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-10-28 14:07:10 +0000</string>
-    </dict>
-  </lib>
 </glyph>
