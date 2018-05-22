@@ -3,7 +3,7 @@
 **Omnibus-Type**  
 *SIL Open Font License, 1.1*
 
-Bahianita has rustic, fresh and casual look, as if carved in wood. Its structure is ideal for composing condensed titles and short texts. OpenType offers alternative glyphs and programming to avoid repeating equal uppercase or equal numbers. Bahianita offers 490 glyphs and diacritics with support for over 103 Latin languages (including Guarani). Bahianita is a new free font from [Omnibus Type](http://omnibus-type.com/), designed by Daniela Raskovsky and Pablo Cosgaya. 
+Bahianita has rustic, fresh and casual look, as if carved in wood. Its structure is ideal for composing condensed titles and short texts. OpenType offers alternative glyphs and programming to avoid repeating equal uppercase or equal numbers. Bahianita offers 647 characters (1234 glyphs) and diacritics with support for over 103 Latin languages (including Guarani). Bahianita is a new free font from [Omnibus Type](http://omnibus-type.com/), designed by Daniela Raskovsky and Pablo Cosgaya. 
 
 ![Sample of Bahianita.](Bahianita.png "Bahianita")
 
@@ -66,6 +66,11 @@ If you make modifications be sure to add your name (N), email (E), web-address
 **D:** Typeface development
 
 **N:** **Yorlmar Campos**  
+**E:** omnibus.type@gmail.com  
+**W:** http://www.omnibus-type.com  
+**D:** Typeface development  
+
+**N:** **Oscar Guerrero Cañizares**
 **E:** omnibus.type@gmail.com  
 **W:** http://www.omnibus-type.com  
 **D:** Typeface development  
