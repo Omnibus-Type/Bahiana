@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breveinvertedcomb.case" format="1">
+  <advance width="183"/>
+  <outline>
+    <contour>
+      <point x="183" y="621" type="line"/>
+      <point x="183" y="697" type="line"/>
+      <point x="144" y="736" type="line"/>
+      <point x="49" y="736" type="line"/>
+      <point x="4" y="708" type="line"/>
+      <point x="0" y="627" type="line"/>
+      <point x="58" y="627" type="line"/>
+      <point x="53" y="681" type="line"/>
+      <point x="65" y="692" type="line"/>
+      <point x="135" y="685" type="line"/>
+      <point x="132" y="625" type="line"/>
+    </contour>
+    <contour>
+      <point x="91" y="582" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="91" y="756" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

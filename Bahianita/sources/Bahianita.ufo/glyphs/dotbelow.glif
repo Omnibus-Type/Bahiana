@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotbelow" format="1">
+  <advance width="153"/>
+  <outline>
+    <contour>
+      <point x="34" y="-154" type="line"/>
+      <point x="123" y="-151" type="line"/>
+      <point x="123" y="-56" type="line"/>
+      <point x="30" y="-56" type="line"/>
+    </contour>
+    <contour>
+      <point x="75" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="75" y="-226" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

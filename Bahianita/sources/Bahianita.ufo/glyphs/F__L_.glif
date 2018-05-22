@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="F_L" format="1">
+  <advance width="511"/>
+  <outline>
+    <contour>
+      <point x="36" y="0" type="line"/>
+      <point x="121" y="0" type="line"/>
+      <point x="121" y="355" type="line"/>
+      <point x="228" y="373" type="line"/>
+      <point x="228" y="423" type="line"/>
+      <point x="116" y="423" type="line"/>
+      <point x="116" y="624" type="line"/>
+      <point x="309" y="624" type="line"/>
+      <point x="309" y="0" type="line"/>
+      <point x="495" y="0" type="line"/>
+      <point x="495" y="64" type="line"/>
+      <point x="382" y="82" type="line"/>
+      <point x="403" y="710" type="line"/>
+      <point x="59" y="710" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>F</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>L</string>
+    </dict>
+  </lib>
+</glyph>

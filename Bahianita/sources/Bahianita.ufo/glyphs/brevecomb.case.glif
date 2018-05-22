@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevecomb.case" format="1">
+  <advance width="193"/>
+  <outline>
+    <contour>
+      <point x="49" y="646" type="line"/>
+      <point x="154" y="646" type="line"/>
+      <point x="193" y="685" type="line"/>
+      <point x="193" y="748" type="line"/>
+      <point x="147" y="750" type="line"/>
+      <point x="150" y="694" type="line"/>
+      <point x="60" y="699" type="line"/>
+      <point x="48" y="710" type="line"/>
+      <point x="53" y="750" type="line"/>
+      <point x="0" y="750" type="line"/>
+      <point x="4" y="674" type="line"/>
+    </contour>
+    <contour>
+      <point x="98" y="582" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="98" y="712" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

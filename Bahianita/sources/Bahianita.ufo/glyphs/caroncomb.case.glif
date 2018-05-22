@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caroncomb.case" format="1">
+  <advance width="218"/>
+  <outline>
+    <contour>
+      <point x="86" y="631" type="line"/>
+      <point x="132" y="633" type="line"/>
+      <point x="218" y="713" type="line"/>
+      <point x="194" y="747" type="line"/>
+      <point x="112" y="690" type="line"/>
+      <point x="27" y="747" type="line"/>
+      <point x="0" y="713" type="line"/>
+    </contour>
+    <contour>
+      <point x="109" y="582" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="109" y="752" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="apostrophemod" format="1">
+  <advance width="150"/>
+  <unicode hex="02BC"/>
+  <outline>
+    <contour>
+      <point x="90" y="538" type="line"/>
+      <point x="123" y="628" type="line"/>
+      <point x="120" y="710" type="line"/>
+      <point x="39" y="710" type="line"/>
+      <point x="39" y="628" type="line"/>
+      <point x="81" y="628" type="line"/>
+      <point x="35" y="554" type="line"/>
+    </contour>
+    <contour>
+      <point x="75" y="710" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="75" y="900" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

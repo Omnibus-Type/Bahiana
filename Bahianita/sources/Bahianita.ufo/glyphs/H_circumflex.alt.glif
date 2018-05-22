@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hcircumflex.alt" format="1">
+  <advance width="313"/>
+  <outline>
+    <component base="H.alt"/>
+    <component base="circumflexcomb.case" xOffset="65" yOffset="128"/>
+  </outline>
+</glyph>

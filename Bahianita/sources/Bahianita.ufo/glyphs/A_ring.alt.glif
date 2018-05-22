@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aring.alt" format="1">
+  <advance width="294"/>
+  <outline>
+    <component base="A.alt"/>
+    <component base="ringcomb.case" xOffset="76" yOffset="128"/>
+  </outline>
+</glyph>

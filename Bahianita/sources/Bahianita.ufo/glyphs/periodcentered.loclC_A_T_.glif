@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="periodcentered.loclCAT" format="1">
+  <advance width="168"/>
+  <outline>
+    <contour>
+      <point x="50" y="333" type="line"/>
+      <point x="118" y="331" type="line"/>
+      <point x="118" y="403" type="line"/>
+      <point x="51" y="406" type="line"/>
+    </contour>
+    <contour>
+      <point x="83" y="369" type="move" name="_center"/>
+    </contour>
+  </outline>
+</glyph>
