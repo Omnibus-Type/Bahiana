@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LJ.alt" format="1">
-  <advance width="528"/>
-  <outline>
-    <component base="L.alt"/>
-    <component base="J.alt" xOffset="264"/>
-  </outline>
-</glyph>

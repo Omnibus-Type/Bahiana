@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="YgraveloclGUA.alt" format="1">
-  <advance width="252"/>
-  <outline>
-    <component base="YloclGUA.alt"/>
-    <component base="gravecomb.case" xOffset="41" yOffset="128"/>
-  </outline>
-</glyph>

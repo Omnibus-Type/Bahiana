@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ograve.alt" format="1">
-  <advance width="292"/>
-  <outline>
-    <component base="O.alt"/>
-    <component base="gravecomb.case" xOffset="61" yOffset="128"/>
-  </outline>
-</glyph>

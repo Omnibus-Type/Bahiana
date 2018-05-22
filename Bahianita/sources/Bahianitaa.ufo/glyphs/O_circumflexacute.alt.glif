@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ocircumflexacute.alt" format="1">
-  <advance width="292"/>
-  <outline>
-    <component base="O.alt"/>
-    <component base="circumflexcomb.case" xOffset="53" yOffset="128"/>
-    <component base="acutecomb.case" xOffset="79" yOffset="246"/>
-  </outline>
-</glyph>

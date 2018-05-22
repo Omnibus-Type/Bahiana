@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="NJ.alt" format="1">
-  <advance width="584"/>
-  <outline>
-    <component base="N.alt"/>
-    <component base="J.alt" xOffset="320"/>
-  </outline>
-</glyph>

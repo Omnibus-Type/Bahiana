@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="icircumflex.alt" format="1">
-  <advance width="167"/>
-  <outline>
-    <component base="idotless.alt"/>
-    <component base="circumflexcomb" xOffset="-13"/>
-  </outline>
-</glyph>

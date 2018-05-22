@@ -963,7 +963,7 @@ f_l.alt";
 name = Con2;
 }
 );
-copyright = "Copyright 2016 The Bahianita Project Authors (https://github.com/Omnibus-Type/Bahianita)";
+copyright = "Copyright 2018 The Bahianita Project Authors (https://github.com/Omnibus-Type/Bahiana/Bahianita)";
 customParameters = (
 {
 name = trademark;

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Yhookabove.alt" format="1">
-  <advance width="257"/>
-  <outline>
-    <component base="Y.alt"/>
-    <component base="hookabovecomb.case" xOffset="64" yOffset="128"/>
-  </outline>
-</glyph>

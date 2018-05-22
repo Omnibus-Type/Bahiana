@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="yhookaboveloclGUA.alt" format="1">
-  <advance width="292"/>
-  <outline>
-    <component base="yloclGUA.alt"/>
-    <component base="hookabovecomb" xOffset="86"/>
-  </outline>
-</glyph>

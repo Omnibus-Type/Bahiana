@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ecircumflexacute.alt" format="1">
-  <advance width="281"/>
-  <outline>
-    <component base="e.alt"/>
-    <component base="circumflexcomb_acutecomb" xOffset="54"/>
-  </outline>
-</glyph>

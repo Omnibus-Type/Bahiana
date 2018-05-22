@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ebreve.alt" format="1">
-  <advance width="281"/>
-  <outline>
-    <component base="e.alt"/>
-    <component base="brevecomb" xOffset="39"/>
-  </outline>
-</glyph>

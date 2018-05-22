@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ncaron.alt" format="1">
-  <advance width="320"/>
-  <outline>
-    <component base="N.alt"/>
-    <component base="caroncomb.case" xOffset="67" yOffset="128"/>
-  </outline>
-</glyph>

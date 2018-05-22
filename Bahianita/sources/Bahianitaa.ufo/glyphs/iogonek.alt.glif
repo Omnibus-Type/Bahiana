@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="iogonek.alt" format="1">
-  <advance width="167"/>
-  <outline>
-    <component base="idotless.alt"/>
-    <component base="ogonekcomb" xOffset="-38"/>
-  </outline>
-</glyph>

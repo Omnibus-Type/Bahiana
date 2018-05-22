@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Gdotaccent.alt" format="1">
-  <advance width="333"/>
-  <outline>
-    <component base="G.alt"/>
-    <component base="dotaccentcomb.case" xOffset="118" yOffset="128"/>
-  </outline>
-</glyph>

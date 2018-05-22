@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Sdotbelow.alt" format="1">
-  <advance width="273"/>
-  <outline>
-    <component base="S.alt"/>
-    <component base="dotbelowcomb.case" xOffset="85"/>
-  </outline>
-</glyph>

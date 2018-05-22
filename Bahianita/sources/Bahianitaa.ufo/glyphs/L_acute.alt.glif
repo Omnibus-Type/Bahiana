@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Lacute.alt" format="1">
-  <advance width="264"/>
-  <outline>
-    <component base="L.alt"/>
-    <component base="acutecomb.case" xOffset="10" yOffset="128"/>
-  </outline>
-</glyph>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ycircumflex.alt" format="1">
-  <advance width="257"/>
-  <outline>
-    <component base="Y.alt"/>
-    <component base="circumflexcomb.case" xOffset="36" yOffset="128"/>
-  </outline>
-</glyph>

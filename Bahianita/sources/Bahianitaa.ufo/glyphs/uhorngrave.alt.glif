@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uhorngrave.alt" format="1">
-  <advance width="292"/>
-  <outline>
-    <component base="uhorn.alt"/>
-    <component base="gravecomb" xOffset="76"/>
-  </outline>
-</glyph>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="zdotbelow.alt" format="1">
-  <advance width="232"/>
-  <outline>
-    <component base="z.alt"/>
-    <component base="dotbelowcomb" xOffset="72"/>
-  </outline>
-</glyph>

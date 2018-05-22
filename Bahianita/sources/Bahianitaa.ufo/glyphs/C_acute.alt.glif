@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Cacute.alt" format="1">
-  <advance width="314"/>
-  <outline>
-    <component base="C.alt"/>
-    <component base="acutecomb.case" xOffset="107" yOffset="128"/>
-  </outline>
-</glyph>

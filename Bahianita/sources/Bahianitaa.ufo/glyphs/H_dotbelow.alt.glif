@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Hdotbelow.alt" format="1">
-  <advance width="313"/>
-  <outline>
-    <component base="H.alt"/>
-    <component base="dotbelowcomb.case" xOffset="104"/>
-  </outline>
-</glyph>
