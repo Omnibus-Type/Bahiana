@@ -1,11 +1,11 @@
-# Bahiana
+# Bahianita
 
 **Omnibus-Type**  
 *SIL Open Font License, 1.1*
 
-Bahiana has rustic, fresh and casual look, as if carved in wood. Its structure is ideal for composing condensed titles and short texts. All signs are uppercase, but has OpenType offers alternative glyphs and programming to avoid repeating equal uppercase or equal numbers. Bahiana offers 490 glyphs and diacritics with support for over 103 Latin languages (including Guarani). Bahiana is a new free font from [Omnibus Type](http://omnibus-type.com/), designed by Daniela Raskovsky and Pablo Cosgaya. 
+Bahianita has rustic, fresh and casual look, as if carved in wood. Its structure is ideal for composing condensed titles and short texts. OpenType offers alternative glyphs and programming to avoid repeating equal uppercase or equal numbers. Bahianita offers 490 glyphs and diacritics with support for over 103 Latin languages (including Guarani). Bahianita is a new free font from [Omnibus Type](http://omnibus-type.com/), designed by Daniela Raskovsky and Pablo Cosgaya. 
 
-![Sample of Bahiana.](Bahiana.gif "Bahiana")
+![Sample of Bahianita.](Bahianita.png "Bahianita")
 
 To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 
@@ -21,12 +21,12 @@ Copyright (c) 2013-2015, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.c
 Licensed under the [*SIL Open Font License, 1.1*](http://scripts.sil.org/OFL); you may not use this file except in compliance with the License.
 
 ======
-## FONTLOG for the Bahiana fonts
+## FONTLOG for the Bahianita fonts
 
-This file provides detailed information on the Bahiana and Bahiana One font software.  
-This information should be distributed along with the Bahiana fonts and any derivative works.
+This file provides detailed information on the Bahianita font software.  
+This information should be distributed along with the Bahianita fonts and any derivative works.
 
-### Bahiana is a typeface family that supports Unicode language range: 
+### Bahianita is a typeface family that supports Unicode language range: 
 
 * Basic Latin 				  U+0020-U+007E
 * Latin-1 Supplement 		U+00A0-U+00FF
@@ -41,60 +41,9 @@ This information should be distributed along with the Bahiana fonts and any deri
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
-**01 May 2018 Bahiana v1,007**
+**01 May 2018 Bahianita v1,007**
 - Updated underline
 – Expanded set to GF_Latin plus
-
-**21 May 2017 Bahiana v1.006**
-- Added lowercases
-- Expanded character repertoire
-
-**01 Dec 2016 Bahiana v1.005**
-- Updated to latest Google Font spec
-
-**03 Feb 2015 (Omnibus-Type) Bahiana v.1.4**  
-- Removed Reserve Font Name from the license
-- fsType Installable Mode
-- Set Panose values
-- Updates CFF and TTF hinting
-- New Verical Metrics
-
-**26 Dec 2013 (Nicolas Silva) Bahiana v.1.2**
-- Encoding support:
-  - Adobe Latin 3
-- Improved TTF hint (TTFAutohint 0.97)
-
-**8 jun 2013 (Omnibus-Type) Bahiana v.1.1**
-- Initial release under SIL Open Font License, this release supports the following:  
-
-Block              | Range
--------------------|--------------
-Basic Latin        | U+0020-U+007E
-Latin-1 Supplement | U+00A0-U+00FF
-Latin Extended-A   | U+0100-U+017F
-
-
-- Character map to support MS Codepages:  
-  - 1252 Latin-1
-  - 1250 Latin-2 (Easter Europe)
-  - 1254 Turkish
-  - 1257 Windows Baltic
-  - Mac Roman
-- Features in OT Tables:
-  - GSUB:
-    * **aalt** Access All Alternatives
-    * **locl** Localized Forms
-    * **sups** SuperScript
-    * **frac** Diagonal Fractions
-    * **ordn** Ordinals
-    * **calt** Contextual Alternatives
-    * **liga** Standar Ligatures
-    * **ss01** Style Set 1
-    * **salt** Stylistic Alternatives
-      * Single Substitution
-      * Ligature Substitution
-  - GPOS:
-    * **cpsp** Capital Spacing
 
 ### Acknowledgements
 
