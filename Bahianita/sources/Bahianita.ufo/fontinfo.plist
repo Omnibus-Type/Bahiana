@@ -7,7 +7,7 @@
 	<key>capHeight</key>
 	<integer>710</integer>
 	<key>copyright</key>
-	<string>Copyright 2018 The Bahianita Project Authors (https://github.com/Omnibus-Type/Bahiana/Bahianita)</string>
+	<string>Copyright (c) 2019, The Bahianita Project Authors (https://github.com/Omnibus-Type/Bahiana/Bahianita)</string>
 	<key>descender</key>
 	<integer>-238</integer>
 	<key>familyName</key>
@@ -58,11 +58,11 @@
 	<array>
 	</array>
 	<key>openTypeOS2TypoAscender</key>
-	<integer>762</integer>
+	<integer>962</integer>
 	<key>openTypeOS2TypoDescender</key>
 	<integer>-238</integer>
 	<key>openTypeOS2TypoLineGap</key>
-	<integer>200</integer>
+	<integer>0</integer>
 	<key>openTypeOS2VendorID</key>
 	<string>OMNI</string>
 	<key>openTypeOS2WeightClass</key>
@@ -70,9 +70,9 @@
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>openTypeOS2WinAscent</key>
-	<integer>962</integer>
+	<integer>1007</integer>
 	<key>openTypeOS2WinDescent</key>
-	<integer>238</integer>
+	<integer>330</integer>
 	<key>postscriptBlueValues</key>
 	<array>
 		<integer>-155</integer>

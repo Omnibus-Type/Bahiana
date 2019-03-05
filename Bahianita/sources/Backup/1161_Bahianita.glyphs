@@ -1,5 +1,5 @@
 {
-.appVersion = "1216";
+.appVersion = "1161";
 classes = (
 {
 automatic = 1;
@@ -963,7 +963,7 @@ f_l.alt";
 name = Con2;
 }
 );
-copyright = "Copyright (c) 2019, The Bahianita Project Authors (https://github.com/Omnibus-Type/Bahiana/Bahianita)";
+copyright = "Copyright 2018 The Bahianita Project Authors (https://github.com/Omnibus-Type/Bahiana/Bahianita)";
 customParameters = (
 {
 name = trademark;

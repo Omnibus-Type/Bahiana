@@ -11,8 +11,8 @@ Bahiana has rustic, fresh and casual look, as if carved in wood. Its structure i
 ChangeLog
 
 01 May 2018 Bahiana v1.007
-- Updated underline
-– Expanded set to GF_Latin plus
+- Updated to GF Latin Plus set
+- Supports 219 Latin languages used in 212 countries
 
 21 May 2017 Bahiana v1.006
 - Added lowercases
@@ -70,7 +70,7 @@ If you make modifications be sure to add your name (N),
 email (E), web-address (if you have one) (W) and 
 description (D). This list is in alphabetical order.
 
-N: Nicolas Silva
+N: Nicolás Silva
 E: omnibus.type@gmail.com
 W: http://www.omnibus-type.com
 D: Typeface development

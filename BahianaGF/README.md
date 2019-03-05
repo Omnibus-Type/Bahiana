@@ -16,7 +16,7 @@ To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 
 ### License
 
-Copyright (c) 2013-2015, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com).
+Copyright (c) 2018, Omnibus-Type (www.omnibus-type.com | omnibus.type@gmail.com).
 
 Licensed under the [*SIL Open Font License, 1.1*](http://scripts.sil.org/OFL); you may not use this file except in compliance with the License.
 
@@ -55,7 +55,7 @@ This information should be distributed along with the Bahiana fonts and any deri
 - Updates CFF and TTF hinting
 - New Verical Metrics
 
-**26 Dec 2013 (Nicolas Silva) Bahiana v.1.2**
+**26 Dec 2013 (Omnibus-Type) Bahiana v.1.2**
 - Encoding support:
   - Adobe Latin 3
 - Improved TTF hint (TTFAutohint 0.97)
@@ -102,13 +102,17 @@ If you make modifications be sure to add your name (N), email (E), web-address
 **W:** http://www.omnibus-type.com  
 **D:** Designer
 
+**N:** **Nicolás Silva**  
+**E:** omnibus.type@gmail.com  
+**W:** http://www.omnibus-type.com  
+**D:** Typeface development
+
 **N:** **Pablo Cosgaya**  
 **E:** omnibus.type@gmail.com  
 **W:** http://www.omnibus-type.com  
 **D:** Designer
 
-**N:** **Nicolas Silva**  
+**N:** **Yorlmar Campos**  
 **E:** omnibus.type@gmail.com  
 **W:** http://www.omnibus-type.com  
-**D:** Typeface development  
-
+**D:** Typeface development

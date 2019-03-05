@@ -66,7 +66,12 @@ If you make modifications be sure to add your name (N),
 email (E), web-address (if you have one) (W) and 
 description (D). This list is in alphabetical order.
 
-N: Nicolas Silva
+N: Daniela Raskovsky
+E: omnibus.type@gmail.com
+W: http://www.omnibus-type.com
+D: Designer
+
+N: Nicolás Silva
 E: omnibus.type@gmail.com
 W: http://www.omnibus-type.com
 D: Typeface development
@@ -75,8 +80,8 @@ N: Pablo Cosgaya
 E: omnibus.type@gmail.com
 W: http://www.omnibus-type.com
 D: Designer
-
-N: Daniela Raskovsky
+ 
+N: Yorlmar Campos
 E: omnibus.type@gmail.com
 W: http://www.omnibus-type.com
-D: Designer
+D: Typeface development

@@ -9,8 +9,6 @@
 	<false/>
 	<key>com.schriftgestaltung.disablesLastChange</key>
 	<true/>
-	<key>com.schriftgestaltung.font.Disable Last Change</key>
-	<true/>
 	<key>com.schriftgestaltung.font.Use Line Breaks</key>
 	<true/>
 	<key>com.schriftgestaltung.font.Use Typo Metrics</key>
@@ -1057,8 +1055,8 @@
 		<string>quotedbl</string>
 		<string>quotesingle</string>
 		<string>quotesingle.loclGUA</string>
-		<string>leftanglebracket-math</string>
-		<string>rightanglebracket-math</string>
+		<string>leftanglebracket_math</string>
+		<string>rightanglebracket_math</string>
 		<string>emspace</string>
 		<string>enspace</string>
 		<string>fourperemspace</string>
@@ -1134,6 +1132,12 @@
 		<string>lozenge</string>
 		<string>Black_Up_Pointing_Triangle</string>
 		<string>Black_Down_Pointing_Triangle</string>
+		<string>Black_Left_Pointing_Triangle</string>
+		<string>White_Right_Pointing_Triangle</string>
+		<string>White_Left_Pointing_Triangle</string>
+		<string>Black_Right_Pointing_Pointer</string>
+		<string>Black_Right_Pointing_Small</string>
+		<string>Black_Left_Pointing_Small</string>
 		<string>Black_Left_Pointing_Index</string>
 		<string>Black_Right_Pointing_Index</string>
 		<string>Black_Hand_Right</string>
@@ -1260,12 +1264,6 @@
 		<string>yloclGUA.alt</string>
 		<string>ymacronloclGUA.alt</string>
 		<string>zacuteloclPLK.alt</string>
-		<string>White_Right-Pointing_Triangle</string>
-		<string>White_Left-Pointing_Triangle</string>
-		<string>Black_Right-Pointing_Small</string>
-		<string>Black_Left-Pointing_Small</string>
-		<string>Black_Right-Pointing_Pointer</string>
-		<string>Black_Left-Pointing_Triangle</string>
 		<string>empty</string>
 		<string>YdotbelowloclGUA.alt</string>
 		<string>YhookaboveloclGUA.alt</string>

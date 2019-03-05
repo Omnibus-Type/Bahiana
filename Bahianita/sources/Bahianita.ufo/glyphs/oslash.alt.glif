@@ -4,41 +4,41 @@
   <outline>
     <contour>
       <point x="61" y="-63" type="line"/>
-      <point x="82" y="4" type="line"/>
-      <point x="92" y="1"/>
-      <point x="105" y="0"/>
+      <point x="81.935" y="4.146" type="line"/>
+      <point x="92.346" y="1.345"/>
+      <point x="105.249" y="0"/>
       <point x="121" y="0" type="curve" smooth="yes"/>
       <point x="239" y="0" type="line"/>
-      <point x="246" y="530" type="line"/>
+      <point x="245.91" y="530.075" type="line"/>
       <point x="278" y="633" type="line"/>
       <point x="241" y="649" type="line"/>
-      <point x="218" y="577" type="line"/>
-      <point x="207" y="582"/>
-      <point x="194" y="585"/>
+      <point x="217.686" y="576.664" type="line"/>
+      <point x="207.066" y="581.944"/>
+      <point x="194.115" y="585"/>
       <point x="180" y="585" type="curve" smooth="yes"/>
       <point x="109" y="585"/>
       <point x="70" y="577"/>
       <point x="45" y="561" type="curve"/>
       <point x="45" y="56" type="line"/>
-      <point x="46" y="43" type="line"/>
+      <point x="45.818" y="43.412" type="line"/>
       <point x="17" y="-46" type="line"/>
     </contour>
     <contour>
       <point x="169" y="51" type="line"/>
       <point x="106" y="57" type="line"/>
-      <point x="106" y="82" type="line"/>
-      <point x="181" y="323" type="line"/>
+      <point x="106.328" y="82.385" type="line"/>
+      <point x="181.45" y="323.327" type="line"/>
       <point x="178" y="60" type="line"/>
     </contour>
     <contour>
-      <point x="108" y="237" type="line"/>
+      <point x="108.332" y="237.375" type="line"/>
       <point x="112" y="521" type="line"/>
       <point x="121" y="527" type="line"/>
       <point x="175" y="524" type="line"/>
       <point x="184" y="523"/>
       <point x="184" y="521"/>
       <point x="184" y="518" type="curve" smooth="yes"/>
-      <point x="183" y="470" type="line"/>
+      <point x="183.374" y="470.205" type="line"/>
     </contour>
     <contour>
       <point x="143" y="0" type="move" name="bottom"/>
